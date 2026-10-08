@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:01:03.695Z",
+  "updatedAt": "2026-10-08T04:02:55.628Z",
   "problems": [
     {
       "frontendId": "66",
@@ -23,6 +23,26 @@
           "path": "0066-plus-one/0066-plus-one.py",
           "sha": "767764df79cf49039606e84953f1813c4e5a2915",
           "lastSyncedAt": "2026-10-08T04:01:03.695Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3700",
+      "title": "Number of ZigZag Arrays II",
+      "slug": "number-of-zigzag-arrays-ii",
+      "problemName": "3700-number-of-zigzag-arrays-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-zigzag-arrays-ii/",
+      "folderPath": "3700-number-of-zigzag-arrays-ii/",
+      "readmePath": "3700-number-of-zigzag-arrays-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3700-number-of-zigzag-arrays-ii.cpp",
+          "path": "3700-number-of-zigzag-arrays-ii/3700-number-of-zigzag-arrays-ii.cpp",
+          "sha": "a851810ec1bcafb912f96b5f01c4ae59c575efbe",
+          "lastSyncedAt": "2026-10-08T04:02:55.628Z"
         }
       ]
     }

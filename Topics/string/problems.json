@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:04:21.214Z",
+  "updatedAt": "2026-10-08T04:04:58.484Z",
   "problems": [
     {
       "frontendId": "1189",
@@ -103,6 +103,26 @@
           "path": "3614-process-string-with-special-operations-ii/3614-process-string-with-special-operations-ii.cpp",
           "sha": "a31f9a6ece236a20f7521ac5db82cfa30cc305d1",
           "lastSyncedAt": "2026-10-08T04:04:09.183Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "problemName": "3838-weighted-word-mapping",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "folderPath": "3838-weighted-word-mapping/",
+      "readmePath": "3838-weighted-word-mapping/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3838-weighted-word-mapping.cpp",
+          "path": "3838-weighted-word-mapping/3838-weighted-word-mapping.cpp",
+          "sha": "0bb8a581813464a87f1af50db3801175e5b39759",
+          "lastSyncedAt": "2026-10-08T04:04:58.484Z"
         }
       ]
     }

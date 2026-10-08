@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:52:19.405Z",
+  "updatedAt": "2026-10-08T04:52:30.972Z",
   "problems": [
     {
       "frontendId": "27",
@@ -2283,6 +2283,26 @@
           "path": "3225-maximum-score-from-grid-operations/3225-maximum-score-from-grid-operations.cpp",
           "sha": "ae29bc9cd3537c0a7ba1d0bc17a34680aa180a52",
           "lastSyncedAt": "2026-10-08T04:13:42.631Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3289",
+      "title": "The Two Sneaky Numbers of Digitville",
+      "slug": "the-two-sneaky-numbers-of-digitville",
+      "problemName": "3289-the-two-sneaky-numbers-of-digitville",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
+      "folderPath": "3289-the-two-sneaky-numbers-of-digitville/",
+      "readmePath": "3289-the-two-sneaky-numbers-of-digitville/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3289-the-two-sneaky-numbers-of-digitville.cpp",
+          "path": "3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.cpp",
+          "sha": "4edfaa5d54750a2700fa1390b4e46550fea1d547",
+          "lastSyncedAt": "2026-10-08T04:52:30.972Z"
         }
       ]
     },

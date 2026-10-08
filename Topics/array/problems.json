@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:04:58.484Z",
+  "updatedAt": "2026-10-08T04:05:11.456Z",
   "problems": [
     {
       "frontendId": "27",
@@ -283,6 +283,26 @@
           "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.cpp",
           "sha": "d0472f7ff6de8af40ace5b1bee7229246f77a36b",
           "lastSyncedAt": "2026-10-08T04:01:59.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3559",
+      "title": "Number of Ways to Assign Edge Weights II",
+      "slug": "number-of-ways-to-assign-edge-weights-ii",
+      "problemName": "3559-number-of-ways-to-assign-edge-weights-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/",
+      "folderPath": "3559-number-of-ways-to-assign-edge-weights-ii/",
+      "readmePath": "3559-number-of-ways-to-assign-edge-weights-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3559-number-of-ways-to-assign-edge-weights-ii.cpp",
+          "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.cpp",
+          "sha": "426ccf00cd1125784208b53bd9bcb46b418c7aea",
+          "lastSyncedAt": "2026-10-08T04:05:11.456Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-10-08T04:05:11.456Z",
+  "updatedAt": "2026-10-08T04:05:31.197Z",
   "problems": [
     {
       "frontendId": "105",
@@ -43,6 +43,26 @@
           "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.py",
           "sha": "2fc9bad3debfb7a9f592f23bc5c1b2e0f61a44ad",
           "lastSyncedAt": "2026-10-08T04:00:09.392Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3558",
+      "title": "Number of Ways to Assign Edge Weights I",
+      "slug": "number-of-ways-to-assign-edge-weights-i",
+      "problemName": "3558-number-of-ways-to-assign-edge-weights-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/",
+      "folderPath": "3558-number-of-ways-to-assign-edge-weights-i/",
+      "readmePath": "3558-number-of-ways-to-assign-edge-weights-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3558-number-of-ways-to-assign-edge-weights-i.cpp",
+          "path": "3558-number-of-ways-to-assign-edge-weights-i/3558-number-of-ways-to-assign-edge-weights-i.cpp",
+          "sha": "d1d51276637838086dae5e975057f5cd4da523b5",
+          "lastSyncedAt": "2026-10-08T04:05:31.197Z"
         }
       ]
     },

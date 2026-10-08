@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-10-08T04:34:27.248Z",
+  "updatedAt": "2026-10-08T04:40:12.249Z",
   "problems": [
     {
       "frontendId": "1878",
@@ -23,6 +23,26 @@
           "path": "1878-get-biggest-three-rhombus-sums-in-a-grid/1878-get-biggest-three-rhombus-sums-in-a-grid.cpp",
           "sha": "961d889063fd6411d9e8541805bfba102b612e2f",
           "lastSyncedAt": "2026-10-08T04:23:00.513Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2402",
+      "title": "Meeting Rooms III",
+      "slug": "meeting-rooms-iii",
+      "problemName": "2402-meeting-rooms-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-iii/",
+      "folderPath": "2402-meeting-rooms-iii/",
+      "readmePath": "2402-meeting-rooms-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2402-meeting-rooms-iii.cpp",
+          "path": "2402-meeting-rooms-iii/2402-meeting-rooms-iii.cpp",
+          "sha": "3d6f9e40d1d02c75ec75d39424e0017f05420346",
+          "lastSyncedAt": "2026-10-08T04:40:12.249Z"
         }
       ]
     },

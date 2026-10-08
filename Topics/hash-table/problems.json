@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:00:41.751Z",
+  "updatedAt": "2026-10-08T04:01:59.992Z",
   "problems": [
     {
       "frontendId": "105",
@@ -83,6 +83,26 @@
           "path": "1763-longest-nice-substring/1763-longest-nice-substring.py",
           "sha": "10157b3fa3612123f7f14fb671fd3cd4797ed488",
           "lastSyncedAt": "2026-10-08T04:00:25.456Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3020",
+      "title": "Find the Maximum Number of Elements in Subset",
+      "slug": "find-the-maximum-number-of-elements-in-subset",
+      "problemName": "3020-find-the-maximum-number-of-elements-in-subset",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/",
+      "folderPath": "3020-find-the-maximum-number-of-elements-in-subset/",
+      "readmePath": "3020-find-the-maximum-number-of-elements-in-subset/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3020-find-the-maximum-number-of-elements-in-subset.cpp",
+          "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.cpp",
+          "sha": "d0472f7ff6de8af40ace5b1bee7229246f77a36b",
+          "lastSyncedAt": "2026-10-08T04:01:59.992Z"
         }
       ]
     },

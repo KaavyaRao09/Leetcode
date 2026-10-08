@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-10-08T04:24:13.125Z",
+  "updatedAt": "2026-10-08T04:26:06.410Z",
   "problems": [
+    {
+      "frontendId": "1536",
+      "title": "Minimum Swaps to Arrange a Binary Grid",
+      "slug": "minimum-swaps-to-arrange-a-binary-grid",
+      "problemName": "1536-minimum-swaps-to-arrange-a-binary-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/",
+      "folderPath": "1536-minimum-swaps-to-arrange-a-binary-grid/",
+      "readmePath": "1536-minimum-swaps-to-arrange-a-binary-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1536-minimum-swaps-to-arrange-a-binary-grid.cpp",
+          "path": "1536-minimum-swaps-to-arrange-a-binary-grid/1536-minimum-swaps-to-arrange-a-binary-grid.cpp",
+          "sha": "eb9acf4f9cd31572fc07c2629d66654bb37e42ec",
+          "lastSyncedAt": "2026-10-08T04:26:06.410Z"
+        }
+      ]
+    },
     {
       "frontendId": "1665",
       "title": "Minimum Initial Energy to Finish Tasks",

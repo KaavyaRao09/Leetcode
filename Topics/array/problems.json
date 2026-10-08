@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:31:30.601Z",
+  "updatedAt": "2026-10-08T04:31:38.027Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1203,6 +1203,26 @@
           "path": "2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.cpp",
           "sha": "2d3139bdefd53549150a3e73022a7fe22dd157e8",
           "lastSyncedAt": "2026-10-08T04:20:37.319Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3013",
+      "title": "Divide an Array Into Subarrays With Minimum Cost II",
+      "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+      "problemName": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/",
+      "folderPath": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii/",
+      "readmePath": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii.cpp",
+          "path": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii/3013-divide-an-array-into-subarrays-with-minimum-cost-ii.cpp",
+          "sha": "d4b4672a4ccefdf29d8025e9f5367263cc0428e2",
+          "lastSyncedAt": "2026-10-08T04:31:38.027Z"
         }
       ]
     },

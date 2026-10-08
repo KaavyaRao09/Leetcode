@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:44:04.279Z",
+  "updatedAt": "2026-10-08T04:44:32.434Z",
   "problems": [
     {
       "frontendId": "27",
@@ -2363,6 +2363,26 @@
           "path": "3577-count-the-number-of-computer-unlocking-permutations/3577-count-the-number-of-computer-unlocking-permutations.cpp",
           "sha": "862e3052409caa0a58824e3365072968a5a3b683",
           "lastSyncedAt": "2026-10-08T04:43:48.336Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3578",
+      "title": "Count Partitions With Max-Min Difference at Most K",
+      "slug": "count-partitions-with-max-min-difference-at-most-k",
+      "problemName": "3578-count-partitions-with-max-min-difference-at-most-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/",
+      "folderPath": "3578-count-partitions-with-max-min-difference-at-most-k/",
+      "readmePath": "3578-count-partitions-with-max-min-difference-at-most-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3578-count-partitions-with-max-min-difference-at-most-k.cpp",
+          "path": "3578-count-partitions-with-max-min-difference-at-most-k/3578-count-partitions-with-max-min-difference-at-most-k.cpp",
+          "sha": "9ce933a0f0df0e489d2ad05c870e6cd658e7fd50",
+          "lastSyncedAt": "2026-10-08T04:44:32.434Z"
         }
       ]
     },

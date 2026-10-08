@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-08T04:50:44.106Z",
+  "updatedAt": "2026-10-08T04:53:04.488Z",
   "problems": [
     {
       "frontendId": "1292",
@@ -403,6 +403,26 @@
           "path": "3225-maximum-score-from-grid-operations/3225-maximum-score-from-grid-operations.cpp",
           "sha": "ae29bc9cd3537c0a7ba1d0bc17a34680aa180a52",
           "lastSyncedAt": "2026-10-08T04:13:42.631Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3354",
+      "title": "Make Array Elements Equal to Zero",
+      "slug": "make-array-elements-equal-to-zero",
+      "problemName": "3354-make-array-elements-equal-to-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-array-elements-equal-to-zero/",
+      "folderPath": "3354-make-array-elements-equal-to-zero/",
+      "readmePath": "3354-make-array-elements-equal-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3354-make-array-elements-equal-to-zero.cpp",
+          "path": "3354-make-array-elements-equal-to-zero/3354-make-array-elements-equal-to-zero.cpp",
+          "sha": "9b7b4ef8c26d1dcf49e60efce7445e60adc5bc6a",
+          "lastSyncedAt": "2026-10-08T04:53:04.488Z"
         }
       ]
     },

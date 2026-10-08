@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:16:23.757Z",
+  "updatedAt": "2026-10-08T04:16:44.823Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1243,6 +1243,26 @@
           "path": "3742-maximum-path-score-in-a-grid/3742-maximum-path-score-in-a-grid.cpp",
           "sha": "cb83dd3bca436a9ab98829f1cd50316b6d2d0fd9",
           "lastSyncedAt": "2026-10-08T04:13:31.716Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3761",
+      "title": "Minimum Absolute Distance Between Mirror Pairs",
+      "slug": "minimum-absolute-distance-between-mirror-pairs",
+      "problemName": "3761-minimum-absolute-distance-between-mirror-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/",
+      "folderPath": "3761-minimum-absolute-distance-between-mirror-pairs/",
+      "readmePath": "3761-minimum-absolute-distance-between-mirror-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3761-minimum-absolute-distance-between-mirror-pairs.cpp",
+          "path": "3761-minimum-absolute-distance-between-mirror-pairs/3761-minimum-absolute-distance-between-mirror-pairs.cpp",
+          "sha": "68be32c69f6b716dae66e0ee9c639007cef44233",
+          "lastSyncedAt": "2026-10-08T04:16:44.823Z"
         }
       ]
     },

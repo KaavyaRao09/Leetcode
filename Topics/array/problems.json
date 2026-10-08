@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:53:16.270Z",
+  "updatedAt": "2026-10-08T04:53:29.184Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1363,6 +1363,26 @@
           "path": "2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.cpp",
           "sha": "fc49a116e7685600185e2fb5732b263f8c227e2d",
           "lastSyncedAt": "2026-10-08T04:14:02.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2043",
+      "title": "Simple Bank System",
+      "slug": "simple-bank-system",
+      "problemName": "2043-simple-bank-system",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/simple-bank-system/",
+      "folderPath": "2043-simple-bank-system/",
+      "readmePath": "2043-simple-bank-system/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2043-simple-bank-system.cpp",
+          "path": "2043-simple-bank-system/2043-simple-bank-system.cpp",
+          "sha": "f29586dbcf611b106c4564fa9d8e82d3f529a903",
+          "lastSyncedAt": "2026-10-08T04:53:29.184Z"
         }
       ]
     },

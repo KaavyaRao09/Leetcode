@@ -4,8 +4,28 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-10-08T04:15:03.172Z",
+  "updatedAt": "2026-10-08T04:35:36.097Z",
   "problems": [
+    {
+      "frontendId": "3047",
+      "title": "Find the Largest Area of Square Inside Two Rectangles",
+      "slug": "find-the-largest-area-of-square-inside-two-rectangles",
+      "problemName": "3047-find-the-largest-area-of-square-inside-two-rectangles",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/",
+      "folderPath": "3047-find-the-largest-area-of-square-inside-two-rectangles/",
+      "readmePath": "3047-find-the-largest-area-of-square-inside-two-rectangles/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3047-find-the-largest-area-of-square-inside-two-rectangles.cpp",
+          "path": "3047-find-the-largest-area-of-square-inside-two-rectangles/3047-find-the-largest-area-of-square-inside-two-rectangles.cpp",
+          "sha": "60fc68203e7c0db3272edad3a342dfd4aa4e23bf",
+          "lastSyncedAt": "2026-10-08T04:35:36.097Z"
+        }
+      ]
+    },
     {
       "frontendId": "3464",
       "title": "Maximize the Distance Between Points on a Square",

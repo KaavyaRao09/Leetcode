@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-10-08T04:10:25.293Z",
+  "updatedAt": "2026-10-08T04:11:57.392Z",
   "problems": [
     {
       "frontendId": "1306",
@@ -43,6 +43,26 @@
           "path": "1345-jump-game-iv/1345-jump-game-iv.cpp",
           "sha": "e305c6bc124edf44cb1891b9816654bcad158353",
           "lastSyncedAt": "2026-10-08T04:10:12.016Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3629",
+      "title": "Minimum Jumps to Reach End via Prime Teleportation",
+      "slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+      "problemName": "3629-minimum-jumps-to-reach-end-via-prime-teleportation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/",
+      "folderPath": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/",
+      "readmePath": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3629-minimum-jumps-to-reach-end-via-prime-teleportation.cpp",
+          "path": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/3629-minimum-jumps-to-reach-end-via-prime-teleportation.cpp",
+          "sha": "03be87bfcef9df4eccf2b4e28679017c95820964",
+          "lastSyncedAt": "2026-10-08T04:11:57.392Z"
         }
       ]
     }

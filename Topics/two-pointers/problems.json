@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-08T04:09:59.371Z",
+  "updatedAt": "2026-10-08T04:12:29.624Z",
   "problems": [
     {
       "frontendId": "27",
@@ -23,6 +23,26 @@
           "path": "0027-remove-element/0027-remove-element.py",
           "sha": "43e30a70e6a345e4beb820cb9b52443a6082e152",
           "lastSyncedAt": "2026-10-08T04:01:23.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1861",
+      "title": "Rotating the Box",
+      "slug": "rotating-the-box",
+      "problemName": "1861-rotating-the-box",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotating-the-box/",
+      "folderPath": "1861-rotating-the-box/",
+      "readmePath": "1861-rotating-the-box/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1861-rotating-the-box.cpp",
+          "path": "1861-rotating-the-box/1861-rotating-the-box.cpp",
+          "sha": "0eb378128007cffc9a739f2ec510fdcee2576bbf",
+          "lastSyncedAt": "2026-10-08T04:12:29.624Z"
         }
       ]
     },

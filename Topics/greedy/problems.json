@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-10-08T04:51:52.900Z",
+  "updatedAt": "2026-10-08T04:52:43.063Z",
   "problems": [
     {
       "frontendId": "757",
@@ -83,6 +83,26 @@
           "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.cpp",
           "sha": "9258d0f6c0070c4ca2dc2e7886e01466a1eb8691",
           "lastSyncedAt": "2026-10-08T04:30:06.254Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1526",
+      "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+      "slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "problemName": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/",
+      "folderPath": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/",
+      "readmePath": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.cpp",
+          "path": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.cpp",
+          "sha": "eedaa8011ba3aa4631b3c18403283ebf11c97bbe",
+          "lastSyncedAt": "2026-10-08T04:52:43.063Z"
         }
       ]
     },

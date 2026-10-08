@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-08T04:48:59.141Z",
+  "updatedAt": "2026-10-08T04:52:08.743Z",
   "problems": [
     {
       "frontendId": "48",
@@ -383,6 +383,26 @@
           "path": "2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.cpp",
           "sha": "fc49a116e7685600185e2fb5732b263f8c227e2d",
           "lastSyncedAt": "2026-10-08T04:14:02.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2257",
+      "title": "Count Unguarded Cells in the Grid",
+      "slug": "count-unguarded-cells-in-the-grid",
+      "problemName": "2257-count-unguarded-cells-in-the-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid/",
+      "folderPath": "2257-count-unguarded-cells-in-the-grid/",
+      "readmePath": "2257-count-unguarded-cells-in-the-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2257-count-unguarded-cells-in-the-grid.cpp",
+          "path": "2257-count-unguarded-cells-in-the-grid/2257-count-unguarded-cells-in-the-grid.cpp",
+          "sha": "856e974f2bb080e48733d968e2ef3de56acce2e2",
+          "lastSyncedAt": "2026-10-08T04:52:08.743Z"
         }
       ]
     },

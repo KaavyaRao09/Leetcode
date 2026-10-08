@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-08T04:19:27.350Z",
+  "updatedAt": "2026-10-08T04:20:19.750Z",
   "problems": [
     {
       "frontendId": "48",
@@ -123,6 +123,26 @@
           "path": "2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.cpp",
           "sha": "fc49a116e7685600185e2fb5732b263f8c227e2d",
           "lastSyncedAt": "2026-10-08T04:14:02.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2573",
+      "title": "Find the String with LCP",
+      "slug": "find-the-string-with-lcp",
+      "problemName": "2573-find-the-string-with-lcp",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-string-with-lcp/",
+      "folderPath": "2573-find-the-string-with-lcp/",
+      "readmePath": "2573-find-the-string-with-lcp/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2573-find-the-string-with-lcp.cpp",
+          "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.cpp",
+          "sha": "011cc7927d2ebdd14f9f939262c8379fa0afd8a3",
+          "lastSyncedAt": "2026-10-08T04:20:19.750Z"
         }
       ]
     },

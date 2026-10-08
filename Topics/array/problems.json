@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:42:30.361Z",
+  "updatedAt": "2026-10-08T04:42:42.497Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1223,6 +1223,26 @@
           "path": "2078-two-furthest-houses-with-different-colors/2078-two-furthest-houses-with-different-colors.cpp",
           "sha": "3c4760b7d4e9cc3e961f6ec3caebf28fba6b8ff2",
           "lastSyncedAt": "2026-10-08T04:16:12.231Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2110",
+      "title": "Number of Smooth Descent Periods of a Stock",
+      "slug": "number-of-smooth-descent-periods-of-a-stock",
+      "problemName": "2110-number-of-smooth-descent-periods-of-a-stock",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/",
+      "folderPath": "2110-number-of-smooth-descent-periods-of-a-stock/",
+      "readmePath": "2110-number-of-smooth-descent-periods-of-a-stock/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2110-number-of-smooth-descent-periods-of-a-stock.cpp",
+          "path": "2110-number-of-smooth-descent-periods-of-a-stock/2110-number-of-smooth-descent-periods-of-a-stock.cpp",
+          "sha": "033612ac3d0fe28f1af6007f2d72fb6727aca13d",
+          "lastSyncedAt": "2026-10-08T04:42:42.497Z"
         }
       ]
     },

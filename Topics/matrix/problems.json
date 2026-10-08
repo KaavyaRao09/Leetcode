@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-08T04:23:00.513Z",
+  "updatedAt": "2026-10-08T04:25:45.467Z",
   "problems": [
     {
       "frontendId": "48",
@@ -63,6 +63,26 @@
           "path": "1559-detect-cycles-in-2d-grid/1559-detect-cycles-in-2d-grid.cpp",
           "sha": "0fb0805afd3da669c358a475f61ae01baf4b1184",
           "lastSyncedAt": "2026-10-08T04:14:42.181Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1582",
+      "title": "Special Positions in a Binary Matrix",
+      "slug": "special-positions-in-a-binary-matrix",
+      "problemName": "1582-special-positions-in-a-binary-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/special-positions-in-a-binary-matrix/",
+      "folderPath": "1582-special-positions-in-a-binary-matrix/",
+      "readmePath": "1582-special-positions-in-a-binary-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1582-special-positions-in-a-binary-matrix.cpp",
+          "path": "1582-special-positions-in-a-binary-matrix/1582-special-positions-in-a-binary-matrix.cpp",
+          "sha": "9679298859fed34503cf62f729c497aa974144f4",
+          "lastSyncedAt": "2026-10-08T04:25:45.467Z"
         }
       ]
     },

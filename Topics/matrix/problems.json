@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-08T04:52:08.743Z",
+  "updatedAt": "2026-10-08T04:53:16.270Z",
   "problems": [
     {
       "frontendId": "48",
@@ -383,6 +383,26 @@
           "path": "2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.cpp",
           "sha": "fc49a116e7685600185e2fb5732b263f8c227e2d",
           "lastSyncedAt": "2026-10-08T04:14:02.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2125",
+      "title": "Number of Laser Beams in a Bank",
+      "slug": "number-of-laser-beams-in-a-bank",
+      "problemName": "2125-number-of-laser-beams-in-a-bank",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-laser-beams-in-a-bank/",
+      "folderPath": "2125-number-of-laser-beams-in-a-bank/",
+      "readmePath": "2125-number-of-laser-beams-in-a-bank/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2125-number-of-laser-beams-in-a-bank.cpp",
+          "path": "2125-number-of-laser-beams-in-a-bank/2125-number-of-laser-beams-in-a-bank.cpp",
+          "sha": "9b44aab900e2b38a7149a0ea680ae9f900116704",
+          "lastSyncedAt": "2026-10-08T04:53:16.270Z"
         }
       ]
     },

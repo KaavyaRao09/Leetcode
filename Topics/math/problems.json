@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:26:36.192Z",
+  "updatedAt": "2026-10-08T04:27:53.446Z",
   "problems": [
     {
       "frontendId": "48",
@@ -63,6 +63,26 @@
           "path": "0396-rotate-function/0396-rotate-function.cpp",
           "sha": "a38a612e747e3c03d9a2d450785d7482a4cbe547",
           "lastSyncedAt": "2026-10-08T04:13:21.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "762",
+      "title": "Prime Number of Set Bits in Binary Representation",
+      "slug": "prime-number-of-set-bits-in-binary-representation",
+      "problemName": "0762-prime-number-of-set-bits-in-binary-representation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/",
+      "folderPath": "0762-prime-number-of-set-bits-in-binary-representation/",
+      "readmePath": "0762-prime-number-of-set-bits-in-binary-representation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0762-prime-number-of-set-bits-in-binary-representation.cpp",
+          "path": "0762-prime-number-of-set-bits-in-binary-representation/0762-prime-number-of-set-bits-in-binary-representation.cpp",
+          "sha": "dd7f1bc82cea92a58ac86206a676e533961cb36a",
+          "lastSyncedAt": "2026-10-08T04:27:53.446Z"
         }
       ]
     },

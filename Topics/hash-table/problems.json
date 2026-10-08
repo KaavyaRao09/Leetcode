@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:11:57.392Z",
+  "updatedAt": "2026-10-08T04:15:32.331Z",
   "problems": [
     {
       "frontendId": "105",
@@ -183,6 +183,26 @@
           "path": "2540-minimum-common-value/2540-minimum-common-value.cpp",
           "sha": "d84996c286f43b9b1dc75b9612d7b2f3bcf23db0",
           "lastSyncedAt": "2026-10-08T04:09:59.371Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2615",
+      "title": "Sum of Distances",
+      "slug": "sum-of-distances",
+      "problemName": "2615-sum-of-distances",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-distances/",
+      "folderPath": "2615-sum-of-distances/",
+      "readmePath": "2615-sum-of-distances/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2615-sum-of-distances.cpp",
+          "path": "2615-sum-of-distances/2615-sum-of-distances.cpp",
+          "sha": "f67ed695629594ada5145f5fafd2e05b747fd764",
+          "lastSyncedAt": "2026-10-08T04:15:32.331Z"
         }
       ]
     },

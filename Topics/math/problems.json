@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:35:36.097Z",
+  "updatedAt": "2026-10-08T04:36:39.514Z",
   "problems": [
     {
       "frontendId": "48",
@@ -123,6 +123,26 @@
           "path": "0788-rotated-digits/0788-rotated-digits.cpp",
           "sha": "c87cce7fed08a071b091eed5a2161e59cb58ee21",
           "lastSyncedAt": "2026-10-08T04:13:12.997Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1266",
+      "title": "Minimum Time Visiting All Points",
+      "slug": "minimum-time-visiting-all-points",
+      "problemName": "1266-minimum-time-visiting-all-points",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-visiting-all-points/",
+      "folderPath": "1266-minimum-time-visiting-all-points/",
+      "readmePath": "1266-minimum-time-visiting-all-points/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1266-minimum-time-visiting-all-points.cpp",
+          "path": "1266-minimum-time-visiting-all-points/1266-minimum-time-visiting-all-points.cpp",
+          "sha": "ebc1c91d35054afdf14e40af6f6cb5ba9848a46f",
+          "lastSyncedAt": "2026-10-08T04:36:39.514Z"
         }
       ]
     },

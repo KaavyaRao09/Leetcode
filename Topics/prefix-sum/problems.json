@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-08T04:47:46.893Z",
+  "updatedAt": "2026-10-08T04:48:59.141Z",
   "problems": [
     {
       "frontendId": "1292",
@@ -203,6 +203,26 @@
           "path": "2483-minimum-penalty-for-a-shop/2483-minimum-penalty-for-a-shop.cpp",
           "sha": "f727dd6b020b75dae1e4579a58be604c45a32092",
           "lastSyncedAt": "2026-10-08T04:40:28.134Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2536",
+      "title": "Increment Submatrices by One",
+      "slug": "increment-submatrices-by-one",
+      "problemName": "2536-increment-submatrices-by-one",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/increment-submatrices-by-one/",
+      "folderPath": "2536-increment-submatrices-by-one/",
+      "readmePath": "2536-increment-submatrices-by-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2536-increment-submatrices-by-one.cpp",
+          "path": "2536-increment-submatrices-by-one/2536-increment-submatrices-by-one.cpp",
+          "sha": "ff8d53fa0f39ae763d8bc3e91cbfece87853d7fc",
+          "lastSyncedAt": "2026-10-08T04:48:59.141Z"
         }
       ]
     },

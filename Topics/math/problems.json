@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:47:36.606Z",
+  "updatedAt": "2026-10-08T04:48:42.025Z",
   "problems": [
     {
       "frontendId": "48",
@@ -223,6 +223,26 @@
           "path": "1390-four-divisors/1390-four-divisors.cpp",
           "sha": "c222d36ae80c37286abe1e82bba69c2ac50173b7",
           "lastSyncedAt": "2026-10-08T04:38:37.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1513",
+      "title": "Number of Substrings With Only 1s",
+      "slug": "number-of-substrings-with-only-1s",
+      "problemName": "1513-number-of-substrings-with-only-1s",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-with-only-1s/",
+      "folderPath": "1513-number-of-substrings-with-only-1s/",
+      "readmePath": "1513-number-of-substrings-with-only-1s/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1513-number-of-substrings-with-only-1s.cpp",
+          "path": "1513-number-of-substrings-with-only-1s/1513-number-of-substrings-with-only-1s.cpp",
+          "sha": "c0e1a7feab5f122d03631f01e94f9effdd4ed3f0",
+          "lastSyncedAt": "2026-10-08T04:48:42.025Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-08T04:18:17.470Z",
+  "updatedAt": "2026-10-08T04:18:29.827Z",
   "problems": [
     {
       "frontendId": "1914",
@@ -23,6 +23,26 @@
           "path": "1914-cyclically-rotating-a-grid/1914-cyclically-rotating-a-grid.cpp",
           "sha": "5d3cd553da6870f491c8de830556e72d8553623f",
           "lastSyncedAt": "2026-10-08T04:11:45.476Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2069",
+      "title": "Walking Robot Simulation II",
+      "slug": "walking-robot-simulation-ii",
+      "problemName": "2069-walking-robot-simulation-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/walking-robot-simulation-ii/",
+      "folderPath": "2069-walking-robot-simulation-ii/",
+      "readmePath": "2069-walking-robot-simulation-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2069-walking-robot-simulation-ii.cpp",
+          "path": "2069-walking-robot-simulation-ii/2069-walking-robot-simulation-ii.cpp",
+          "sha": "a1c1d38c555ef205290d4ff10af75594d3562465",
+          "lastSyncedAt": "2026-10-08T04:18:29.827Z"
         }
       ]
     },

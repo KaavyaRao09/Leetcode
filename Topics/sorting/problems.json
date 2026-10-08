@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-08T04:07:44.429Z",
+  "updatedAt": "2026-10-08T04:09:08.974Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,6 +23,26 @@
           "path": "0169-majority-element/0169-majority-element.py",
           "sha": "acd3ee17216b129af1dead300f1c65490a8a50ad",
           "lastSyncedAt": "2026-10-08T03:59:46.753Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1340",
+      "title": "Jump Game V",
+      "slug": "jump-game-v",
+      "problemName": "1340-jump-game-v",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-v/",
+      "folderPath": "1340-jump-game-v/",
+      "readmePath": "1340-jump-game-v/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1340-jump-game-v.cpp",
+          "path": "1340-jump-game-v/1340-jump-game-v.cpp",
+          "sha": "361a3adccfb77e62ec3949397d115a4beccf8d14",
+          "lastSyncedAt": "2026-10-08T04:09:08.974Z"
         }
       ]
     },

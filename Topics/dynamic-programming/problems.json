@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-08T04:24:50.706Z",
+  "updatedAt": "2026-10-08T04:25:03.409Z",
   "problems": [
     {
       "frontendId": "53",
@@ -203,6 +203,26 @@
           "path": "2770-maximum-number-of-jumps-to-reach-the-last-index/2770-maximum-number-of-jumps-to-reach-the-last-index.cpp",
           "sha": "090b64e07a9896b77079850762fef9e765ea8de7",
           "lastSyncedAt": "2026-10-08T04:11:35.133Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3129",
+      "title": "Find All Possible Stable Binary Arrays I",
+      "slug": "find-all-possible-stable-binary-arrays-i",
+      "problemName": "3129-find-all-possible-stable-binary-arrays-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/",
+      "folderPath": "3129-find-all-possible-stable-binary-arrays-i/",
+      "readmePath": "3129-find-all-possible-stable-binary-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3129-find-all-possible-stable-binary-arrays-i.cpp",
+          "path": "3129-find-all-possible-stable-binary-arrays-i/3129-find-all-possible-stable-binary-arrays-i.cpp",
+          "sha": "05d5f8a206ccc5efb3495249dcbda236ba6de262",
+          "lastSyncedAt": "2026-10-08T04:25:03.409Z"
         }
       ]
     },

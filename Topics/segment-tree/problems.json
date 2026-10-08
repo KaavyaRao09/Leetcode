@@ -4,8 +4,28 @@
     "slug": "segment-tree",
     "name": "Segment Tree"
   },
-  "updatedAt": "2026-10-08T04:02:36.937Z",
+  "updatedAt": "2026-10-08T04:05:41.339Z",
   "problems": [
+    {
+      "frontendId": "3691",
+      "title": "Maximum Total Subarray Value II",
+      "slug": "maximum-total-subarray-value-ii",
+      "problemName": "3691-maximum-total-subarray-value-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-subarray-value-ii/",
+      "folderPath": "3691-maximum-total-subarray-value-ii/",
+      "readmePath": "3691-maximum-total-subarray-value-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3691-maximum-total-subarray-value-ii.cpp",
+          "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.cpp",
+          "sha": "7cf2c1bd4ed44145f794460973fc93cfcbffe8b8",
+          "lastSyncedAt": "2026-10-08T04:05:41.339Z"
+        }
+      ]
+    },
     {
       "frontendId": "3737",
       "title": "Count Subarrays With Majority Element I",

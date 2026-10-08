@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-08T04:26:59.902Z",
+  "updatedAt": "2026-10-08T04:27:24.284Z",
   "problems": [
     {
       "frontendId": "191",
@@ -83,6 +83,26 @@
           "path": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.cpp",
           "sha": "4e96900924eddabcf0210c19e5a77156018aa009",
           "lastSyncedAt": "2026-10-08T04:26:50.807Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1461",
+      "title": "Check If a String Contains All Binary Codes of Size K",
+      "slug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+      "problemName": "1461-check-if-a-string-contains-all-binary-codes-of-size-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
+      "folderPath": "1461-check-if-a-string-contains-all-binary-codes-of-size-k/",
+      "readmePath": "1461-check-if-a-string-contains-all-binary-codes-of-size-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp",
+          "path": "1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp",
+          "sha": "cb1fc7759cdeb2093373051b6d010b85ab043f4c",
+          "lastSyncedAt": "2026-10-08T04:27:24.284Z"
         }
       ]
     },

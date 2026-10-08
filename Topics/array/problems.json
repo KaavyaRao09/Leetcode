@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:00:51.848Z",
+  "updatedAt": "2026-10-08T04:01:03.695Z",
   "problems": [
     {
       "frontendId": "53",
@@ -23,6 +23,26 @@
           "path": "0053-maximum-subarray/0053-maximum-subarray.py",
           "sha": "19b2d4817db7bb75703873bbcfab54b82d4d38e4",
           "lastSyncedAt": "2026-10-08T04:00:51.848Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0066-plus-one.py",
+          "path": "0066-plus-one/0066-plus-one.py",
+          "sha": "767764df79cf49039606e84953f1813c4e5a2915",
+          "lastSyncedAt": "2026-10-08T04:01:03.695Z"
         }
       ]
     },

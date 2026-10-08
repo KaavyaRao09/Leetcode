@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-08T04:29:08.237Z",
+  "updatedAt": "2026-10-08T04:29:33.935Z",
   "problems": [
     {
       "frontendId": "1658",
@@ -383,6 +383,26 @@
           "path": "3714-longest-balanced-substring-ii/3714-longest-balanced-substring-ii.cpp",
           "sha": "761edc3136bf42e7f9f5f4c90bd17d4b4ec6b9be",
           "lastSyncedAt": "2026-10-08T04:29:08.237Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3721",
+      "title": "Longest Balanced Subarray II",
+      "slug": "longest-balanced-subarray-ii",
+      "problemName": "3721-longest-balanced-subarray-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-subarray-ii/",
+      "folderPath": "3721-longest-balanced-subarray-ii/",
+      "readmePath": "3721-longest-balanced-subarray-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3721-longest-balanced-subarray-ii.cpp",
+          "path": "3721-longest-balanced-subarray-ii/3721-longest-balanced-subarray-ii.cpp",
+          "sha": "723a81b002041cda69a5e33553213135f66fd0ef",
+          "lastSyncedAt": "2026-10-08T04:29:33.935Z"
         }
       ]
     },

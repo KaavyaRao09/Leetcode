@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-08T04:08:54.629Z",
+  "updatedAt": "2026-10-08T04:09:08.974Z",
   "problems": [
     {
       "frontendId": "53",
@@ -23,6 +23,26 @@
           "path": "0053-maximum-subarray/0053-maximum-subarray.py",
           "sha": "19b2d4817db7bb75703873bbcfab54b82d4d38e4",
           "lastSyncedAt": "2026-10-08T04:00:51.848Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1340",
+      "title": "Jump Game V",
+      "slug": "jump-game-v",
+      "problemName": "1340-jump-game-v",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-v/",
+      "folderPath": "1340-jump-game-v/",
+      "readmePath": "1340-jump-game-v/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1340-jump-game-v.cpp",
+          "path": "1340-jump-game-v/1340-jump-game-v.cpp",
+          "sha": "361a3adccfb77e62ec3949397d115a4beccf8d14",
+          "lastSyncedAt": "2026-10-08T04:09:08.974Z"
         }
       ]
     },

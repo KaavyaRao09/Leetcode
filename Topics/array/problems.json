@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:32:56.988Z",
+  "updatedAt": "2026-10-08T04:33:20.041Z",
   "problems": [
     {
       "frontendId": "27",
@@ -283,6 +283,26 @@
           "path": "0874-walking-robot-simulation/0874-walking-robot-simulation.cpp",
           "sha": "69dda39e41cd256cf88813a4c18f6f3150dde0f3",
           "lastSyncedAt": "2026-10-08T04:18:40.710Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1200",
+      "title": "Minimum Absolute Difference",
+      "slug": "minimum-absolute-difference",
+      "problemName": "1200-minimum-absolute-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference/",
+      "folderPath": "1200-minimum-absolute-difference/",
+      "readmePath": "1200-minimum-absolute-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1200-minimum-absolute-difference.cpp",
+          "path": "1200-minimum-absolute-difference/1200-minimum-absolute-difference.cpp",
+          "sha": "c26026a7bb12be5169a932683279ef8808295319",
+          "lastSyncedAt": "2026-10-08T04:33:20.041Z"
         }
       ]
     },

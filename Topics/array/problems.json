@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:49:40.743Z",
+  "updatedAt": "2026-10-08T04:49:58.506Z",
   "problems": [
     {
       "frontendId": "27",
@@ -2543,6 +2543,26 @@
           "path": "3531-count-covered-buildings/3531-count-covered-buildings.cpp",
           "sha": "dbda06e66485e636fb0ff19c448cd6f54e04797f",
           "lastSyncedAt": "2026-10-08T04:43:37.597Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3542",
+      "title": "Minimum Operations to Convert All Elements to Zero",
+      "slug": "minimum-operations-to-convert-all-elements-to-zero",
+      "problemName": "3542-minimum-operations-to-convert-all-elements-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/",
+      "folderPath": "3542-minimum-operations-to-convert-all-elements-to-zero/",
+      "readmePath": "3542-minimum-operations-to-convert-all-elements-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3542-minimum-operations-to-convert-all-elements-to-zero.cpp",
+          "path": "3542-minimum-operations-to-convert-all-elements-to-zero/3542-minimum-operations-to-convert-all-elements-to-zero.cpp",
+          "sha": "8d50bbf841c278777c7243e674e2a5462c4726b7",
+          "lastSyncedAt": "2026-10-08T04:49:58.506Z"
         }
       ]
     },

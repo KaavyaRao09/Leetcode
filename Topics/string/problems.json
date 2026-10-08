@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:25:40.334Z",
+  "updatedAt": "2026-10-08T04:25:54.146Z",
   "problems": [
     {
       "frontendId": "657",
@@ -103,6 +103,26 @@
           "path": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.cpp",
           "sha": "89fff5a3ab18d2937433c3e490747eb981eed45f",
           "lastSyncedAt": "2026-10-08T04:23:41.252Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1545",
+      "title": "Find Kth Bit in Nth Binary String",
+      "slug": "find-kth-bit-in-nth-binary-string",
+      "problemName": "1545-find-kth-bit-in-nth-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+      "folderPath": "1545-find-kth-bit-in-nth-binary-string/",
+      "readmePath": "1545-find-kth-bit-in-nth-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1545-find-kth-bit-in-nth-binary-string.cpp",
+          "path": "1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.cpp",
+          "sha": "7e4f95682e226940d41cc8534ab4a67a24293ef8",
+          "lastSyncedAt": "2026-10-08T04:25:54.146Z"
         }
       ]
     },

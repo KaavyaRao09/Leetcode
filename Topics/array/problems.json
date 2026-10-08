@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:13:42.631Z",
+  "updatedAt": "2026-10-08T04:14:02.742Z",
   "problems": [
     {
       "frontendId": "27",
@@ -523,6 +523,26 @@
           "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
           "sha": "cb26e9b60bd339f171f5abf84715021c14329660",
           "lastSyncedAt": "2026-10-08T04:01:38.646Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2033",
+      "title": "Minimum Operations to Make a Uni-Value Grid",
+      "slug": "minimum-operations-to-make-a-uni-value-grid",
+      "problemName": "2033-minimum-operations-to-make-a-uni-value-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/",
+      "folderPath": "2033-minimum-operations-to-make-a-uni-value-grid/",
+      "readmePath": "2033-minimum-operations-to-make-a-uni-value-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2033-minimum-operations-to-make-a-uni-value-grid.cpp",
+          "path": "2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.cpp",
+          "sha": "fc49a116e7685600185e2fb5732b263f8c227e2d",
+          "lastSyncedAt": "2026-10-08T04:14:02.742Z"
         }
       ]
     },

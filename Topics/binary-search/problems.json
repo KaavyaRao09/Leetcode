@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-08T04:40:01.389Z",
+  "updatedAt": "2026-10-08T04:40:59.989Z",
   "problems": [
     {
       "frontendId": "33",
@@ -203,6 +203,26 @@
           "path": "1970-last-day-where-you-can-still-cross/1970-last-day-where-you-can-still-cross.cpp",
           "sha": "e245e6a1c913c3599b37d6f55f6c37f1272eeddd",
           "lastSyncedAt": "2026-10-08T04:39:16.566Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2054",
+      "title": "Two Best Non-Overlapping Events",
+      "slug": "two-best-non-overlapping-events",
+      "problemName": "2054-two-best-non-overlapping-events",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-best-non-overlapping-events/",
+      "folderPath": "2054-two-best-non-overlapping-events/",
+      "readmePath": "2054-two-best-non-overlapping-events/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2054-two-best-non-overlapping-events.cpp",
+          "path": "2054-two-best-non-overlapping-events/2054-two-best-non-overlapping-events.cpp",
+          "sha": "a4f42a8e9677baea65d4f6a00125e6f5a9dd9ac4",
+          "lastSyncedAt": "2026-10-08T04:40:59.989Z"
         }
       ]
     },

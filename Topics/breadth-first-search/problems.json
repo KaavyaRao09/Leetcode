@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "breadth-first-search",
+    "name": "Breadth-First Search"
+  },
+  "updatedAt": "2026-10-08T04:10:12.016Z",
+  "problems": [
+    {
+      "frontendId": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "problemName": "1345-jump-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iv/",
+      "folderPath": "1345-jump-game-iv/",
+      "readmePath": "1345-jump-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1345-jump-game-iv.cpp",
+          "path": "1345-jump-game-iv/1345-jump-game-iv.cpp",
+          "sha": "e305c6bc124edf44cb1891b9816654bcad158353",
+          "lastSyncedAt": "2026-10-08T04:10:12.016Z"
+        }
+      ]
+    }
+  ]
+}

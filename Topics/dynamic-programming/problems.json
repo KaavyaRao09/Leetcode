@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-08T04:38:53.075Z",
+  "updatedAt": "2026-10-08T04:40:59.989Z",
   "problems": [
     {
       "frontendId": "53",
@@ -283,6 +283,26 @@
           "path": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.cpp",
           "sha": "b1fccd81c5b89acdb356a2e4adca3028f56ea764",
           "lastSyncedAt": "2026-10-08T04:25:24.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2054",
+      "title": "Two Best Non-Overlapping Events",
+      "slug": "two-best-non-overlapping-events",
+      "problemName": "2054-two-best-non-overlapping-events",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-best-non-overlapping-events/",
+      "folderPath": "2054-two-best-non-overlapping-events/",
+      "readmePath": "2054-two-best-non-overlapping-events/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2054-two-best-non-overlapping-events.cpp",
+          "path": "2054-two-best-non-overlapping-events/2054-two-best-non-overlapping-events.cpp",
+          "sha": "a4f42a8e9677baea65d4f6a00125e6f5a9dd9ac4",
+          "lastSyncedAt": "2026-10-08T04:40:59.989Z"
         }
       ]
     },

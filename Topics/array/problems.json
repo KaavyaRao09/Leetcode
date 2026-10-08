@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:15:45.465Z",
+  "updatedAt": "2026-10-08T04:15:59.130Z",
   "problems": [
     {
       "frontendId": "27",
@@ -403,6 +403,26 @@
           "path": "1674-minimum-moves-to-make-array-complementary/1674-minimum-moves-to-make-array-complementary.cpp",
           "sha": "1d2b6570e56eaaf8a8c17673e78bbf7c70d4096f",
           "lastSyncedAt": "2026-10-08T04:11:05.275Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1722",
+      "title": "Minimize Hamming Distance After Swap Operations",
+      "slug": "minimize-hamming-distance-after-swap-operations",
+      "problemName": "1722-minimize-hamming-distance-after-swap-operations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/",
+      "folderPath": "1722-minimize-hamming-distance-after-swap-operations/",
+      "readmePath": "1722-minimize-hamming-distance-after-swap-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1722-minimize-hamming-distance-after-swap-operations.cpp",
+          "path": "1722-minimize-hamming-distance-after-swap-operations/1722-minimize-hamming-distance-after-swap-operations.cpp",
+          "sha": "2b5b324d0b94085c64cd177767facca63dc4a2f3",
+          "lastSyncedAt": "2026-10-08T04:15:59.130Z"
         }
       ]
     },

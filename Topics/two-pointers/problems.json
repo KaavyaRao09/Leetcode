@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-08T04:16:23.757Z",
+  "updatedAt": "2026-10-08T04:21:51.997Z",
   "problems": [
     {
       "frontendId": "27",
@@ -203,6 +203,26 @@
           "path": "3635-earliest-finish-time-for-land-and-water-rides-ii/3635-earliest-finish-time-for-land-and-water-rides-ii.cpp",
           "sha": "a51828cc20deb4119695ef8d983f930bca22f3b9",
           "lastSyncedAt": "2026-10-08T04:06:59.469Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3643",
+      "title": "Flip Square Submatrix Vertically",
+      "slug": "flip-square-submatrix-vertically",
+      "problemName": "3643-flip-square-submatrix-vertically",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/flip-square-submatrix-vertically/",
+      "folderPath": "3643-flip-square-submatrix-vertically/",
+      "readmePath": "3643-flip-square-submatrix-vertically/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3643-flip-square-submatrix-vertically.cpp",
+          "path": "3643-flip-square-submatrix-vertically/3643-flip-square-submatrix-vertically.cpp",
+          "sha": "75b23ae81cb63371a1327a4aa22b1525687b34a5",
+          "lastSyncedAt": "2026-10-08T04:21:51.997Z"
         }
       ]
     }

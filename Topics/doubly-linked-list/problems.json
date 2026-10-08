@@ -4,8 +4,28 @@
     "slug": "doubly-linked-list",
     "name": "Doubly-Linked List"
   },
-  "updatedAt": "2026-10-08T04:33:58.869Z",
+  "updatedAt": "2026-10-08T04:34:27.248Z",
   "problems": [
+    {
+      "frontendId": "3507",
+      "title": "Minimum Pair Removal to Sort Array I",
+      "slug": "minimum-pair-removal-to-sort-array-i",
+      "problemName": "3507-minimum-pair-removal-to-sort-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/",
+      "folderPath": "3507-minimum-pair-removal-to-sort-array-i/",
+      "readmePath": "3507-minimum-pair-removal-to-sort-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3507-minimum-pair-removal-to-sort-array-i.cpp",
+          "path": "3507-minimum-pair-removal-to-sort-array-i/3507-minimum-pair-removal-to-sort-array-i.cpp",
+          "sha": "f93e6cfaf06fec0f09e3dbb62f60ea07afc8db0a",
+          "lastSyncedAt": "2026-10-08T04:34:27.248Z"
+        }
+      ]
+    },
     {
       "frontendId": "3510",
       "title": "Minimum Pair Removal to Sort Array II",

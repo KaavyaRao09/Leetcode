@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-08T04:50:14.964Z",
+  "updatedAt": "2026-10-08T04:52:08.743Z",
   "problems": [
     {
       "frontendId": "67",
@@ -263,6 +263,26 @@
           "path": "2211-count-collisions-on-a-road/2211-count-collisions-on-a-road.cpp",
           "sha": "6a2dbc6674fac6a737c0cd13b47257a4521c8374",
           "lastSyncedAt": "2026-10-08T04:45:08.191Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2257",
+      "title": "Count Unguarded Cells in the Grid",
+      "slug": "count-unguarded-cells-in-the-grid",
+      "problemName": "2257-count-unguarded-cells-in-the-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid/",
+      "folderPath": "2257-count-unguarded-cells-in-the-grid/",
+      "readmePath": "2257-count-unguarded-cells-in-the-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2257-count-unguarded-cells-in-the-grid.cpp",
+          "path": "2257-count-unguarded-cells-in-the-grid/2257-count-unguarded-cells-in-the-grid.cpp",
+          "sha": "856e974f2bb080e48733d968e2ef3de56acce2e2",
+          "lastSyncedAt": "2026-10-08T04:52:08.743Z"
         }
       ]
     },

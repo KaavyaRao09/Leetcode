@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-10-08T04:51:03.829Z",
+  "updatedAt": "2026-10-08T04:51:28.912Z",
   "problems": [
     {
       "frontendId": "1878",
@@ -103,6 +103,26 @@
           "path": "3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.cpp",
           "sha": "05cce74c06fe5960322b8e7f316ac7d3c57a92c8",
           "lastSyncedAt": "2026-10-08T04:23:55.224Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3321",
+      "title": "Find X-Sum of All K-Long Subarrays II",
+      "slug": "find-x-sum-of-all-k-long-subarrays-ii",
+      "problemName": "3321-find-x-sum-of-all-k-long-subarrays-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/",
+      "folderPath": "3321-find-x-sum-of-all-k-long-subarrays-ii/",
+      "readmePath": "3321-find-x-sum-of-all-k-long-subarrays-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3321-find-x-sum-of-all-k-long-subarrays-ii.cpp",
+          "path": "3321-find-x-sum-of-all-k-long-subarrays-ii/3321-find-x-sum-of-all-k-long-subarrays-ii.cpp",
+          "sha": "c72aca7f2d2ce47856d7b43dc0c2108223369764",
+          "lastSyncedAt": "2026-10-08T04:51:28.912Z"
         }
       ]
     },

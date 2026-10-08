@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-08T04:28:26.574Z",
+  "updatedAt": "2026-10-08T04:28:34.601Z",
   "problems": [
     {
       "frontendId": "191",
@@ -43,6 +43,26 @@
           "path": "0401-binary-watch/0401-binary-watch.cpp",
           "sha": "44ff666a8060c5d47a120e6bd6a6fba47f01f012",
           "lastSyncedAt": "2026-10-08T04:28:26.574Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "693",
+      "title": "Binary Number with Alternating Bits",
+      "slug": "binary-number-with-alternating-bits",
+      "problemName": "0693-binary-number-with-alternating-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+      "folderPath": "0693-binary-number-with-alternating-bits/",
+      "readmePath": "0693-binary-number-with-alternating-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0693-binary-number-with-alternating-bits.cpp",
+          "path": "0693-binary-number-with-alternating-bits/0693-binary-number-with-alternating-bits.cpp",
+          "sha": "367fde04100c438127ce0d3b55c4f2f134ad1b17",
+          "lastSyncedAt": "2026-10-08T04:28:34.601Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:37:50.986Z",
+  "updatedAt": "2026-10-08T04:38:25.372Z",
   "problems": [
     {
       "frontendId": "27",
@@ -943,6 +943,26 @@
           "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
           "sha": "cb26e9b60bd339f171f5abf84715021c14329660",
           "lastSyncedAt": "2026-10-08T04:01:38.646Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1975",
+      "title": "Maximum Matrix Sum",
+      "slug": "maximum-matrix-sum",
+      "problemName": "1975-maximum-matrix-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-matrix-sum/",
+      "folderPath": "1975-maximum-matrix-sum/",
+      "readmePath": "1975-maximum-matrix-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1975-maximum-matrix-sum.cpp",
+          "path": "1975-maximum-matrix-sum/1975-maximum-matrix-sum.cpp",
+          "sha": "fbf8e8a827b73ec31cf634871fc4e04a91602530",
+          "lastSyncedAt": "2026-10-08T04:38:25.372Z"
         }
       ]
     },

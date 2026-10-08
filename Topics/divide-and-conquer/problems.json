@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-10-08T04:18:17.470Z",
+  "updatedAt": "2026-10-08T04:28:06.625Z",
   "problems": [
     {
       "frontendId": "53",
@@ -103,6 +103,26 @@
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.py",
           "sha": "90868dc24d58ed094c1e2af74e109989be274cdc",
           "lastSyncedAt": "2026-10-08T03:59:36.908Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "761",
+      "title": "Special Binary String",
+      "slug": "special-binary-string",
+      "problemName": "0761-special-binary-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string/",
+      "folderPath": "0761-special-binary-string/",
+      "readmePath": "0761-special-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0761-special-binary-string.cpp",
+          "path": "0761-special-binary-string/0761-special-binary-string.cpp",
+          "sha": "50b49fbe71745fa53bca6a59ee5b52c14269c6bb",
+          "lastSyncedAt": "2026-10-08T04:28:06.625Z"
         }
       ]
     },

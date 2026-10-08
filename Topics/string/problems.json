@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:28:18.582Z",
+  "updatedAt": "2026-10-08T04:28:49.107Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0067-add-binary.cpp",
+          "path": "0067-add-binary/0067-add-binary.cpp",
+          "sha": "b1637b4d9e3dd715e776855c1a271509b84b63b7",
+          "lastSyncedAt": "2026-10-08T04:28:49.107Z"
+        }
+      ]
+    },
     {
       "frontendId": "657",
       "title": "Robot Return to Origin",

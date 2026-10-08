@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:48:50.526Z",
+  "updatedAt": "2026-10-08T04:49:11.510Z",
   "problems": [
     {
       "frontendId": "67",
@@ -863,6 +863,26 @@
           "path": "3121-count-the-number-of-special-characters-ii/3121-count-the-number-of-special-characters-ii.cpp",
           "sha": "829de27c01ea0d61c35371c19f9aeb0f18dccac4",
           "lastSyncedAt": "2026-10-08T04:08:37.585Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3228",
+      "title": "Maximum Number of Operations to Move Ones to the End",
+      "slug": "maximum-number-of-operations-to-move-ones-to-the-end",
+      "problemName": "3228-maximum-number-of-operations-to-move-ones-to-the-end",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/",
+      "folderPath": "3228-maximum-number-of-operations-to-move-ones-to-the-end/",
+      "readmePath": "3228-maximum-number-of-operations-to-move-ones-to-the-end/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3228-maximum-number-of-operations-to-move-ones-to-the-end.cpp",
+          "path": "3228-maximum-number-of-operations-to-move-ones-to-the-end/3228-maximum-number-of-operations-to-move-ones-to-the-end.cpp",
+          "sha": "652f4de1cd0d9fd3f6ec14c9adb6d3fbc27dbfb1",
+          "lastSyncedAt": "2026-10-08T04:49:11.510Z"
         }
       ]
     },

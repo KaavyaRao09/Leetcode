@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:00:41.751Z",
+  "updatedAt": "2026-10-08T04:00:51.848Z",
   "problems": [
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "0053-maximum-subarray/",
+      "readmePath": "0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0053-maximum-subarray.py",
+          "path": "0053-maximum-subarray/0053-maximum-subarray.py",
+          "sha": "19b2d4817db7bb75703873bbcfab54b82d4d38e4",
+          "lastSyncedAt": "2026-10-08T04:00:51.848Z"
+        }
+      ]
+    },
     {
       "frontendId": "105",
       "title": "Construct Binary Tree from Preorder and Inorder Traversal",

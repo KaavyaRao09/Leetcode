@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-08T04:43:08.468Z",
+  "updatedAt": "2026-10-08T04:43:22.760Z",
   "problems": [
     {
       "frontendId": "169",
@@ -543,6 +543,26 @@
           "path": "3075-maximize-happiness-of-selected-children/3075-maximize-happiness-of-selected-children.cpp",
           "sha": "a10d7090a49450840e4306f60f8d40fea7c85bcc",
           "lastSyncedAt": "2026-10-08T04:40:36.925Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3433",
+      "title": "Count Mentions Per User",
+      "slug": "count-mentions-per-user",
+      "problemName": "3433-count-mentions-per-user",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-mentions-per-user/",
+      "folderPath": "3433-count-mentions-per-user/",
+      "readmePath": "3433-count-mentions-per-user/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3433-count-mentions-per-user.cpp",
+          "path": "3433-count-mentions-per-user/3433-count-mentions-per-user.cpp",
+          "sha": "8ad80fdc8c88fe4e911087834b2c2487e8312471",
+          "lastSyncedAt": "2026-10-08T04:43:22.760Z"
         }
       ]
     },

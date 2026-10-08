@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-08T04:17:17.643Z",
+  "updatedAt": "2026-10-08T04:17:37.241Z",
   "problems": [
     {
       "frontendId": "53",
@@ -63,6 +63,26 @@
           "path": "0788-rotated-digits/0788-rotated-digits.cpp",
           "sha": "c87cce7fed08a071b091eed5a2161e59cb58ee21",
           "lastSyncedAt": "2026-10-08T04:13:12.997Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1320",
+      "title": "Minimum Distance to Type a Word Using Two Fingers",
+      "slug": "minimum-distance-to-type-a-word-using-two-fingers",
+      "problemName": "1320-minimum-distance-to-type-a-word-using-two-fingers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/",
+      "folderPath": "1320-minimum-distance-to-type-a-word-using-two-fingers/",
+      "readmePath": "1320-minimum-distance-to-type-a-word-using-two-fingers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1320-minimum-distance-to-type-a-word-using-two-fingers.cpp",
+          "path": "1320-minimum-distance-to-type-a-word-using-two-fingers/1320-minimum-distance-to-type-a-word-using-two-fingers.cpp",
+          "sha": "84a3a1a6a3cac326f68414ee916f0cfefe8ddcf8",
+          "lastSyncedAt": "2026-10-08T04:17:37.241Z"
         }
       ]
     },

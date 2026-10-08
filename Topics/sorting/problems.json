@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-08T04:26:59.902Z",
+  "updatedAt": "2026-10-08T04:28:06.625Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,6 +23,26 @@
           "path": "0169-majority-element/0169-majority-element.py",
           "sha": "acd3ee17216b129af1dead300f1c65490a8a50ad",
           "lastSyncedAt": "2026-10-08T03:59:46.753Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "761",
+      "title": "Special Binary String",
+      "slug": "special-binary-string",
+      "problemName": "0761-special-binary-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string/",
+      "folderPath": "0761-special-binary-string/",
+      "readmePath": "0761-special-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0761-special-binary-string.cpp",
+          "path": "0761-special-binary-string/0761-special-binary-string.cpp",
+          "sha": "50b49fbe71745fa53bca6a59ee5b52c14269c6bb",
+          "lastSyncedAt": "2026-10-08T04:28:06.625Z"
         }
       ]
     },

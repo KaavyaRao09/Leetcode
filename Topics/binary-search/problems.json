@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-08T04:39:16.566Z",
+  "updatedAt": "2026-10-08T04:40:01.389Z",
   "problems": [
     {
       "frontendId": "33",
@@ -123,6 +123,26 @@
           "path": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp",
           "sha": "184a6778a5cee2b98741559bea16cf95d22aa9a4",
           "lastSyncedAt": "2026-10-08T04:35:09.278Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1351",
+      "title": "Count Negative Numbers in a Sorted Matrix",
+      "slug": "count-negative-numbers-in-a-sorted-matrix",
+      "problemName": "1351-count-negative-numbers-in-a-sorted-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+      "folderPath": "1351-count-negative-numbers-in-a-sorted-matrix/",
+      "readmePath": "1351-count-negative-numbers-in-a-sorted-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1351-count-negative-numbers-in-a-sorted-matrix.cpp",
+          "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.cpp",
+          "sha": "ff1342c6dfd385afa5286cda0ddb477c130b810a",
+          "lastSyncedAt": "2026-10-08T04:40:01.389Z"
         }
       ]
     },

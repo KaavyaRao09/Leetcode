@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-10-08T04:37:22.202Z",
+  "updatedAt": "2026-10-08T04:38:03.694Z",
   "problems": [
     {
       "frontendId": "110",
@@ -83,6 +83,26 @@
           "path": "1306-jump-game-iii/1306-jump-game-iii.cpp",
           "sha": "31c53190555109df7f4f74246513d515abb91ef6",
           "lastSyncedAt": "2026-10-08T04:10:25.293Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1339",
+      "title": "Maximum Product of Splitted Binary Tree",
+      "slug": "maximum-product-of-splitted-binary-tree",
+      "problemName": "1339-maximum-product-of-splitted-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/",
+      "folderPath": "1339-maximum-product-of-splitted-binary-tree/",
+      "readmePath": "1339-maximum-product-of-splitted-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1339-maximum-product-of-splitted-binary-tree.cpp",
+          "path": "1339-maximum-product-of-splitted-binary-tree/1339-maximum-product-of-splitted-binary-tree.cpp",
+          "sha": "61561fd070e974acf01e612b3eb0dca7f66ecbe5",
+          "lastSyncedAt": "2026-10-08T04:38:03.694Z"
         }
       ]
     },

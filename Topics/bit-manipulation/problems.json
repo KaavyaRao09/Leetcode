@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-08T04:39:47.366Z",
+  "updatedAt": "2026-10-08T04:47:13.244Z",
   "problems": [
     {
       "frontendId": "67",
@@ -183,6 +183,26 @@
           "path": "1009-complement-of-base-10-integer/1009-complement-of-base-10-integer.cpp",
           "sha": "044b2259b025cdfe6e6f75af992c13412ef82c5b",
           "lastSyncedAt": "2026-10-08T04:24:41.957Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1018",
+      "title": "Binary Prefix Divisible By 5",
+      "slug": "binary-prefix-divisible-by-5",
+      "problemName": "1018-binary-prefix-divisible-by-5",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-prefix-divisible-by-5/",
+      "folderPath": "1018-binary-prefix-divisible-by-5/",
+      "readmePath": "1018-binary-prefix-divisible-by-5/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1018-binary-prefix-divisible-by-5.cpp",
+          "path": "1018-binary-prefix-divisible-by-5/1018-binary-prefix-divisible-by-5.cpp",
+          "sha": "24b669cc5ada7b73a006418839fe0eefd04b2b76",
+          "lastSyncedAt": "2026-10-08T04:47:13.244Z"
         }
       ]
     },

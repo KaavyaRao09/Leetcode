@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-08T04:02:15.238Z",
+  "updatedAt": "2026-10-08T04:02:36.937Z",
   "problems": [
     {
       "frontendId": "1658",
@@ -23,6 +23,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
           "sha": "00ee1758c90b70446b9d6910d276ef8b2a6662e8",
           "lastSyncedAt": "2026-10-08T03:58:48.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3737-count-subarrays-with-majority-element-i.cpp",
+          "path": "3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.cpp",
+          "sha": "38d288317dc45f1d49c9e7626a37fe2af240fd7d",
+          "lastSyncedAt": "2026-10-08T04:02:36.937Z"
         }
       ]
     },

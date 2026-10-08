@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:08:54.629Z",
+  "updatedAt": "2026-10-08T04:09:38.271Z",
   "problems": [
     {
       "frontendId": "1189",
@@ -83,6 +83,26 @@
           "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
           "sha": "cb26e9b60bd339f171f5abf84715021c14329660",
           "lastSyncedAt": "2026-10-08T04:01:38.646Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3043",
+      "title": "Find the Length of the Longest Common Prefix",
+      "slug": "find-the-length-of-the-longest-common-prefix",
+      "problemName": "3043-find-the-length-of-the-longest-common-prefix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+      "folderPath": "3043-find-the-length-of-the-longest-common-prefix/",
+      "readmePath": "3043-find-the-length-of-the-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3043-find-the-length-of-the-longest-common-prefix.cpp",
+          "path": "3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.cpp",
+          "sha": "26960254a584372a37a1486152c9e9778eadcdae",
+          "lastSyncedAt": "2026-10-08T04:09:38.271Z"
         }
       ]
     },

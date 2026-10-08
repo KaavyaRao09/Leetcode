@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-08T04:20:19.750Z",
+  "updatedAt": "2026-10-08T04:21:30.534Z",
   "problems": [
     {
       "frontendId": "53",
@@ -103,6 +103,26 @@
           "path": "1340-jump-game-v/1340-jump-game-v.cpp",
           "sha": "361a3adccfb77e62ec3949397d115a4beccf8d14",
           "lastSyncedAt": "2026-10-08T04:09:08.974Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1594",
+      "title": "Maximum Non Negative Product in a Matrix",
+      "slug": "maximum-non-negative-product-in-a-matrix",
+      "problemName": "1594-maximum-non-negative-product-in-a-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/",
+      "folderPath": "1594-maximum-non-negative-product-in-a-matrix/",
+      "readmePath": "1594-maximum-non-negative-product-in-a-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1594-maximum-non-negative-product-in-a-matrix.cpp",
+          "path": "1594-maximum-non-negative-product-in-a-matrix/1594-maximum-non-negative-product-in-a-matrix.cpp",
+          "sha": "e7babc66d73746521d82c20edca0e5a0f3521537",
+          "lastSyncedAt": "2026-10-08T04:21:30.534Z"
         }
       ]
     },

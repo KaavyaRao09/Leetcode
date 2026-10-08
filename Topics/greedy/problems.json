@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-10-08T04:40:49.408Z",
+  "updatedAt": "2026-10-08T04:41:30.070Z",
   "problems": [
+    {
+      "frontendId": "955",
+      "title": "Delete Columns to Make Sorted II",
+      "slug": "delete-columns-to-make-sorted-ii",
+      "problemName": "0955-delete-columns-to-make-sorted-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-columns-to-make-sorted-ii/",
+      "folderPath": "0955-delete-columns-to-make-sorted-ii/",
+      "readmePath": "0955-delete-columns-to-make-sorted-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0955-delete-columns-to-make-sorted-ii.cpp",
+          "path": "0955-delete-columns-to-make-sorted-ii/0955-delete-columns-to-make-sorted-ii.cpp",
+          "sha": "579c52553ae93bc597b01f30b5edee0e688e5a03",
+          "lastSyncedAt": "2026-10-08T04:41:30.070Z"
+        }
+      ]
+    },
     {
       "frontendId": "1382",
       "title": "Balance a Binary Search Tree",

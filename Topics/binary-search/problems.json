@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-08T04:07:53.327Z",
+  "updatedAt": "2026-10-08T04:09:27.843Z",
   "problems": [
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "0033-search-in-rotated-sorted-array/",
+      "readmePath": "0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0033-search-in-rotated-sorted-array.cpp",
+          "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.cpp",
+          "sha": "209b62d5029e4a40ebd573113e4fbebef05d1b4b",
+          "lastSyncedAt": "2026-10-08T04:09:27.843Z"
+        }
+      ]
+    },
     {
       "frontendId": "35",
       "title": "Search Insert Position",

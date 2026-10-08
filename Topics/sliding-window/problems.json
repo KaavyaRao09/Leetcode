@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-10-08T04:25:24.186Z",
+  "updatedAt": "2026-10-08T04:30:53.999Z",
   "problems": [
     {
       "frontendId": "1658",
@@ -83,6 +83,26 @@
           "path": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.cpp",
           "sha": "b1fccd81c5b89acdb356a2e4adca3028f56ea764",
           "lastSyncedAt": "2026-10-08T04:25:24.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3634",
+      "title": "Minimum Removals to Balance Array",
+      "slug": "minimum-removals-to-balance-array",
+      "problemName": "3634-minimum-removals-to-balance-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-removals-to-balance-array/",
+      "folderPath": "3634-minimum-removals-to-balance-array/",
+      "readmePath": "3634-minimum-removals-to-balance-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3634-minimum-removals-to-balance-array.cpp",
+          "path": "3634-minimum-removals-to-balance-array/3634-minimum-removals-to-balance-array.cpp",
+          "sha": "eb7e6b690675ecc7471c44c0a984a678316f9a2d",
+          "lastSyncedAt": "2026-10-08T04:30:53.999Z"
         }
       ]
     }

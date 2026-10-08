@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-08T04:16:23.757Z",
+  "updatedAt": "2026-10-08T04:16:56.064Z",
   "problems": [
     {
       "frontendId": "33",
@@ -183,6 +183,26 @@
           "path": "3464-maximize-the-distance-between-points-on-a-square/3464-maximize-the-distance-between-points-on-a-square.cpp",
           "sha": "dfc6ae0b296583e0120e3d8cb6b9e38ac53e69c3",
           "lastSyncedAt": "2026-10-08T04:15:03.172Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3488",
+      "title": "Closest Equal Element Queries",
+      "slug": "closest-equal-element-queries",
+      "problemName": "3488-closest-equal-element-queries",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/closest-equal-element-queries/",
+      "folderPath": "3488-closest-equal-element-queries/",
+      "readmePath": "3488-closest-equal-element-queries/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3488-closest-equal-element-queries.cpp",
+          "path": "3488-closest-equal-element-queries/3488-closest-equal-element-queries.cpp",
+          "sha": "1e03ce5d241a4c1a2a3ed271d3cd9e95bddf5e4a",
+          "lastSyncedAt": "2026-10-08T04:16:56.064Z"
         }
       ]
     },

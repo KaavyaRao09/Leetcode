@@ -4,7 +4,7 @@
     "slug": "ordered-set",
     "name": "Ordered Set"
   },
-  "updatedAt": "2026-10-08T04:34:27.248Z",
+  "updatedAt": "2026-10-08T04:51:03.829Z",
   "problems": [
     {
       "frontendId": "3161",
@@ -63,6 +63,26 @@
           "path": "3510-minimum-pair-removal-to-sort-array-ii/3510-minimum-pair-removal-to-sort-array-ii.cpp",
           "sha": "2565d199d5ccfe08b844c09eab2cab763c7358d0",
           "lastSyncedAt": "2026-10-08T04:33:58.869Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3607",
+      "title": "Power Grid Maintenance",
+      "slug": "power-grid-maintenance",
+      "problemName": "3607-power-grid-maintenance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/power-grid-maintenance/",
+      "folderPath": "3607-power-grid-maintenance/",
+      "readmePath": "3607-power-grid-maintenance/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3607-power-grid-maintenance.cpp",
+          "path": "3607-power-grid-maintenance/3607-power-grid-maintenance.cpp",
+          "sha": "de319dfbcb3349e654b81f02399d530dde3def4c",
+          "lastSyncedAt": "2026-10-08T04:51:03.829Z"
         }
       ]
     },

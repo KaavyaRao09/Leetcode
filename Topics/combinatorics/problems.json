@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "combinatorics",
+    "name": "Combinatorics"
+  },
+  "updatedAt": "2026-10-08T04:43:48.336Z",
+  "problems": [
+    {
+      "frontendId": "3577",
+      "title": "Count the Number of Computer Unlocking Permutations",
+      "slug": "count-the-number-of-computer-unlocking-permutations",
+      "problemName": "3577-count-the-number-of-computer-unlocking-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/",
+      "folderPath": "3577-count-the-number-of-computer-unlocking-permutations/",
+      "readmePath": "3577-count-the-number-of-computer-unlocking-permutations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3577-count-the-number-of-computer-unlocking-permutations.cpp",
+          "path": "3577-count-the-number-of-computer-unlocking-permutations/3577-count-the-number-of-computer-unlocking-permutations.cpp",
+          "sha": "862e3052409caa0a58824e3365072968a5a3b683",
+          "lastSyncedAt": "2026-10-08T04:43:48.336Z"
+        }
+      ]
+    }
+  ]
+}

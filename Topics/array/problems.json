@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:09:08.974Z",
+  "updatedAt": "2026-10-08T04:09:20.800Z",
   "problems": [
     {
       "frontendId": "27",
@@ -203,6 +203,26 @@
           "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp",
           "sha": "e7cfe0865edb42c46190e4c4158910e3ef350e02",
           "lastSyncedAt": "2026-10-08T04:03:54.047Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "problemName": "1752-check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+      "folderPath": "1752-check-if-array-is-sorted-and-rotated/",
+      "readmePath": "1752-check-if-array-is-sorted-and-rotated/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1752-check-if-array-is-sorted-and-rotated.cpp",
+          "path": "1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.cpp",
+          "sha": "65064a4e8f28abc62700206236b65fcca3ca1a92",
+          "lastSyncedAt": "2026-10-08T04:09:20.800Z"
         }
       ]
     },

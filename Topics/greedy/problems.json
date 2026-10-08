@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-10-08T04:07:44.429Z",
+  "updatedAt": "2026-10-08T04:11:15.572Z",
   "problems": [
+    {
+      "frontendId": "1665",
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "slug": "minimum-initial-energy-to-finish-tasks",
+      "problemName": "1665-minimum-initial-energy-to-finish-tasks",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/",
+      "folderPath": "1665-minimum-initial-energy-to-finish-tasks/",
+      "readmePath": "1665-minimum-initial-energy-to-finish-tasks/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1665-minimum-initial-energy-to-finish-tasks.cpp",
+          "path": "1665-minimum-initial-energy-to-finish-tasks/1665-minimum-initial-energy-to-finish-tasks.cpp",
+          "sha": "8a720f164273e09e031df9871f7bec50234dad32",
+          "lastSyncedAt": "2026-10-08T04:11:15.572Z"
+        }
+      ]
+    },
     {
       "frontendId": "1833",
       "title": "Maximum Ice Cream Bars",

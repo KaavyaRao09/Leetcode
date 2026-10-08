@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:43:37.597Z",
+  "updatedAt": "2026-10-08T04:44:04.279Z",
   "problems": [
     {
       "frontendId": "105",
@@ -643,6 +643,26 @@
           "path": "3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.cpp",
           "sha": "844de4b66ba4e7897c9018e299cd5e3e94a084a7",
           "lastSyncedAt": "2026-10-08T04:20:52.814Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3583",
+      "title": "Count Special Triplets",
+      "slug": "count-special-triplets",
+      "problemName": "3583-count-special-triplets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-special-triplets/",
+      "folderPath": "3583-count-special-triplets/",
+      "readmePath": "3583-count-special-triplets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3583-count-special-triplets.cpp",
+          "path": "3583-count-special-triplets/3583-count-special-triplets.cpp",
+          "sha": "a507c890dba39fa7f530d1ecc5bf222a15b7ce56",
+          "lastSyncedAt": "2026-10-08T04:44:04.279Z"
         }
       ]
     },

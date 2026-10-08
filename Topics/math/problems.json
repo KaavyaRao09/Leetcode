@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:06:49.868Z",
+  "updatedAt": "2026-10-08T04:08:14.855Z",
   "problems": [
     {
       "frontendId": "66",
@@ -63,6 +63,26 @@
           "path": "1840-maximum-building-height/1840-maximum-building-height.cpp",
           "sha": "1b682e68aa8b53dae535b08d6dc9ebd7d9dda067",
           "lastSyncedAt": "2026-10-08T04:03:44.957Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3300",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "problemName": "3300-minimum-element-after-replacement-with-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+      "folderPath": "3300-minimum-element-after-replacement-with-digit-sum/",
+      "readmePath": "3300-minimum-element-after-replacement-with-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3300-minimum-element-after-replacement-with-digit-sum.cpp",
+          "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.cpp",
+          "sha": "06202bfe32b903cda76775ff223d4f34dad0055a",
+          "lastSyncedAt": "2026-10-08T04:08:14.855Z"
         }
       ]
     },

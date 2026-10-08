@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-08T04:20:01.717Z",
+  "updatedAt": "2026-10-08T04:22:05.208Z",
   "problems": [
     {
       "frontendId": "169",
@@ -283,6 +283,26 @@
           "path": "3464-maximize-the-distance-between-points-on-a-square/3464-maximize-the-distance-between-points-on-a-square.cpp",
           "sha": "dfc6ae0b296583e0120e3d8cb6b9e38ac53e69c3",
           "lastSyncedAt": "2026-10-08T04:15:03.172Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3567",
+      "title": "Minimum Absolute Difference in Sliding Submatrix",
+      "slug": "minimum-absolute-difference-in-sliding-submatrix",
+      "problemName": "3567-minimum-absolute-difference-in-sliding-submatrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/",
+      "folderPath": "3567-minimum-absolute-difference-in-sliding-submatrix/",
+      "readmePath": "3567-minimum-absolute-difference-in-sliding-submatrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3567-minimum-absolute-difference-in-sliding-submatrix.cpp",
+          "path": "3567-minimum-absolute-difference-in-sliding-submatrix/3567-minimum-absolute-difference-in-sliding-submatrix.cpp",
+          "sha": "2ea388874a13c0b0b82bb0fd28228590610d36f3",
+          "lastSyncedAt": "2026-10-08T04:22:05.208Z"
         }
       ]
     },

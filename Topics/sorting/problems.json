@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-08T04:22:44.686Z",
+  "updatedAt": "2026-10-08T04:23:00.513Z",
   "problems": [
     {
       "frontendId": "169",
@@ -143,6 +143,26 @@
           "path": "1846-maximum-element-after-decreasing-and-rearranging/1846-maximum-element-after-decreasing-and-rearranging.cpp",
           "sha": "3f9201bce18fdd1c9c7206757a82ca903a73d2b8",
           "lastSyncedAt": "2026-10-08T04:01:48.092Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1878",
+      "title": "Get Biggest Three Rhombus Sums in a Grid",
+      "slug": "get-biggest-three-rhombus-sums-in-a-grid",
+      "problemName": "1878-get-biggest-three-rhombus-sums-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/",
+      "folderPath": "1878-get-biggest-three-rhombus-sums-in-a-grid/",
+      "readmePath": "1878-get-biggest-three-rhombus-sums-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1878-get-biggest-three-rhombus-sums-in-a-grid.cpp",
+          "path": "1878-get-biggest-three-rhombus-sums-in-a-grid/1878-get-biggest-three-rhombus-sums-in-a-grid.cpp",
+          "sha": "961d889063fd6411d9e8541805bfba102b612e2f",
+          "lastSyncedAt": "2026-10-08T04:23:00.513Z"
         }
       ]
     },

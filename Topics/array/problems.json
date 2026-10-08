@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:47:36.606Z",
+  "updatedAt": "2026-10-08T04:47:59.584Z",
   "problems": [
     {
       "frontendId": "27",
@@ -283,6 +283,26 @@
           "path": "0744-find-smallest-letter-greater-than-target/0744-find-smallest-letter-greater-than-target.cpp",
           "sha": "5798191b08d798ad8922eefa95352ed8d143aefe",
           "lastSyncedAt": "2026-10-08T04:32:04.699Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "757",
+      "title": "Set Intersection Size At Least Two",
+      "slug": "set-intersection-size-at-least-two",
+      "problemName": "0757-set-intersection-size-at-least-two",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/set-intersection-size-at-least-two/",
+      "folderPath": "0757-set-intersection-size-at-least-two/",
+      "readmePath": "0757-set-intersection-size-at-least-two/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0757-set-intersection-size-at-least-two.cpp",
+          "path": "0757-set-intersection-size-at-least-two/0757-set-intersection-size-at-least-two.cpp",
+          "sha": "a979ef13fad38420423be9d62c5838bebc25ce45",
+          "lastSyncedAt": "2026-10-08T04:47:59.584Z"
         }
       ]
     },

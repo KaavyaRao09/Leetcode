@@ -4,7 +4,7 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-10-08T04:36:39.514Z",
+  "updatedAt": "2026-10-08T04:45:21.814Z",
   "problems": [
     {
       "frontendId": "1266",
@@ -63,6 +63,26 @@
           "path": "3464-maximize-the-distance-between-points-on-a-square/3464-maximize-the-distance-between-points-on-a-square.cpp",
           "sha": "dfc6ae0b296583e0120e3d8cb6b9e38ac53e69c3",
           "lastSyncedAt": "2026-10-08T04:15:03.172Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3625",
+      "title": "Count Number of Trapezoids II",
+      "slug": "count-number-of-trapezoids-ii",
+      "problemName": "3625-count-number-of-trapezoids-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-trapezoids-ii/",
+      "folderPath": "3625-count-number-of-trapezoids-ii/",
+      "readmePath": "3625-count-number-of-trapezoids-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3625-count-number-of-trapezoids-ii.cpp",
+          "path": "3625-count-number-of-trapezoids-ii/3625-count-number-of-trapezoids-ii.cpp",
+          "sha": "93d99ae645c633b958bbb04c4d497517b4d0917d",
+          "lastSyncedAt": "2026-10-08T04:45:21.814Z"
         }
       ]
     }

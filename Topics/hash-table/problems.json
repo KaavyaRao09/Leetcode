@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:52:30.972Z",
+  "updatedAt": "2026-10-08T04:53:29.184Z",
   "problems": [
     {
       "frontendId": "105",
@@ -343,6 +343,26 @@
           "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.cpp",
           "sha": "a25613a03c04d8b8f877f12315468eae4ac74dcf",
           "lastSyncedAt": "2026-10-08T04:25:10.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2043",
+      "title": "Simple Bank System",
+      "slug": "simple-bank-system",
+      "problemName": "2043-simple-bank-system",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/simple-bank-system/",
+      "folderPath": "2043-simple-bank-system/",
+      "readmePath": "2043-simple-bank-system/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2043-simple-bank-system.cpp",
+          "path": "2043-simple-bank-system/2043-simple-bank-system.cpp",
+          "sha": "f29586dbcf611b106c4564fa9d8e82d3f529a903",
+          "lastSyncedAt": "2026-10-08T04:53:29.184Z"
         }
       ]
     },

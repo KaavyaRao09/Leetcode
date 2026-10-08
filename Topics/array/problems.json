@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:01:38.646Z",
+  "updatedAt": "2026-10-08T04:01:48.092Z",
   "problems": [
     {
       "frontendId": "27",
@@ -163,6 +163,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
           "sha": "00ee1758c90b70446b9d6910d276ef8b2a6662e8",
           "lastSyncedAt": "2026-10-08T03:58:48.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1846",
+      "title": "Maximum Element After Decreasing and Rearranging",
+      "slug": "maximum-element-after-decreasing-and-rearranging",
+      "problemName": "1846-maximum-element-after-decreasing-and-rearranging",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/",
+      "folderPath": "1846-maximum-element-after-decreasing-and-rearranging/",
+      "readmePath": "1846-maximum-element-after-decreasing-and-rearranging/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1846-maximum-element-after-decreasing-and-rearranging.cpp",
+          "path": "1846-maximum-element-after-decreasing-and-rearranging/1846-maximum-element-after-decreasing-and-rearranging.cpp",
+          "sha": "3f9201bce18fdd1c9c7206757a82ca903a73d2b8",
+          "lastSyncedAt": "2026-10-08T04:01:48.092Z"
         }
       ]
     },

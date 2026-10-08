@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-08T04:25:24.186Z",
+  "updatedAt": "2026-10-08T04:29:01.450Z",
   "problems": [
     {
       "frontendId": "53",
@@ -63,6 +63,26 @@
           "path": "0788-rotated-digits/0788-rotated-digits.cpp",
           "sha": "c87cce7fed08a071b091eed5a2161e59cb58ee21",
           "lastSyncedAt": "2026-10-08T04:13:12.997Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "799",
+      "title": "Champagne Tower",
+      "slug": "champagne-tower",
+      "problemName": "0799-champagne-tower",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/champagne-tower/",
+      "folderPath": "0799-champagne-tower/",
+      "readmePath": "0799-champagne-tower/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0799-champagne-tower.cpp",
+          "path": "0799-champagne-tower/0799-champagne-tower.cpp",
+          "sha": "c271fc2be4a5c20f43112ccacc8be4b5ff5c59d5",
+          "lastSyncedAt": "2026-10-08T04:29:01.450Z"
         }
       ]
     },

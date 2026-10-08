@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:53:16.270Z",
+  "updatedAt": "2026-10-08T04:53:43.284Z",
   "problems": [
     {
       "frontendId": "48",
@@ -323,6 +323,26 @@
           "path": "1680-concatenation-of-consecutive-binary-numbers/1680-concatenation-of-consecutive-binary-numbers.cpp",
           "sha": "17012392edcc37dddba553c6b055362af89c10bf",
           "lastSyncedAt": "2026-10-08T04:26:25.271Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1716",
+      "title": "Calculate Money in Leetcode Bank",
+      "slug": "calculate-money-in-leetcode-bank",
+      "problemName": "1716-calculate-money-in-leetcode-bank",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-money-in-leetcode-bank/",
+      "folderPath": "1716-calculate-money-in-leetcode-bank/",
+      "readmePath": "1716-calculate-money-in-leetcode-bank/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1716-calculate-money-in-leetcode-bank.cpp",
+          "path": "1716-calculate-money-in-leetcode-bank/1716-calculate-money-in-leetcode-bank.cpp",
+          "sha": "8a68ac41c1ae33f779895a3ef06fb7286efcc91b",
+          "lastSyncedAt": "2026-10-08T04:53:43.284Z"
         }
       ]
     },

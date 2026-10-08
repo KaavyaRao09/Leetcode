@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-08T04:35:09.278Z",
+  "updatedAt": "2026-10-08T04:35:24.758Z",
   "problems": [
     {
       "frontendId": "48",
@@ -223,6 +223,26 @@
           "path": "1886-determine-whether-matrix-can-be-obtained-by-rotation/1886-determine-whether-matrix-can-be-obtained-by-rotation.cpp",
           "sha": "b7f4b038376539347a28ba427d7ff7ec940cc3bb",
           "lastSyncedAt": "2026-10-08T04:21:42.574Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1895",
+      "title": "Largest Magic Square",
+      "slug": "largest-magic-square",
+      "problemName": "1895-largest-magic-square",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-magic-square/",
+      "folderPath": "1895-largest-magic-square/",
+      "readmePath": "1895-largest-magic-square/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1895-largest-magic-square.cpp",
+          "path": "1895-largest-magic-square/1895-largest-magic-square.cpp",
+          "sha": "1ce84e65dbc9f25dc40b151f2288cd51855df7a9",
+          "lastSyncedAt": "2026-10-08T04:35:24.758Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-08T04:19:39.350Z",
+  "updatedAt": "2026-10-08T04:20:37.319Z",
   "problems": [
     {
       "frontendId": "657",
@@ -163,6 +163,26 @@
           "path": "2751-robot-collisions/2751-robot-collisions.cpp",
           "sha": "4e8f28ee9ab09bf2b9e1cbd22639c342b7c67f0f",
           "lastSyncedAt": "2026-10-08T04:19:39.350Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2946",
+      "title": "Matrix Similarity After Cyclic Shifts",
+      "slug": "matrix-similarity-after-cyclic-shifts",
+      "problemName": "2946-matrix-similarity-after-cyclic-shifts",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
+      "folderPath": "2946-matrix-similarity-after-cyclic-shifts/",
+      "readmePath": "2946-matrix-similarity-after-cyclic-shifts/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2946-matrix-similarity-after-cyclic-shifts.cpp",
+          "path": "2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.cpp",
+          "sha": "2d3139bdefd53549150a3e73022a7fe22dd157e8",
+          "lastSyncedAt": "2026-10-08T04:20:37.319Z"
         }
       ]
     },

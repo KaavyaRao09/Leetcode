@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:18:51.766Z",
+  "updatedAt": "2026-10-08T04:19:00.924Z",
   "problems": [
     {
       "frontendId": "657",
@@ -143,6 +143,26 @@
           "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
           "sha": "cb26e9b60bd339f171f5abf84715021c14329660",
           "lastSyncedAt": "2026-10-08T04:01:38.646Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2075",
+      "title": "Decode the Slanted Ciphertext",
+      "slug": "decode-the-slanted-ciphertext",
+      "problemName": "2075-decode-the-slanted-ciphertext",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-the-slanted-ciphertext/",
+      "folderPath": "2075-decode-the-slanted-ciphertext/",
+      "readmePath": "2075-decode-the-slanted-ciphertext/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2075-decode-the-slanted-ciphertext.cpp",
+          "path": "2075-decode-the-slanted-ciphertext/2075-decode-the-slanted-ciphertext.cpp",
+          "sha": "166544d5e181d52edefafc02c3bdfdc193b5ba67",
+          "lastSyncedAt": "2026-10-08T04:19:00.924Z"
         }
       ]
     },

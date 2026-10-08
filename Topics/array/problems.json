@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:52:43.063Z",
+  "updatedAt": "2026-10-08T04:53:04.488Z",
   "problems": [
     {
       "frontendId": "27",
@@ -2443,6 +2443,26 @@
           "path": "3321-find-x-sum-of-all-k-long-subarrays-ii/3321-find-x-sum-of-all-k-long-subarrays-ii.cpp",
           "sha": "c72aca7f2d2ce47856d7b43dc0c2108223369764",
           "lastSyncedAt": "2026-10-08T04:51:28.912Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3354",
+      "title": "Make Array Elements Equal to Zero",
+      "slug": "make-array-elements-equal-to-zero",
+      "problemName": "3354-make-array-elements-equal-to-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-array-elements-equal-to-zero/",
+      "folderPath": "3354-make-array-elements-equal-to-zero/",
+      "readmePath": "3354-make-array-elements-equal-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3354-make-array-elements-equal-to-zero.cpp",
+          "path": "3354-make-array-elements-equal-to-zero/3354-make-array-elements-equal-to-zero.cpp",
+          "sha": "9b7b4ef8c26d1dcf49e60efce7445e60adc5bc6a",
+          "lastSyncedAt": "2026-10-08T04:53:04.488Z"
         }
       ]
     },

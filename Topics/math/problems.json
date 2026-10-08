@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:23:55.224Z",
+  "updatedAt": "2026-10-08T04:26:25.271Z",
   "problems": [
     {
       "frontendId": "48",
@@ -123,6 +123,26 @@
           "path": "1622-fancy-sequence/1622-fancy-sequence.cpp",
           "sha": "bbaf2f0e1b24af578d273b9e91126a68a883cbdf",
           "lastSyncedAt": "2026-10-08T04:23:20.813Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1680",
+      "title": "Concatenation of Consecutive Binary Numbers",
+      "slug": "concatenation-of-consecutive-binary-numbers",
+      "problemName": "1680-concatenation-of-consecutive-binary-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/",
+      "folderPath": "1680-concatenation-of-consecutive-binary-numbers/",
+      "readmePath": "1680-concatenation-of-consecutive-binary-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1680-concatenation-of-consecutive-binary-numbers.cpp",
+          "path": "1680-concatenation-of-consecutive-binary-numbers/1680-concatenation-of-consecutive-binary-numbers.cpp",
+          "sha": "17012392edcc37dddba553c6b055362af89c10bf",
+          "lastSyncedAt": "2026-10-08T04:26:25.271Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-08T04:09:50.002Z",
+  "updatedAt": "2026-10-08T04:24:41.957Z",
   "problems": [
     {
       "frontendId": "191",
@@ -23,6 +23,26 @@
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.py",
           "sha": "90868dc24d58ed094c1e2af74e109989be274cdc",
           "lastSyncedAt": "2026-10-08T03:59:36.908Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1009",
+      "title": "Complement of Base 10 Integer",
+      "slug": "complement-of-base-10-integer",
+      "problemName": "1009-complement-of-base-10-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/complement-of-base-10-integer/",
+      "folderPath": "1009-complement-of-base-10-integer/",
+      "readmePath": "1009-complement-of-base-10-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1009-complement-of-base-10-integer.cpp",
+          "path": "1009-complement-of-base-10-integer/1009-complement-of-base-10-integer.cpp",
+          "sha": "044b2259b025cdfe6e6f75af992c13412ef82c5b",
+          "lastSyncedAt": "2026-10-08T04:24:41.957Z"
         }
       ]
     },

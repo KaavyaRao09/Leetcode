@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-08T04:22:05.208Z",
+  "updatedAt": "2026-10-08T04:22:16.640Z",
   "problems": [
     {
       "frontendId": "48",
@@ -223,6 +223,26 @@
           "path": "2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.cpp",
           "sha": "2d3139bdefd53549150a3e73022a7fe22dd157e8",
           "lastSyncedAt": "2026-10-08T04:20:37.319Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3212",
+      "title": "Count Submatrices With Equal Frequency of X and Y",
+      "slug": "count-submatrices-with-equal-frequency-of-x-and-y",
+      "problemName": "3212-count-submatrices-with-equal-frequency-of-x-and-y",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/",
+      "folderPath": "3212-count-submatrices-with-equal-frequency-of-x-and-y/",
+      "readmePath": "3212-count-submatrices-with-equal-frequency-of-x-and-y/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3212-count-submatrices-with-equal-frequency-of-x-and-y.cpp",
+          "path": "3212-count-submatrices-with-equal-frequency-of-x-and-y/3212-count-submatrices-with-equal-frequency-of-x-and-y.cpp",
+          "sha": "d383d2f6bd9616fb01533530a492403a51200004",
+          "lastSyncedAt": "2026-10-08T04:22:16.640Z"
         }
       ]
     },

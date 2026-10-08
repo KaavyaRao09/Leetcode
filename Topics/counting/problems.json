@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-10-08T04:26:59.902Z",
+  "updatedAt": "2026-10-08T04:29:19.618Z",
   "problems": [
     {
       "frontendId": "169",
@@ -83,6 +83,26 @@
           "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.cpp",
           "sha": "62b306554695c00cfd73b14a44ecde5ed5bdcf8f",
           "lastSyncedAt": "2026-10-08T04:15:22.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3713",
+      "title": "Longest Balanced Substring I",
+      "slug": "longest-balanced-substring-i",
+      "problemName": "3713-longest-balanced-substring-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-substring-i/",
+      "folderPath": "3713-longest-balanced-substring-i/",
+      "readmePath": "3713-longest-balanced-substring-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3713-longest-balanced-substring-i.cpp",
+          "path": "3713-longest-balanced-substring-i/3713-longest-balanced-substring-i.cpp",
+          "sha": "3b156aea7bc8a4ec2c40e6fce0d6b8ca9634f70c",
+          "lastSyncedAt": "2026-10-08T04:29:19.618Z"
         }
       ]
     },

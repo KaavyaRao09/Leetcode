@@ -4,8 +4,28 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-08T04:19:39.350Z",
+  "updatedAt": "2026-10-08T04:30:39.570Z",
   "problems": [
+    {
+      "frontendId": "1653",
+      "title": "Minimum Deletions to Make String Balanced",
+      "slug": "minimum-deletions-to-make-string-balanced",
+      "problemName": "1653-minimum-deletions-to-make-string-balanced",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/",
+      "folderPath": "1653-minimum-deletions-to-make-string-balanced/",
+      "readmePath": "1653-minimum-deletions-to-make-string-balanced/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1653-minimum-deletions-to-make-string-balanced.cpp",
+          "path": "1653-minimum-deletions-to-make-string-balanced/1653-minimum-deletions-to-make-string-balanced.cpp",
+          "sha": "0adf100ff9dbeab0131eea69a41b57ccf35bda28",
+          "lastSyncedAt": "2026-10-08T04:30:39.570Z"
+        }
+      ]
+    },
     {
       "frontendId": "2130",
       "title": "Maximum Twin Sum of a Linked List",

@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:44:55.123Z",
+  "updatedAt": "2026-10-08T04:45:21.814Z",
   "problems": [
     {
       "frontendId": "48",
@@ -583,6 +583,26 @@
           "path": "3577-count-the-number-of-computer-unlocking-permutations/3577-count-the-number-of-computer-unlocking-permutations.cpp",
           "sha": "862e3052409caa0a58824e3365072968a5a3b683",
           "lastSyncedAt": "2026-10-08T04:43:48.336Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3625",
+      "title": "Count Number of Trapezoids II",
+      "slug": "count-number-of-trapezoids-ii",
+      "problemName": "3625-count-number-of-trapezoids-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-number-of-trapezoids-ii/",
+      "folderPath": "3625-count-number-of-trapezoids-ii/",
+      "readmePath": "3625-count-number-of-trapezoids-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3625-count-number-of-trapezoids-ii.cpp",
+          "path": "3625-count-number-of-trapezoids-ii/3625-count-number-of-trapezoids-ii.cpp",
+          "sha": "93d99ae645c633b958bbb04c4d497517b4d0917d",
+          "lastSyncedAt": "2026-10-08T04:45:21.814Z"
         }
       ]
     },

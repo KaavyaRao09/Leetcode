@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-08T04:18:03.515Z",
+  "updatedAt": "2026-10-08T04:18:17.470Z",
   "problems": [
     {
       "frontendId": "1658",
@@ -143,6 +143,26 @@
           "path": "3225-maximum-score-from-grid-operations/3225-maximum-score-from-grid-operations.cpp",
           "sha": "ae29bc9cd3537c0a7ba1d0bc17a34680aa180a52",
           "lastSyncedAt": "2026-10-08T04:13:42.631Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3653",
+      "title": "XOR After Range Multiplication Queries I",
+      "slug": "xor-after-range-multiplication-queries-i",
+      "problemName": "3653-xor-after-range-multiplication-queries-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-i/",
+      "folderPath": "3653-xor-after-range-multiplication-queries-i/",
+      "readmePath": "3653-xor-after-range-multiplication-queries-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3653-xor-after-range-multiplication-queries-i.cpp",
+          "path": "3653-xor-after-range-multiplication-queries-i/3653-xor-after-range-multiplication-queries-i.cpp",
+          "sha": "52586761fff3f4b1cdc714bb4b26ddb50648c129",
+          "lastSyncedAt": "2026-10-08T04:18:17.470Z"
         }
       ]
     },

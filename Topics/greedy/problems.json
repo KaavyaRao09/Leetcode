@@ -4,8 +4,28 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-10-08T04:01:48.092Z",
+  "updatedAt": "2026-10-08T04:03:27.864Z",
   "problems": [
+    {
+      "frontendId": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "problemName": "1833-maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "folderPath": "1833-maximum-ice-cream-bars/",
+      "readmePath": "1833-maximum-ice-cream-bars/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1833-maximum-ice-cream-bars.cpp",
+          "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.cpp",
+          "sha": "cfb6a381edc1df97bff616469a224906ab408002",
+          "lastSyncedAt": "2026-10-08T04:03:27.864Z"
+        }
+      ]
+    },
     {
       "frontendId": "1846",
       "title": "Maximum Element After Decreasing and Rearranging",

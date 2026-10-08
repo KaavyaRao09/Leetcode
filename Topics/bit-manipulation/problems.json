@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation"
+  },
+  "updatedAt": "2026-10-08T03:59:36.908Z",
+  "problems": [
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "0191-number-of-1-bits/",
+      "readmePath": "0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0191-number-of-1-bits.py",
+          "path": "0191-number-of-1-bits/0191-number-of-1-bits.py",
+          "sha": "90868dc24d58ed094c1e2af74e109989be274cdc",
+          "lastSyncedAt": "2026-10-08T03:59:36.908Z"
+        }
+      ]
+    }
+  ]
+}

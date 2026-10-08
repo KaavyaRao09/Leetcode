@@ -4,8 +4,28 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-10-08T04:31:52.428Z",
+  "updatedAt": "2026-10-08T04:35:51.262Z",
   "problems": [
+    {
+      "frontendId": "2975",
+      "title": "Maximum Square Area by Removing Fences From a Field",
+      "slug": "maximum-square-area-by-removing-fences-from-a-field",
+      "problemName": "2975-maximum-square-area-by-removing-fences-from-a-field",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/",
+      "folderPath": "2975-maximum-square-area-by-removing-fences-from-a-field/",
+      "readmePath": "2975-maximum-square-area-by-removing-fences-from-a-field/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2975-maximum-square-area-by-removing-fences-from-a-field.cpp",
+          "path": "2975-maximum-square-area-by-removing-fences-from-a-field/2975-maximum-square-area-by-removing-fences-from-a-field.cpp",
+          "sha": "95193dec9759c5ea9d881452060f966f3b69027d",
+          "lastSyncedAt": "2026-10-08T04:35:51.262Z"
+        }
+      ]
+    },
     {
       "frontendId": "3010",
       "title": "Divide an Array Into Subarrays With Minimum Cost I",

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "graph-coloring",
+    "name": "Graph Coloring"
+  },
+  "updatedAt": "2026-10-08T04:38:53.075Z",
+  "problems": [
+    {
+      "frontendId": "1411",
+      "title": "Number of Ways to Paint N × 3 Grid",
+      "slug": "number-of-ways-to-paint-n-3-grid",
+      "problemName": "1411-number-of-ways-to-paint-n-3-grid",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/",
+      "folderPath": "1411-number-of-ways-to-paint-n-3-grid/",
+      "readmePath": "1411-number-of-ways-to-paint-n-3-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1411-number-of-ways-to-paint-n-3-grid.cpp",
+          "path": "1411-number-of-ways-to-paint-n-3-grid/1411-number-of-ways-to-paint-n-3-grid.cpp",
+          "sha": "b98d3202d34fe6b1381f9858c36b467cee191316",
+          "lastSyncedAt": "2026-10-08T04:38:53.075Z"
+        }
+      ]
+    }
+  ]
+}

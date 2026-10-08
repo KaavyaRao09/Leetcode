@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:11:57.392Z",
+  "updatedAt": "2026-10-08T04:12:51.380Z",
   "problems": [
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0048-rotate-image.cpp",
+          "path": "0048-rotate-image/0048-rotate-image.cpp",
+          "sha": "9a9cbd62acca020f26cab0380cad0d2c1ed20fa7",
+          "lastSyncedAt": "2026-10-08T04:12:51.380Z"
+        }
+      ]
+    },
     {
       "frontendId": "66",
       "title": "Plus One",

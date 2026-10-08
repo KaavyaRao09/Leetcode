@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:46:19.861Z",
+  "updatedAt": "2026-10-08T04:47:03.420Z",
   "problems": [
     {
       "frontendId": "48",
@@ -143,6 +143,26 @@
           "path": "0840-magic-squares-in-grid/0840-magic-squares-in-grid.cpp",
           "sha": "4e2dbd5dde8add2032c032c3a70af1b529b69863",
           "lastSyncedAt": "2026-10-08T04:39:34.232Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1015",
+      "title": "Smallest Integer Divisible by K",
+      "slug": "smallest-integer-divisible-by-k",
+      "problemName": "1015-smallest-integer-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-integer-divisible-by-k/",
+      "folderPath": "1015-smallest-integer-divisible-by-k/",
+      "readmePath": "1015-smallest-integer-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1015-smallest-integer-divisible-by-k.cpp",
+          "path": "1015-smallest-integer-divisible-by-k/1015-smallest-integer-divisible-by-k.cpp",
+          "sha": "9e052af6879574083cabb98d13f6c284c29f2fba",
+          "lastSyncedAt": "2026-10-08T04:47:03.420Z"
         }
       ]
     },

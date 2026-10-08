@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T03:58:48.300Z",
+  "updatedAt": "2026-10-08T03:59:13.919Z",
   "problems": [
+    {
+      "frontendId": "105",
+      "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "problemName": "0105-construct-binary-tree-from-preorder-and-inorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "folderPath": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "readmePath": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
+          "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
+          "sha": "b05838ac187b33479c604485c283a79300a5451b",
+          "lastSyncedAt": "2026-10-08T03:59:13.919Z"
+        }
+      ]
+    },
     {
       "frontendId": "1658",
       "title": "Minimum Operations to Reduce X to Zero",

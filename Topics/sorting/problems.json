@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-08T04:15:03.172Z",
+  "updatedAt": "2026-10-08T04:17:17.643Z",
   "problems": [
     {
       "frontendId": "169",
@@ -183,6 +183,26 @@
           "path": "2144-minimum-cost-of-buying-candies-with-discount/2144-minimum-cost-of-buying-candies-with-discount.cpp",
           "sha": "2fb3add1936955081623169d31b718af50510403",
           "lastSyncedAt": "2026-10-08T04:07:31.016Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2463",
+      "title": "Minimum Total Distance Traveled",
+      "slug": "minimum-total-distance-traveled",
+      "problemName": "2463-minimum-total-distance-traveled",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-total-distance-traveled/",
+      "folderPath": "2463-minimum-total-distance-traveled/",
+      "readmePath": "2463-minimum-total-distance-traveled/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2463-minimum-total-distance-traveled.cpp",
+          "path": "2463-minimum-total-distance-traveled/2463-minimum-total-distance-traveled.cpp",
+          "sha": "52c972cde590e06fc0ceb6989488cd4a00b3887c",
+          "lastSyncedAt": "2026-10-08T04:17:17.643Z"
         }
       ]
     },

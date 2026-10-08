@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-10-08T04:30:25.415Z",
+  "updatedAt": "2026-10-08T04:37:22.202Z",
   "problems": [
     {
       "frontendId": "110",
@@ -23,6 +23,26 @@
           "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.cpp",
           "sha": "07adadfec7cab7c5f40edcd609c7d07bf1178d11",
           "lastSyncedAt": "2026-10-08T04:30:25.415Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "865",
+      "title": "Smallest Subtree with all the Deepest Nodes",
+      "slug": "smallest-subtree-with-all-the-deepest-nodes",
+      "problemName": "0865-smallest-subtree-with-all-the-deepest-nodes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/",
+      "folderPath": "0865-smallest-subtree-with-all-the-deepest-nodes/",
+      "readmePath": "0865-smallest-subtree-with-all-the-deepest-nodes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0865-smallest-subtree-with-all-the-deepest-nodes.cpp",
+          "path": "0865-smallest-subtree-with-all-the-deepest-nodes/0865-smallest-subtree-with-all-the-deepest-nodes.cpp",
+          "sha": "437e99367a5b6b2801a3fd4defa0bdb7141fa3bf",
+          "lastSyncedAt": "2026-10-08T04:37:22.202Z"
         }
       ]
     },

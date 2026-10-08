@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:49:58.506Z",
+  "updatedAt": "2026-10-08T04:50:44.106Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1603,6 +1603,26 @@
           "path": "2515-shortest-distance-to-target-string-in-a-circular-array/2515-shortest-distance-to-target-string-in-a-circular-array.cpp",
           "sha": "e9197b71620b04c1fdc5897fa79cc89b377fc299",
           "lastSyncedAt": "2026-10-08T04:17:09.054Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2528",
+      "title": "Maximize the Minimum Powered City",
+      "slug": "maximize-the-minimum-powered-city",
+      "problemName": "2528-maximize-the-minimum-powered-city",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-minimum-powered-city/",
+      "folderPath": "2528-maximize-the-minimum-powered-city/",
+      "readmePath": "2528-maximize-the-minimum-powered-city/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2528-maximize-the-minimum-powered-city.cpp",
+          "path": "2528-maximize-the-minimum-powered-city/2528-maximize-the-minimum-powered-city.cpp",
+          "sha": "f2e6ecd1e65957b0038ccb3899ea2b1af9084208",
+          "lastSyncedAt": "2026-10-08T04:50:44.106Z"
         }
       ]
     },

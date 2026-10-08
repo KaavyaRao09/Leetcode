@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-10-08T04:39:16.566Z",
+  "updatedAt": "2026-10-08T04:41:53.632Z",
   "problems": [
     {
       "frontendId": "1391",
@@ -83,6 +83,26 @@
           "path": "1970-last-day-where-you-can-still-cross/1970-last-day-where-you-can-still-cross.cpp",
           "sha": "e245e6a1c913c3599b37d6f55f6c37f1272eeddd",
           "lastSyncedAt": "2026-10-08T04:39:16.566Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2092",
+      "title": "Find All People With Secret",
+      "slug": "find-all-people-with-secret",
+      "problemName": "2092-find-all-people-with-secret",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-people-with-secret/",
+      "folderPath": "2092-find-all-people-with-secret/",
+      "readmePath": "2092-find-all-people-with-secret/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2092-find-all-people-with-secret.cpp",
+          "path": "2092-find-all-people-with-secret/2092-find-all-people-with-secret.cpp",
+          "sha": "1e632f3661dfeb21f674c6c561e55c3b35a2c7cf",
+          "lastSyncedAt": "2026-10-08T04:41:53.632Z"
         }
       ]
     },

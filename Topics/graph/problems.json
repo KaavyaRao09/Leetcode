@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-10-08T04:41:53.632Z",
+  "updatedAt": "2026-10-08T04:51:03.829Z",
   "problems": [
     {
       "frontendId": "2092",
@@ -83,6 +83,26 @@
           "path": "3600-maximize-spanning-tree-stability-with-upgrades/3600-maximize-spanning-tree-stability-with-upgrades.cpp",
           "sha": "b162a7d56949abcb4dabb69de041f5d0e4ff2310",
           "lastSyncedAt": "2026-10-08T04:24:13.125Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3607",
+      "title": "Power Grid Maintenance",
+      "slug": "power-grid-maintenance",
+      "problemName": "3607-power-grid-maintenance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/power-grid-maintenance/",
+      "folderPath": "3607-power-grid-maintenance/",
+      "readmePath": "3607-power-grid-maintenance/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3607-power-grid-maintenance.cpp",
+          "path": "3607-power-grid-maintenance/3607-power-grid-maintenance.cpp",
+          "sha": "de319dfbcb3349e654b81f02399d530dde3def4c",
+          "lastSyncedAt": "2026-10-08T04:51:03.829Z"
         }
       ]
     },

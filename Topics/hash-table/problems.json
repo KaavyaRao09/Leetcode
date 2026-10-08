@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table"
+  },
+  "updatedAt": "2026-10-08T03:58:48.300Z",
+  "problems": [
+    {
+      "frontendId": "1658",
+      "title": "Minimum Operations to Reduce X to Zero",
+      "slug": "minimum-operations-to-reduce-x-to-zero",
+      "problemName": "1658-minimum-operations-to-reduce-x-to-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/",
+      "folderPath": "1658-minimum-operations-to-reduce-x-to-zero/",
+      "readmePath": "1658-minimum-operations-to-reduce-x-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1658-minimum-operations-to-reduce-x-to-zero.py",
+          "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
+          "sha": "00ee1758c90b70446b9d6910d276ef8b2a6662e8",
+          "lastSyncedAt": "2026-10-08T03:58:48.300Z"
+        }
+      ]
+    }
+  ]
+}

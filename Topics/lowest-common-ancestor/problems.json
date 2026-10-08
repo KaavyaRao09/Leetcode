@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "lowest-common-ancestor",
+    "name": "Lowest Common Ancestor"
+  },
+  "updatedAt": "2026-10-08T04:37:22.202Z",
+  "problems": [
+    {
+      "frontendId": "865",
+      "title": "Smallest Subtree with all the Deepest Nodes",
+      "slug": "smallest-subtree-with-all-the-deepest-nodes",
+      "problemName": "0865-smallest-subtree-with-all-the-deepest-nodes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/",
+      "folderPath": "0865-smallest-subtree-with-all-the-deepest-nodes/",
+      "readmePath": "0865-smallest-subtree-with-all-the-deepest-nodes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0865-smallest-subtree-with-all-the-deepest-nodes.cpp",
+          "path": "0865-smallest-subtree-with-all-the-deepest-nodes/0865-smallest-subtree-with-all-the-deepest-nodes.cpp",
+          "sha": "437e99367a5b6b2801a3fd4defa0bdb7141fa3bf",
+          "lastSyncedAt": "2026-10-08T04:37:22.202Z"
+        }
+      ]
+    }
+  ]
+}

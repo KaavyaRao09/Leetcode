@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:07:31.016Z",
+  "updatedAt": "2026-10-08T04:07:44.429Z",
   "problems": [
     {
       "frontendId": "27",
@@ -263,6 +263,26 @@
           "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
           "sha": "cb26e9b60bd339f171f5abf84715021c14329660",
           "lastSyncedAt": "2026-10-08T04:01:38.646Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2126",
+      "title": "Destroying Asteroids",
+      "slug": "destroying-asteroids",
+      "problemName": "2126-destroying-asteroids",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/destroying-asteroids/",
+      "folderPath": "2126-destroying-asteroids/",
+      "readmePath": "2126-destroying-asteroids/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2126-destroying-asteroids.cpp",
+          "path": "2126-destroying-asteroids/2126-destroying-asteroids.cpp",
+          "sha": "8e0643318f4bfb339de71813473911d5382eb0ca",
+          "lastSyncedAt": "2026-10-08T04:07:44.429Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-10-08T04:27:13.504Z",
+  "updatedAt": "2026-10-08T04:30:06.254Z",
   "problems": [
     {
       "frontendId": "105",
@@ -63,6 +63,26 @@
           "path": "1022-sum-of-root-to-leaf-binary-numbers/1022-sum-of-root-to-leaf-binary-numbers.cpp",
           "sha": "0cf26f32fc470cd26d2ea516788db3a7d475db39",
           "lastSyncedAt": "2026-10-08T04:27:13.504Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1382",
+      "title": "Balance a Binary Search Tree",
+      "slug": "balance-a-binary-search-tree",
+      "problemName": "1382-balance-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+      "folderPath": "1382-balance-a-binary-search-tree/",
+      "readmePath": "1382-balance-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1382-balance-a-binary-search-tree.cpp",
+          "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.cpp",
+          "sha": "9258d0f6c0070c4ca2dc2e7886e01466a1eb8691",
+          "lastSyncedAt": "2026-10-08T04:30:06.254Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:17:54.823Z",
+  "updatedAt": "2026-10-08T04:18:40.710Z",
   "problems": [
     {
       "frontendId": "105",
@@ -43,6 +43,26 @@
           "path": "0169-majority-element/0169-majority-element.py",
           "sha": "acd3ee17216b129af1dead300f1c65490a8a50ad",
           "lastSyncedAt": "2026-10-08T03:59:46.753Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "874",
+      "title": "Walking Robot Simulation",
+      "slug": "walking-robot-simulation",
+      "problemName": "0874-walking-robot-simulation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/walking-robot-simulation/",
+      "folderPath": "0874-walking-robot-simulation/",
+      "readmePath": "0874-walking-robot-simulation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0874-walking-robot-simulation.cpp",
+          "path": "0874-walking-robot-simulation/0874-walking-robot-simulation.cpp",
+          "sha": "69dda39e41cd256cf88813a4c18f6f3150dde0f3",
+          "lastSyncedAt": "2026-10-08T04:18:40.710Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:39:47.366Z",
+  "updatedAt": "2026-10-08T04:40:28.134Z",
   "problems": [
     {
       "frontendId": "67",
@@ -483,6 +483,26 @@
           "path": "2452-words-within-two-edits-of-dictionary/2452-words-within-two-edits-of-dictionary.cpp",
           "sha": "2de4db7545a3b08e7a1906e6efed2037537e78a3",
           "lastSyncedAt": "2026-10-08T04:15:45.465Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2483",
+      "title": "Minimum Penalty for a Shop",
+      "slug": "minimum-penalty-for-a-shop",
+      "problemName": "2483-minimum-penalty-for-a-shop",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-penalty-for-a-shop/",
+      "folderPath": "2483-minimum-penalty-for-a-shop/",
+      "readmePath": "2483-minimum-penalty-for-a-shop/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2483-minimum-penalty-for-a-shop.cpp",
+          "path": "2483-minimum-penalty-for-a-shop/2483-minimum-penalty-for-a-shop.cpp",
+          "sha": "f727dd6b020b75dae1e4579a58be604c45a32092",
+          "lastSyncedAt": "2026-10-08T04:40:28.134Z"
         }
       ]
     },

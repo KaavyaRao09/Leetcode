@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sieve-theory",
+    "name": "Sieve Theory"
+  },
+  "updatedAt": "2026-10-08T04:38:37.520Z",
+  "problems": [
+    {
+      "frontendId": "1390",
+      "title": "Four Divisors",
+      "slug": "four-divisors",
+      "problemName": "1390-four-divisors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/four-divisors/",
+      "folderPath": "1390-four-divisors/",
+      "readmePath": "1390-four-divisors/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1390-four-divisors.cpp",
+          "path": "1390-four-divisors/1390-four-divisors.cpp",
+          "sha": "c222d36ae80c37286abe1e82bba69c2ac50173b7",
+          "lastSyncedAt": "2026-10-08T04:38:37.520Z"
+        }
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:44:32.434Z",
+  "updatedAt": "2026-10-08T04:44:55.123Z",
   "problems": [
     {
       "frontendId": "27",
@@ -2063,6 +2063,26 @@
           "path": "3418-maximum-amount-of-money-robot-can-earn/3418-maximum-amount-of-money-robot-can-earn.cpp",
           "sha": "ac4ece51c4831aec2025dddd1b13229009188b7c",
           "lastSyncedAt": "2026-10-08T04:19:27.350Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3432",
+      "title": "Count Partitions with Even Sum Difference",
+      "slug": "count-partitions-with-even-sum-difference",
+      "problemName": "3432-count-partitions-with-even-sum-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-partitions-with-even-sum-difference/",
+      "folderPath": "3432-count-partitions-with-even-sum-difference/",
+      "readmePath": "3432-count-partitions-with-even-sum-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3432-count-partitions-with-even-sum-difference.cpp",
+          "path": "3432-count-partitions-with-even-sum-difference/3432-count-partitions-with-even-sum-difference.cpp",
+          "sha": "b7bd0eb4ddd24d8bfafe4ad0dc169bdf16d5f6bb",
+          "lastSyncedAt": "2026-10-08T04:44:55.123Z"
         }
       ]
     },

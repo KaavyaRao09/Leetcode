@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:25:24.186Z",
+  "updatedAt": "2026-10-08T04:25:34.266Z",
   "problems": [
     {
       "frontendId": "657",
@@ -123,6 +123,26 @@
           "path": "1763-longest-nice-substring/1763-longest-nice-substring.py",
           "sha": "10157b3fa3612123f7f14fb671fd3cd4797ed488",
           "lastSyncedAt": "2026-10-08T04:00:25.456Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1784",
+      "title": "Check if Binary String Has at Most One Segment of Ones",
+      "slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+      "problemName": "1784-check-if-binary-string-has-at-most-one-segment-of-ones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
+      "folderPath": "1784-check-if-binary-string-has-at-most-one-segment-of-ones/",
+      "readmePath": "1784-check-if-binary-string-has-at-most-one-segment-of-ones/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1784-check-if-binary-string-has-at-most-one-segment-of-ones.cpp",
+          "path": "1784-check-if-binary-string-has-at-most-one-segment-of-ones/1784-check-if-binary-string-has-at-most-one-segment-of-ones.cpp",
+          "sha": "c93060b8a266fca80e563a1004fee601c34fbf43",
+          "lastSyncedAt": "2026-10-08T04:25:34.266Z"
         }
       ]
     },

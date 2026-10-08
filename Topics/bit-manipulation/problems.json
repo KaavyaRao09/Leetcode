@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-08T04:27:24.284Z",
+  "updatedAt": "2026-10-08T04:27:47.305Z",
   "problems": [
     {
       "frontendId": "191",
@@ -23,6 +23,26 @@
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.py",
           "sha": "90868dc24d58ed094c1e2af74e109989be274cdc",
           "lastSyncedAt": "2026-10-08T03:59:36.908Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "868",
+      "title": "Binary Gap",
+      "slug": "binary-gap",
+      "problemName": "0868-binary-gap",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-gap/",
+      "folderPath": "0868-binary-gap/",
+      "readmePath": "0868-binary-gap/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0868-binary-gap.cpp",
+          "path": "0868-binary-gap/0868-binary-gap.cpp",
+          "sha": "f353b1950ecbf6b3581f18f47d51c121cb9ac52e",
+          "lastSyncedAt": "2026-10-08T04:27:47.305Z"
         }
       ]
     },

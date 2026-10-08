@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-10-08T04:38:03.694Z",
+  "updatedAt": "2026-10-08T04:38:12.591Z",
   "problems": [
     {
       "frontendId": "105",
@@ -103,6 +103,26 @@
           "path": "1022-sum-of-root-to-leaf-binary-numbers/1022-sum-of-root-to-leaf-binary-numbers.cpp",
           "sha": "0cf26f32fc470cd26d2ea516788db3a7d475db39",
           "lastSyncedAt": "2026-10-08T04:27:13.504Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1161",
+      "title": "Maximum Level Sum of a Binary Tree",
+      "slug": "maximum-level-sum-of-a-binary-tree",
+      "problemName": "1161-maximum-level-sum-of-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/",
+      "folderPath": "1161-maximum-level-sum-of-a-binary-tree/",
+      "readmePath": "1161-maximum-level-sum-of-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1161-maximum-level-sum-of-a-binary-tree.cpp",
+          "path": "1161-maximum-level-sum-of-a-binary-tree/1161-maximum-level-sum-of-a-binary-tree.cpp",
+          "sha": "f1243eee3b44697d9c91451340e6416ff6cd96f7",
+          "lastSyncedAt": "2026-10-08T04:38:12.591Z"
         }
       ]
     },

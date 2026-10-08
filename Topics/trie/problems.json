@@ -4,8 +4,28 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-10-08T04:08:24.730Z",
+  "updatedAt": "2026-10-08T04:09:38.271Z",
   "problems": [
+    {
+      "frontendId": "3043",
+      "title": "Find the Length of the Longest Common Prefix",
+      "slug": "find-the-length-of-the-longest-common-prefix",
+      "problemName": "3043-find-the-length-of-the-longest-common-prefix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+      "folderPath": "3043-find-the-length-of-the-longest-common-prefix/",
+      "readmePath": "3043-find-the-length-of-the-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3043-find-the-length-of-the-longest-common-prefix.cpp",
+          "path": "3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.cpp",
+          "sha": "26960254a584372a37a1486152c9e9778eadcdae",
+          "lastSyncedAt": "2026-10-08T04:09:38.271Z"
+        }
+      ]
+    },
     {
       "frontendId": "3093",
       "title": "Longest Common Suffix Queries",

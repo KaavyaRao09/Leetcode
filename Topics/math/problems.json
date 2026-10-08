@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:52:30.972Z",
+  "updatedAt": "2026-10-08T04:52:57.083Z",
   "problems": [
     {
       "frontendId": "48",
@@ -603,6 +603,26 @@
           "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.cpp",
           "sha": "06202bfe32b903cda76775ff223d4f34dad0055a",
           "lastSyncedAt": "2026-10-08T04:08:14.855Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3370",
+      "title": "Smallest Number With All Set Bits",
+      "slug": "smallest-number-with-all-set-bits",
+      "problemName": "3370-smallest-number-with-all-set-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-number-with-all-set-bits/",
+      "folderPath": "3370-smallest-number-with-all-set-bits/",
+      "readmePath": "3370-smallest-number-with-all-set-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3370-smallest-number-with-all-set-bits.cpp",
+          "path": "3370-smallest-number-with-all-set-bits/3370-smallest-number-with-all-set-bits.cpp",
+          "sha": "a06a1b2982dea4c053da4d3027ea579b8bb7c3e9",
+          "lastSyncedAt": "2026-10-08T04:52:57.083Z"
         }
       ]
     },

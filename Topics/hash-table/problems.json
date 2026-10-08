@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:39:47.366Z",
+  "updatedAt": "2026-10-08T04:40:12.249Z",
   "problems": [
     {
       "frontendId": "105",
@@ -303,6 +303,26 @@
           "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.cpp",
           "sha": "c35235174717afbe7a8e328aa8741a5b6f824ab0",
           "lastSyncedAt": "2026-10-08T04:06:15.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2402",
+      "title": "Meeting Rooms III",
+      "slug": "meeting-rooms-iii",
+      "problemName": "2402-meeting-rooms-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-iii/",
+      "folderPath": "2402-meeting-rooms-iii/",
+      "readmePath": "2402-meeting-rooms-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2402-meeting-rooms-iii.cpp",
+          "path": "2402-meeting-rooms-iii/2402-meeting-rooms-iii.cpp",
+          "sha": "3d6f9e40d1d02c75ec75d39424e0017f05420346",
+          "lastSyncedAt": "2026-10-08T04:40:12.249Z"
         }
       ]
     },

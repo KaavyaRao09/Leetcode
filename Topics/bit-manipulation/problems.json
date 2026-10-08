@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-08T04:27:53.446Z",
+  "updatedAt": "2026-10-08T04:28:26.574Z",
   "problems": [
     {
       "frontendId": "191",
@@ -23,6 +23,26 @@
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.py",
           "sha": "90868dc24d58ed094c1e2af74e109989be274cdc",
           "lastSyncedAt": "2026-10-08T03:59:36.908Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "401",
+      "title": "Binary Watch",
+      "slug": "binary-watch",
+      "problemName": "0401-binary-watch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-watch/",
+      "folderPath": "0401-binary-watch/",
+      "readmePath": "0401-binary-watch/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0401-binary-watch.cpp",
+          "path": "0401-binary-watch/0401-binary-watch.cpp",
+          "sha": "44ff666a8060c5d47a120e6bd6a6fba47f01f012",
+          "lastSyncedAt": "2026-10-08T04:28:26.574Z"
         }
       ]
     },

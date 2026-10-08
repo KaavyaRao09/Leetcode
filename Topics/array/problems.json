@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:22:16.640Z",
+  "updatedAt": "2026-10-08T04:22:31.180Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1123,6 +1123,26 @@
           "path": "3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.cpp",
           "sha": "26960254a584372a37a1486152c9e9778eadcdae",
           "lastSyncedAt": "2026-10-08T04:09:38.271Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3070",
+      "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+      "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "problemName": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/",
+      "folderPath": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/",
+      "readmePath": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k.cpp",
+          "path": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.cpp",
+          "sha": "cada6f5e57a6894504ac68344b5c1454c4382155",
+          "lastSyncedAt": "2026-10-08T04:22:31.180Z"
         }
       ]
     },

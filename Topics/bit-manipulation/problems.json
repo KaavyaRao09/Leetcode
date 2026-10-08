@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-08T04:05:11.456Z",
+  "updatedAt": "2026-10-08T04:09:50.002Z",
   "problems": [
     {
       "frontendId": "191",
@@ -43,6 +43,26 @@
           "path": "1763-longest-nice-substring/1763-longest-nice-substring.py",
           "sha": "10157b3fa3612123f7f14fb671fd3cd4797ed488",
           "lastSyncedAt": "2026-10-08T04:00:25.456Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2657",
+      "title": "Find the Prefix Common Array of Two Arrays",
+      "slug": "find-the-prefix-common-array-of-two-arrays",
+      "problemName": "2657-find-the-prefix-common-array-of-two-arrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/",
+      "folderPath": "2657-find-the-prefix-common-array-of-two-arrays/",
+      "readmePath": "2657-find-the-prefix-common-array-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2657-find-the-prefix-common-array-of-two-arrays.cpp",
+          "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.cpp",
+          "sha": "2487b50e7591683dd046d5f57cc7a007aef699e3",
+          "lastSyncedAt": "2026-10-08T04:09:50.002Z"
         }
       ]
     },

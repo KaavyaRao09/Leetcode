@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-08T04:09:27.843Z",
+  "updatedAt": "2026-10-08T04:09:59.371Z",
   "problems": [
     {
       "frontendId": "33",
@@ -63,6 +63,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
           "sha": "00ee1758c90b70446b9d6910d276ef8b2a6662e8",
           "lastSyncedAt": "2026-10-08T03:58:48.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "2540-minimum-common-value/",
+      "readmePath": "2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2540-minimum-common-value.cpp",
+          "path": "2540-minimum-common-value/2540-minimum-common-value.cpp",
+          "sha": "d84996c286f43b9b1dc75b9612d7b2f3bcf23db0",
+          "lastSyncedAt": "2026-10-08T04:09:59.371Z"
         }
       ]
     },

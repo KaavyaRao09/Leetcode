@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-08T04:45:08.191Z",
+  "updatedAt": "2026-10-08T04:48:11.735Z",
   "problems": [
     {
       "frontendId": "67",
@@ -183,6 +183,26 @@
           "path": "2075-decode-the-slanted-ciphertext/2075-decode-the-slanted-ciphertext.cpp",
           "sha": "166544d5e181d52edefafc02c3bdfdc193b5ba67",
           "lastSyncedAt": "2026-10-08T04:19:00.924Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2154",
+      "title": "Keep Multiplying Found Values by Two",
+      "slug": "keep-multiplying-found-values-by-two",
+      "problemName": "2154-keep-multiplying-found-values-by-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/",
+      "folderPath": "2154-keep-multiplying-found-values-by-two/",
+      "readmePath": "2154-keep-multiplying-found-values-by-two/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2154-keep-multiplying-found-values-by-two.cpp",
+          "path": "2154-keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.cpp",
+          "sha": "073f4589a56441d755024ee8a9ab2749d9c5bd47",
+          "lastSyncedAt": "2026-10-08T04:48:11.735Z"
         }
       ]
     },

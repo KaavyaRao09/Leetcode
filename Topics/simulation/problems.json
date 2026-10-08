@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-08T04:28:49.107Z",
+  "updatedAt": "2026-10-08T04:31:11.470Z",
   "problems": [
     {
       "frontendId": "67",
@@ -263,6 +263,26 @@
           "path": "2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.cpp",
           "sha": "2d3139bdefd53549150a3e73022a7fe22dd157e8",
           "lastSyncedAt": "2026-10-08T04:20:37.319Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3379",
+      "title": "Transformed Array",
+      "slug": "transformed-array",
+      "problemName": "3379-transformed-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/transformed-array/",
+      "folderPath": "3379-transformed-array/",
+      "readmePath": "3379-transformed-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3379-transformed-array.cpp",
+          "path": "3379-transformed-array/3379-transformed-array.cpp",
+          "sha": "e52595635319da2a54c391a89245f86411faed24",
+          "lastSyncedAt": "2026-10-08T04:31:11.470Z"
         }
       ]
     },

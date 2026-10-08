@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking"
+  },
+  "updatedAt": "2026-10-08T04:23:41.252Z",
+  "problems": [
+    {
+      "frontendId": "1415",
+      "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+      "slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "problemName": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+      "folderPath": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/",
+      "readmePath": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.cpp",
+          "path": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.cpp",
+          "sha": "89fff5a3ab18d2937433c3e490747eb981eed45f",
+          "lastSyncedAt": "2026-10-08T04:23:41.252Z"
+        }
+      ]
+    }
+  ]
+}

@@ -4,8 +4,28 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-08T04:04:43.395Z",
+  "updatedAt": "2026-10-08T04:12:42.827Z",
   "problems": [
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0061-rotate-list.cpp",
+          "path": "0061-rotate-list/0061-rotate-list.cpp",
+          "sha": "eaef675e154eac32e9bb9262711eed43c7d3bbf4",
+          "lastSyncedAt": "2026-10-08T04:12:42.827Z"
+        }
+      ]
+    },
     {
       "frontendId": "2095",
       "title": "Delete the Middle Node of a Linked List",

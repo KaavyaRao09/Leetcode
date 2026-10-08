@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-08T04:44:55.123Z",
+  "updatedAt": "2026-10-08T04:46:06.862Z",
   "problems": [
     {
       "frontendId": "1292",
@@ -23,6 +23,26 @@
           "path": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp",
           "sha": "184a6778a5cee2b98741559bea16cf95d22aa9a4",
           "lastSyncedAt": "2026-10-08T04:35:09.278Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1590",
+      "title": "Make Sum Divisible by P",
+      "slug": "make-sum-divisible-by-p",
+      "problemName": "1590-make-sum-divisible-by-p",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/make-sum-divisible-by-p/",
+      "folderPath": "1590-make-sum-divisible-by-p/",
+      "readmePath": "1590-make-sum-divisible-by-p/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1590-make-sum-divisible-by-p.cpp",
+          "path": "1590-make-sum-divisible-by-p/1590-make-sum-divisible-by-p.cpp",
+          "sha": "88cb2168569083078d0baa74f76f4921cdc48c76",
+          "lastSyncedAt": "2026-10-08T04:46:06.862Z"
         }
       ]
     },

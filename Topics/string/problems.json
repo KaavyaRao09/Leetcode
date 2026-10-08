@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:49:11.510Z",
+  "updatedAt": "2026-10-08T04:49:40.743Z",
   "problems": [
     {
       "frontendId": "67",
@@ -23,6 +23,26 @@
           "path": "0067-add-binary/0067-add-binary.cpp",
           "sha": "b1637b4d9e3dd715e776855c1a271509b84b63b7",
           "lastSyncedAt": "2026-10-08T04:28:49.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "474",
+      "title": "Ones and Zeroes",
+      "slug": "ones-and-zeroes",
+      "problemName": "0474-ones-and-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/ones-and-zeroes/",
+      "folderPath": "0474-ones-and-zeroes/",
+      "readmePath": "0474-ones-and-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0474-ones-and-zeroes.cpp",
+          "path": "0474-ones-and-zeroes/0474-ones-and-zeroes.cpp",
+          "sha": "50c773c47d51eeb70863e1718b918f4fc4692f91",
+          "lastSyncedAt": "2026-10-08T04:49:40.743Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:48:34.721Z",
+  "updatedAt": "2026-10-08T04:48:59.141Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1583,6 +1583,26 @@
           "path": "2515-shortest-distance-to-target-string-in-a-circular-array/2515-shortest-distance-to-target-string-in-a-circular-array.cpp",
           "sha": "e9197b71620b04c1fdc5897fa79cc89b377fc299",
           "lastSyncedAt": "2026-10-08T04:17:09.054Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2536",
+      "title": "Increment Submatrices by One",
+      "slug": "increment-submatrices-by-one",
+      "problemName": "2536-increment-submatrices-by-one",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/increment-submatrices-by-one/",
+      "folderPath": "2536-increment-submatrices-by-one/",
+      "readmePath": "2536-increment-submatrices-by-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2536-increment-submatrices-by-one.cpp",
+          "path": "2536-increment-submatrices-by-one/2536-increment-submatrices-by-one.cpp",
+          "sha": "ff8d53fa0f39ae763d8bc3e91cbfece87853d7fc",
+          "lastSyncedAt": "2026-10-08T04:48:59.141Z"
         }
       ]
     },

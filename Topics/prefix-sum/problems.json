@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-08T04:53:04.488Z",
+  "updatedAt": "2026-10-08T04:54:15.778Z",
   "problems": [
     {
       "frontendId": "1292",
@@ -403,6 +403,26 @@
           "path": "3225-maximum-score-from-grid-operations/3225-maximum-score-from-grid-operations.cpp",
           "sha": "ae29bc9cd3537c0a7ba1d0bc17a34680aa180a52",
           "lastSyncedAt": "2026-10-08T04:13:42.631Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3347",
+      "title": "Maximum Frequency of an Element After Performing Operations II",
+      "slug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+      "problemName": "3347-maximum-frequency-of-an-element-after-performing-operations-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/",
+      "folderPath": "3347-maximum-frequency-of-an-element-after-performing-operations-ii/",
+      "readmePath": "3347-maximum-frequency-of-an-element-after-performing-operations-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3347-maximum-frequency-of-an-element-after-performing-operations-ii.cpp",
+          "path": "3347-maximum-frequency-of-an-element-after-performing-operations-ii/3347-maximum-frequency-of-an-element-after-performing-operations-ii.cpp",
+          "sha": "bfdd93bb3f976cb27161743dfbe7323213bff77c",
+          "lastSyncedAt": "2026-10-08T04:54:15.778Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:05:41.339Z",
+  "updatedAt": "2026-10-08T04:05:55.976Z",
   "problems": [
     {
       "frontendId": "27",
@@ -303,6 +303,26 @@
           "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.cpp",
           "sha": "426ccf00cd1125784208b53bd9bcb46b418c7aea",
           "lastSyncedAt": "2026-10-08T04:05:11.456Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3689",
+      "title": "Maximum Total Subarray Value I",
+      "slug": "maximum-total-subarray-value-i",
+      "problemName": "3689-maximum-total-subarray-value-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-subarray-value-i/",
+      "folderPath": "3689-maximum-total-subarray-value-i/",
+      "readmePath": "3689-maximum-total-subarray-value-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3689-maximum-total-subarray-value-i.cpp",
+          "path": "3689-maximum-total-subarray-value-i/3689-maximum-total-subarray-value-i.cpp",
+          "sha": "b9bd865f426056ddb770fc1a05c6e9d8a2b3192f",
+          "lastSyncedAt": "2026-10-08T04:05:55.976Z"
         }
       ]
     },

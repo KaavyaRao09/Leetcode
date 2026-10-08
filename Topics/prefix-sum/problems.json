@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-08T04:35:09.278Z",
+  "updatedAt": "2026-10-08T04:35:24.758Z",
   "problems": [
     {
       "frontendId": "1292",
@@ -123,6 +123,26 @@
           "path": "1878-get-biggest-three-rhombus-sums-in-a-grid/1878-get-biggest-three-rhombus-sums-in-a-grid.cpp",
           "sha": "961d889063fd6411d9e8541805bfba102b612e2f",
           "lastSyncedAt": "2026-10-08T04:23:00.513Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1895",
+      "title": "Largest Magic Square",
+      "slug": "largest-magic-square",
+      "problemName": "1895-largest-magic-square",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-magic-square/",
+      "folderPath": "1895-largest-magic-square/",
+      "readmePath": "1895-largest-magic-square/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1895-largest-magic-square.cpp",
+          "path": "1895-largest-magic-square/1895-largest-magic-square.cpp",
+          "sha": "1ce84e65dbc9f25dc40b151f2288cd51855df7a9",
+          "lastSyncedAt": "2026-10-08T04:35:24.758Z"
         }
       ]
     },

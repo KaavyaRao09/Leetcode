@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-08T04:04:43.395Z",
+  "updatedAt": "2026-10-08T04:19:39.350Z",
   "problems": [
     {
       "frontendId": "2130",
@@ -23,6 +23,26 @@
           "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.cpp",
           "sha": "a91e1b02850b80c1b4b067e43996b747d75028db",
           "lastSyncedAt": "2026-10-08T04:04:43.395Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2751",
+      "title": "Robot Collisions",
+      "slug": "robot-collisions",
+      "problemName": "2751-robot-collisions",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-collisions/",
+      "folderPath": "2751-robot-collisions/",
+      "readmePath": "2751-robot-collisions/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2751-robot-collisions.cpp",
+          "path": "2751-robot-collisions/2751-robot-collisions.cpp",
+          "sha": "4e8f28ee9ab09bf2b9e1cbd22639c342b7c67f0f",
+          "lastSyncedAt": "2026-10-08T04:19:39.350Z"
         }
       ]
     }

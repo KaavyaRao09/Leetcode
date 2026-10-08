@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:43:37.597Z",
+  "updatedAt": "2026-10-08T04:43:48.336Z",
   "problems": [
     {
       "frontendId": "27",
@@ -2343,6 +2343,26 @@
           "path": "3573-best-time-to-buy-and-sell-stock-v/3573-best-time-to-buy-and-sell-stock-v.cpp",
           "sha": "b7d9f8af099be77e84280f36fb104112db168b55",
           "lastSyncedAt": "2026-10-08T04:42:21.097Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3577",
+      "title": "Count the Number of Computer Unlocking Permutations",
+      "slug": "count-the-number-of-computer-unlocking-permutations",
+      "problemName": "3577-count-the-number-of-computer-unlocking-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/",
+      "folderPath": "3577-count-the-number-of-computer-unlocking-permutations/",
+      "readmePath": "3577-count-the-number-of-computer-unlocking-permutations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3577-count-the-number-of-computer-unlocking-permutations.cpp",
+          "path": "3577-count-the-number-of-computer-unlocking-permutations/3577-count-the-number-of-computer-unlocking-permutations.cpp",
+          "sha": "862e3052409caa0a58824e3365072968a5a3b683",
+          "lastSyncedAt": "2026-10-08T04:43:48.336Z"
         }
       ]
     },

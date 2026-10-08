@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:22:31.180Z",
+  "updatedAt": "2026-10-08T04:22:44.686Z",
   "problems": [
     {
       "frontendId": "27",
@@ -463,6 +463,26 @@
           "path": "1722-minimize-hamming-distance-after-swap-operations/1722-minimize-hamming-distance-after-swap-operations.cpp",
           "sha": "2b5b324d0b94085c64cd177767facca63dc4a2f3",
           "lastSyncedAt": "2026-10-08T04:15:59.130Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1727",
+      "title": "Largest Submatrix With Rearrangements",
+      "slug": "largest-submatrix-with-rearrangements",
+      "problemName": "1727-largest-submatrix-with-rearrangements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-submatrix-with-rearrangements/",
+      "folderPath": "1727-largest-submatrix-with-rearrangements/",
+      "readmePath": "1727-largest-submatrix-with-rearrangements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1727-largest-submatrix-with-rearrangements.cpp",
+          "path": "1727-largest-submatrix-with-rearrangements/1727-largest-submatrix-with-rearrangements.cpp",
+          "sha": "ab189ff762b620cddde5efdd260c93a24a00ecbe",
+          "lastSyncedAt": "2026-10-08T04:22:44.686Z"
         }
       ]
     },

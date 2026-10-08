@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:27:24.284Z",
+  "updatedAt": "2026-10-08T04:29:08.237Z",
   "problems": [
     {
       "frontendId": "105",
@@ -463,6 +463,26 @@
           "path": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/3629-minimum-jumps-to-reach-end-via-prime-teleportation.cpp",
           "sha": "03be87bfcef9df4eccf2b4e28679017c95820964",
           "lastSyncedAt": "2026-10-08T04:11:57.392Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3714",
+      "title": "Longest Balanced Substring II",
+      "slug": "longest-balanced-substring-ii",
+      "problemName": "3714-longest-balanced-substring-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-substring-ii/",
+      "folderPath": "3714-longest-balanced-substring-ii/",
+      "readmePath": "3714-longest-balanced-substring-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3714-longest-balanced-substring-ii.cpp",
+          "path": "3714-longest-balanced-substring-ii/3714-longest-balanced-substring-ii.cpp",
+          "sha": "761edc3136bf42e7f9f5f4c90bd17d4b4ec6b9be",
+          "lastSyncedAt": "2026-10-08T04:29:08.237Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:20:52.814Z",
+  "updatedAt": "2026-10-08T04:25:10.657Z",
   "problems": [
     {
       "frontendId": "105",
@@ -163,6 +163,26 @@
           "path": "1763-longest-nice-substring/1763-longest-nice-substring.py",
           "sha": "10157b3fa3612123f7f14fb671fd3cd4797ed488",
           "lastSyncedAt": "2026-10-08T04:00:25.456Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "problemName": "1980-find-unique-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-unique-binary-string/",
+      "folderPath": "1980-find-unique-binary-string/",
+      "readmePath": "1980-find-unique-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1980-find-unique-binary-string.cpp",
+          "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.cpp",
+          "sha": "a25613a03c04d8b8f877f12315468eae4ac74dcf",
+          "lastSyncedAt": "2026-10-08T04:25:10.657Z"
         }
       ]
     },

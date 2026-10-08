@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-08T04:40:59.989Z",
+  "updatedAt": "2026-10-08T04:45:52.614Z",
   "problems": [
     {
       "frontendId": "33",
@@ -223,6 +223,26 @@
           "path": "2054-two-best-non-overlapping-events/2054-two-best-non-overlapping-events.cpp",
           "sha": "a4f42a8e9677baea65d4f6a00125e6f5a9dd9ac4",
           "lastSyncedAt": "2026-10-08T04:40:59.989Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2141",
+      "title": "Maximum Running Time of N Computers",
+      "slug": "maximum-running-time-of-n-computers",
+      "problemName": "2141-maximum-running-time-of-n-computers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-running-time-of-n-computers/",
+      "folderPath": "2141-maximum-running-time-of-n-computers/",
+      "readmePath": "2141-maximum-running-time-of-n-computers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2141-maximum-running-time-of-n-computers.cpp",
+          "path": "2141-maximum-running-time-of-n-computers/2141-maximum-running-time-of-n-computers.cpp",
+          "sha": "bae088a93bb8d8d79fbe00a7d977bcde28b0eff5",
+          "lastSyncedAt": "2026-10-08T04:45:52.614Z"
         }
       ]
     },

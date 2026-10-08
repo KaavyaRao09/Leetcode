@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T03:59:13.919Z",
+  "updatedAt": "2026-10-08T03:59:46.753Z",
   "problems": [
     {
       "frontendId": "105",
@@ -23,6 +23,26 @@
           "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
           "sha": "b05838ac187b33479c604485c283a79300a5451b",
           "lastSyncedAt": "2026-10-08T03:59:13.919Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0169-majority-element.py",
+          "path": "0169-majority-element/0169-majority-element.py",
+          "sha": "acd3ee17216b129af1dead300f1c65490a8a50ad",
+          "lastSyncedAt": "2026-10-08T03:59:46.753Z"
         }
       ]
     },

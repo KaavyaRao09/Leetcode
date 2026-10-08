@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:47:03.420Z",
+  "updatedAt": "2026-10-08T04:47:46.893Z",
   "problems": [
     {
       "frontendId": "105",
@@ -303,6 +303,26 @@
           "path": "1763-longest-nice-substring/1763-longest-nice-substring.py",
           "sha": "10157b3fa3612123f7f14fb671fd3cd4797ed488",
           "lastSyncedAt": "2026-10-08T04:00:25.456Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1930",
+      "title": "Unique Length-3 Palindromic Subsequences",
+      "slug": "unique-length-3-palindromic-subsequences",
+      "problemName": "1930-unique-length-3-palindromic-subsequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/",
+      "folderPath": "1930-unique-length-3-palindromic-subsequences/",
+      "readmePath": "1930-unique-length-3-palindromic-subsequences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1930-unique-length-3-palindromic-subsequences.cpp",
+          "path": "1930-unique-length-3-palindromic-subsequences/1930-unique-length-3-palindromic-subsequences.cpp",
+          "sha": "40c868a3dad69082e91c24fe8b19400a40d0fd25",
+          "lastSyncedAt": "2026-10-08T04:47:46.893Z"
         }
       ]
     },

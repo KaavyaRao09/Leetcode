@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-08T04:26:25.271Z",
+  "updatedAt": "2026-10-08T04:26:50.807Z",
   "problems": [
     {
       "frontendId": "657",
@@ -43,6 +43,26 @@
           "path": "0874-walking-robot-simulation/0874-walking-robot-simulation.cpp",
           "sha": "69dda39e41cd256cf88813a4c18f6f3150dde0f3",
           "lastSyncedAt": "2026-10-08T04:18:40.710Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1404",
+      "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+      "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "problemName": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+      "folderPath": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+      "readmePath": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.cpp",
+          "path": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.cpp",
+          "sha": "4e96900924eddabcf0210c19e5a77156018aa009",
+          "lastSyncedAt": "2026-10-08T04:26:50.807Z"
         }
       ]
     },

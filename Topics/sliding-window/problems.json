@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-10-08T03:58:48.300Z",
+  "updatedAt": "2026-10-08T04:00:25.456Z",
   "problems": [
     {
       "frontendId": "1658",
@@ -23,6 +23,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
           "sha": "00ee1758c90b70446b9d6910d276ef8b2a6662e8",
           "lastSyncedAt": "2026-10-08T03:58:48.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1763",
+      "title": "Longest Nice Substring",
+      "slug": "longest-nice-substring",
+      "problemName": "1763-longest-nice-substring",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-nice-substring/",
+      "folderPath": "1763-longest-nice-substring/",
+      "readmePath": "1763-longest-nice-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1763-longest-nice-substring.py",
+          "path": "1763-longest-nice-substring/1763-longest-nice-substring.py",
+          "sha": "10157b3fa3612123f7f14fb671fd3cd4797ed488",
+          "lastSyncedAt": "2026-10-08T04:00:25.456Z"
         }
       ]
     }

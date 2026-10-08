@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-08T04:50:24.682Z",
+  "updatedAt": "2026-10-08T04:51:52.900Z",
   "problems": [
     {
       "frontendId": "53",
@@ -263,6 +263,26 @@
           "path": "1458-max-dot-product-of-two-subsequences/1458-max-dot-product-of-two-subsequences.cpp",
           "sha": "1344745ab234e770b837f1174fcfbf1ff7dfc8c9",
           "lastSyncedAt": "2026-10-08T04:37:50.986Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1578",
+      "title": "Minimum Time to Make Rope Colorful",
+      "slug": "minimum-time-to-make-rope-colorful",
+      "problemName": "1578-minimum-time-to-make-rope-colorful",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/",
+      "folderPath": "1578-minimum-time-to-make-rope-colorful/",
+      "readmePath": "1578-minimum-time-to-make-rope-colorful/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1578-minimum-time-to-make-rope-colorful.cpp",
+          "path": "1578-minimum-time-to-make-rope-colorful/1578-minimum-time-to-make-rope-colorful.cpp",
+          "sha": "757db9c8071cedae61b0fc1bb616277321a697b5",
+          "lastSyncedAt": "2026-10-08T04:51:52.900Z"
         }
       ]
     },

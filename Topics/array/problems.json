@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:46:51.155Z",
+  "updatedAt": "2026-10-08T04:47:13.244Z",
   "problems": [
     {
       "frontendId": "27",
@@ -403,6 +403,26 @@
           "path": "0961-n-repeated-element-in-size-2n-array/0961-n-repeated-element-in-size-2n-array.cpp",
           "sha": "df346fb2d0d730e3bc4ddaea4d563d1d01025d9a",
           "lastSyncedAt": "2026-10-08T04:39:02.812Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1018",
+      "title": "Binary Prefix Divisible By 5",
+      "slug": "binary-prefix-divisible-by-5",
+      "problemName": "1018-binary-prefix-divisible-by-5",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-prefix-divisible-by-5/",
+      "folderPath": "1018-binary-prefix-divisible-by-5/",
+      "readmePath": "1018-binary-prefix-divisible-by-5/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1018-binary-prefix-divisible-by-5.cpp",
+          "path": "1018-binary-prefix-divisible-by-5/1018-binary-prefix-divisible-by-5.cpp",
+          "sha": "24b669cc5ada7b73a006418839fe0eefd04b2b76",
+          "lastSyncedAt": "2026-10-08T04:47:13.244Z"
         }
       ]
     },

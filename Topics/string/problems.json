@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-10-08T04:00:25.456Z",
+  "problems": [
+    {
+      "frontendId": "1763",
+      "title": "Longest Nice Substring",
+      "slug": "longest-nice-substring",
+      "problemName": "1763-longest-nice-substring",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-nice-substring/",
+      "folderPath": "1763-longest-nice-substring/",
+      "readmePath": "1763-longest-nice-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1763-longest-nice-substring.py",
+          "path": "1763-longest-nice-substring/1763-longest-nice-substring.py",
+          "sha": "10157b3fa3612123f7f14fb671fd3cd4797ed488",
+          "lastSyncedAt": "2026-10-08T04:00:25.456Z"
+        }
+      ]
+    }
+  ]
+}

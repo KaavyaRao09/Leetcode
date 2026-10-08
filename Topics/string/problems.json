@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:15:45.465Z",
+  "updatedAt": "2026-10-08T04:17:09.054Z",
   "problems": [
     {
       "frontendId": "796",
@@ -123,6 +123,26 @@
           "path": "2452-words-within-two-edits-of-dictionary/2452-words-within-two-edits-of-dictionary.cpp",
           "sha": "2de4db7545a3b08e7a1906e6efed2037537e78a3",
           "lastSyncedAt": "2026-10-08T04:15:45.465Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2515",
+      "title": "Shortest Distance to Target String in a Circular Array",
+      "slug": "shortest-distance-to-target-string-in-a-circular-array",
+      "problemName": "2515-shortest-distance-to-target-string-in-a-circular-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/",
+      "folderPath": "2515-shortest-distance-to-target-string-in-a-circular-array/",
+      "readmePath": "2515-shortest-distance-to-target-string-in-a-circular-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2515-shortest-distance-to-target-string-in-a-circular-array.cpp",
+          "path": "2515-shortest-distance-to-target-string-in-a-circular-array/2515-shortest-distance-to-target-string-in-a-circular-array.cpp",
+          "sha": "e9197b71620b04c1fdc5897fa79cc89b377fc299",
+          "lastSyncedAt": "2026-10-08T04:17:09.054Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:34:27.248Z",
+  "updatedAt": "2026-10-08T04:34:51.340Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1543,6 +1543,26 @@
           "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.cpp",
           "sha": "06202bfe32b903cda76775ff223d4f34dad0055a",
           "lastSyncedAt": "2026-10-08T04:08:14.855Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3315",
+      "title": "Construct the Minimum Bitwise Array II",
+      "slug": "construct-the-minimum-bitwise-array-ii",
+      "problemName": "3315-construct-the-minimum-bitwise-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/",
+      "folderPath": "3315-construct-the-minimum-bitwise-array-ii/",
+      "readmePath": "3315-construct-the-minimum-bitwise-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3315-construct-the-minimum-bitwise-array-ii.cpp",
+          "path": "3315-construct-the-minimum-bitwise-array-ii/3315-construct-the-minimum-bitwise-array-ii.cpp",
+          "sha": "532aae59e8dde3b5cbb8bcca3302f550f6e883ff",
+          "lastSyncedAt": "2026-10-08T04:34:51.340Z"
         }
       ]
     },

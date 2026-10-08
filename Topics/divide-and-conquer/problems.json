@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-10-08T04:18:03.515Z",
+  "updatedAt": "2026-10-08T04:18:17.470Z",
   "problems": [
     {
       "frontendId": "53",
@@ -123,6 +123,26 @@
           "path": "1763-longest-nice-substring/1763-longest-nice-substring.py",
           "sha": "10157b3fa3612123f7f14fb671fd3cd4797ed488",
           "lastSyncedAt": "2026-10-08T04:00:25.456Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3653",
+      "title": "XOR After Range Multiplication Queries I",
+      "slug": "xor-after-range-multiplication-queries-i",
+      "problemName": "3653-xor-after-range-multiplication-queries-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-after-range-multiplication-queries-i/",
+      "folderPath": "3653-xor-after-range-multiplication-queries-i/",
+      "readmePath": "3653-xor-after-range-multiplication-queries-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3653-xor-after-range-multiplication-queries-i.cpp",
+          "path": "3653-xor-after-range-multiplication-queries-i/3653-xor-after-range-multiplication-queries-i.cpp",
+          "sha": "52586761fff3f4b1cdc714bb4b26ddb50648c129",
+          "lastSyncedAt": "2026-10-08T04:18:17.470Z"
         }
       ]
     },

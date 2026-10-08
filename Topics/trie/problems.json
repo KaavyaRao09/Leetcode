@@ -4,8 +4,28 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-10-08T04:09:38.271Z",
+  "updatedAt": "2026-10-08T04:15:45.465Z",
   "problems": [
+    {
+      "frontendId": "2452",
+      "title": "Words Within Two Edits of Dictionary",
+      "slug": "words-within-two-edits-of-dictionary",
+      "problemName": "2452-words-within-two-edits-of-dictionary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/words-within-two-edits-of-dictionary/",
+      "folderPath": "2452-words-within-two-edits-of-dictionary/",
+      "readmePath": "2452-words-within-two-edits-of-dictionary/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2452-words-within-two-edits-of-dictionary.cpp",
+          "path": "2452-words-within-two-edits-of-dictionary/2452-words-within-two-edits-of-dictionary.cpp",
+          "sha": "2de4db7545a3b08e7a1906e6efed2037537e78a3",
+          "lastSyncedAt": "2026-10-08T04:15:45.465Z"
+        }
+      ]
+    },
     {
       "frontendId": "3043",
       "title": "Find the Length of the Longest Common Prefix",

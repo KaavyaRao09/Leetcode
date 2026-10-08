@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-08T04:33:58.869Z",
+  "updatedAt": "2026-10-08T04:34:27.248Z",
   "problems": [
     {
       "frontendId": "67",
@@ -283,6 +283,26 @@
           "path": "3379-transformed-array/3379-transformed-array.cpp",
           "sha": "e52595635319da2a54c391a89245f86411faed24",
           "lastSyncedAt": "2026-10-08T04:31:11.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3507",
+      "title": "Minimum Pair Removal to Sort Array I",
+      "slug": "minimum-pair-removal-to-sort-array-i",
+      "problemName": "3507-minimum-pair-removal-to-sort-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/",
+      "folderPath": "3507-minimum-pair-removal-to-sort-array-i/",
+      "readmePath": "3507-minimum-pair-removal-to-sort-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3507-minimum-pair-removal-to-sort-array-i.cpp",
+          "path": "3507-minimum-pair-removal-to-sort-array-i/3507-minimum-pair-removal-to-sort-array-i.cpp",
+          "sha": "f93e6cfaf06fec0f09e3dbb62f60ea07afc8db0a",
+          "lastSyncedAt": "2026-10-08T04:34:27.248Z"
         }
       ]
     },

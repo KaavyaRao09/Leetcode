@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-08T04:44:32.434Z",
+  "updatedAt": "2026-10-08T04:46:51.155Z",
   "problems": [
     {
       "frontendId": "53",
@@ -363,6 +363,26 @@
           "path": "2147-number-of-ways-to-divide-a-long-corridor/2147-number-of-ways-to-divide-a-long-corridor.cpp",
           "sha": "9d7a15e6cdeda4fa3f1ef98beeaad5cb9f1f3d75",
           "lastSyncedAt": "2026-10-08T04:42:56.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2435",
+      "title": "Paths in Matrix Whose Sum Is Divisible by K",
+      "slug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+      "problemName": "2435-paths-in-matrix-whose-sum-is-divisible-by-k",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/",
+      "folderPath": "2435-paths-in-matrix-whose-sum-is-divisible-by-k/",
+      "readmePath": "2435-paths-in-matrix-whose-sum-is-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2435-paths-in-matrix-whose-sum-is-divisible-by-k.cpp",
+          "path": "2435-paths-in-matrix-whose-sum-is-divisible-by-k/2435-paths-in-matrix-whose-sum-is-divisible-by-k.cpp",
+          "sha": "79845e72d6b19572321aa4a4cf97bf402b870ec4",
+          "lastSyncedAt": "2026-10-08T04:46:51.155Z"
         }
       ]
     },

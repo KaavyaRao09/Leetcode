@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-08T04:39:16.566Z",
+  "updatedAt": "2026-10-08T04:39:34.232Z",
   "problems": [
     {
       "frontendId": "48",
@@ -43,6 +43,26 @@
           "path": "0085-maximal-rectangle/0085-maximal-rectangle.cpp",
           "sha": "2f43d90339fe41c581b1efa35888d805c95c70e0",
           "lastSyncedAt": "2026-10-08T04:36:51.532Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "840",
+      "title": "Magic Squares In Grid",
+      "slug": "magic-squares-in-grid",
+      "problemName": "0840-magic-squares-in-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/magic-squares-in-grid/",
+      "folderPath": "0840-magic-squares-in-grid/",
+      "readmePath": "0840-magic-squares-in-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0840-magic-squares-in-grid.cpp",
+          "path": "0840-magic-squares-in-grid/0840-magic-squares-in-grid.cpp",
+          "sha": "4e2dbd5dde8add2032c032c3a70af1b529b69863",
+          "lastSyncedAt": "2026-10-08T04:39:34.232Z"
         }
       ]
     },

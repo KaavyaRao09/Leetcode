@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-10-08T04:01:59.992Z",
+  "updatedAt": "2026-10-08T04:06:49.868Z",
   "problems": [
     {
       "frontendId": "3020",
@@ -23,6 +23,26 @@
           "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.cpp",
           "sha": "d0472f7ff6de8af40ace5b1bee7229246f77a36b",
           "lastSyncedAt": "2026-10-08T04:01:59.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3751",
+      "title": "Total Waviness of Numbers in Range I",
+      "slug": "total-waviness-of-numbers-in-range-i",
+      "problemName": "3751-total-waviness-of-numbers-in-range-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/",
+      "folderPath": "3751-total-waviness-of-numbers-in-range-i/",
+      "readmePath": "3751-total-waviness-of-numbers-in-range-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3751-total-waviness-of-numbers-in-range-i.cpp",
+          "path": "3751-total-waviness-of-numbers-in-range-i/3751-total-waviness-of-numbers-in-range-i.cpp",
+          "sha": "cf43b75528aef01c6f02ab1f39e3c6a91e880ccd",
+          "lastSyncedAt": "2026-10-08T04:06:49.868Z"
         }
       ]
     }

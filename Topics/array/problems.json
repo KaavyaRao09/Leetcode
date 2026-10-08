@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:35:36.097Z",
+  "updatedAt": "2026-10-08T04:35:51.262Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1323,6 +1323,26 @@
           "path": "2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.cpp",
           "sha": "2d3139bdefd53549150a3e73022a7fe22dd157e8",
           "lastSyncedAt": "2026-10-08T04:20:37.319Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2975",
+      "title": "Maximum Square Area by Removing Fences From a Field",
+      "slug": "maximum-square-area-by-removing-fences-from-a-field",
+      "problemName": "2975-maximum-square-area-by-removing-fences-from-a-field",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/",
+      "folderPath": "2975-maximum-square-area-by-removing-fences-from-a-field/",
+      "readmePath": "2975-maximum-square-area-by-removing-fences-from-a-field/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2975-maximum-square-area-by-removing-fences-from-a-field.cpp",
+          "path": "2975-maximum-square-area-by-removing-fences-from-a-field/2975-maximum-square-area-by-removing-fences-from-a-field.cpp",
+          "sha": "95193dec9759c5ea9d881452060f966f3b69027d",
+          "lastSyncedAt": "2026-10-08T04:35:51.262Z"
         }
       ]
     },

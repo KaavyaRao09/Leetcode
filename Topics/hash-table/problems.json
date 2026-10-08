@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:08:37.585Z",
+  "updatedAt": "2026-10-08T04:08:45.573Z",
   "problems": [
     {
       "frontendId": "105",
@@ -143,6 +143,26 @@
           "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.cpp",
           "sha": "d0472f7ff6de8af40ace5b1bee7229246f77a36b",
           "lastSyncedAt": "2026-10-08T04:01:59.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3120",
+      "title": "Count the Number of Special Characters I",
+      "slug": "count-the-number-of-special-characters-i",
+      "problemName": "3120-count-the-number-of-special-characters-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
+      "folderPath": "3120-count-the-number-of-special-characters-i/",
+      "readmePath": "3120-count-the-number-of-special-characters-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3120-count-the-number-of-special-characters-i.cpp",
+          "path": "3120-count-the-number-of-special-characters-i/3120-count-the-number-of-special-characters-i.cpp",
+          "sha": "0d9db05ae3588df9176d607e88ab0bcb5e18bead",
+          "lastSyncedAt": "2026-10-08T04:08:45.573Z"
         }
       ]
     },

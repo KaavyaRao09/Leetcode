@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:50:14.964Z",
+  "updatedAt": "2026-10-08T04:50:24.682Z",
   "problems": [
     {
       "frontendId": "48",
@@ -263,6 +263,26 @@
           "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
           "sha": "6a676648acf3a4ff304bf8a7f950a515b6935519",
           "lastSyncedAt": "2026-10-08T04:44:24.176Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1611",
+      "title": "Minimum One Bit Operations to Make Integers Zero",
+      "slug": "minimum-one-bit-operations-to-make-integers-zero",
+      "problemName": "1611-minimum-one-bit-operations-to-make-integers-zero",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/",
+      "folderPath": "1611-minimum-one-bit-operations-to-make-integers-zero/",
+      "readmePath": "1611-minimum-one-bit-operations-to-make-integers-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1611-minimum-one-bit-operations-to-make-integers-zero.cpp",
+          "path": "1611-minimum-one-bit-operations-to-make-integers-zero/1611-minimum-one-bit-operations-to-make-integers-zero.cpp",
+          "sha": "d15bc1bf5192052e36d61c128fe5c02d5de72455",
+          "lastSyncedAt": "2026-10-08T04:50:24.682Z"
         }
       ]
     },

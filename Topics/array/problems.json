@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:12:17.552Z",
+  "updatedAt": "2026-10-08T04:12:29.624Z",
   "problems": [
     {
       "frontendId": "27",
@@ -423,6 +423,26 @@
           "path": "1846-maximum-element-after-decreasing-and-rearranging/1846-maximum-element-after-decreasing-and-rearranging.cpp",
           "sha": "3f9201bce18fdd1c9c7206757a82ca903a73d2b8",
           "lastSyncedAt": "2026-10-08T04:01:48.092Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1861",
+      "title": "Rotating the Box",
+      "slug": "rotating-the-box",
+      "problemName": "1861-rotating-the-box",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotating-the-box/",
+      "folderPath": "1861-rotating-the-box/",
+      "readmePath": "1861-rotating-the-box/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1861-rotating-the-box.cpp",
+          "path": "1861-rotating-the-box/1861-rotating-the-box.cpp",
+          "sha": "0eb378128007cffc9a739f2ec510fdcee2576bbf",
+          "lastSyncedAt": "2026-10-08T04:12:29.624Z"
         }
       ]
     },

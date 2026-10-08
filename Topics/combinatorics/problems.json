@@ -4,8 +4,28 @@
     "slug": "combinatorics",
     "name": "Combinatorics"
   },
-  "updatedAt": "2026-10-08T04:43:48.336Z",
+  "updatedAt": "2026-10-08T04:54:02.818Z",
   "problems": [
+    {
+      "frontendId": "3461",
+      "title": "Check If Digits Are Equal in String After Operations I",
+      "slug": "check-if-digits-are-equal-in-string-after-operations-i",
+      "problemName": "3461-check-if-digits-are-equal-in-string-after-operations-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/",
+      "folderPath": "3461-check-if-digits-are-equal-in-string-after-operations-i/",
+      "readmePath": "3461-check-if-digits-are-equal-in-string-after-operations-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3461-check-if-digits-are-equal-in-string-after-operations-i.cpp",
+          "path": "3461-check-if-digits-are-equal-in-string-after-operations-i/3461-check-if-digits-are-equal-in-string-after-operations-i.cpp",
+          "sha": "ffcf57a46ed2df91f86e8da39d788bba267eea20",
+          "lastSyncedAt": "2026-10-08T04:54:02.818Z"
+        }
+      ]
+    },
     {
       "frontendId": "3577",
       "title": "Count the Number of Computer Unlocking Permutations",

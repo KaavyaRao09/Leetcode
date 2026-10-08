@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:31:21.438Z",
+  "updatedAt": "2026-10-08T04:31:30.601Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1623,6 +1623,26 @@
           "path": "3635-earliest-finish-time-for-land-and-water-rides-ii/3635-earliest-finish-time-for-land-and-water-rides-ii.cpp",
           "sha": "a51828cc20deb4119695ef8d983f930bca22f3b9",
           "lastSyncedAt": "2026-10-08T04:06:59.469Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3637",
+      "title": "Trionic Array I",
+      "slug": "trionic-array-i",
+      "problemName": "3637-trionic-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/trionic-array-i/",
+      "folderPath": "3637-trionic-array-i/",
+      "readmePath": "3637-trionic-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3637-trionic-array-i.cpp",
+          "path": "3637-trionic-array-i/3637-trionic-array-i.cpp",
+          "sha": "2ad52a1fb9314a7d463cdc7d188194ed17b2eb64",
+          "lastSyncedAt": "2026-10-08T04:31:30.601Z"
         }
       ]
     },

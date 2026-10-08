@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-10-08T04:03:15.926Z",
+  "updatedAt": "2026-10-08T04:15:22.470Z",
   "problems": [
     {
       "frontendId": "169",
@@ -43,6 +43,26 @@
           "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.cpp",
           "sha": "b2a5689e1f7722bfb719a2e4f8cff5d448a88175",
           "lastSyncedAt": "2026-10-08T04:03:15.926Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2833",
+      "title": "Furthest Point From Origin",
+      "slug": "furthest-point-from-origin",
+      "problemName": "2833-furthest-point-from-origin",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/furthest-point-from-origin/",
+      "folderPath": "2833-furthest-point-from-origin/",
+      "readmePath": "2833-furthest-point-from-origin/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2833-furthest-point-from-origin.cpp",
+          "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.cpp",
+          "sha": "62b306554695c00cfd73b14a44ecde5ed5bdcf8f",
+          "lastSyncedAt": "2026-10-08T04:15:22.470Z"
         }
       ]
     },

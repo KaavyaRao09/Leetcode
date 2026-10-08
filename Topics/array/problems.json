@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:42:42.497Z",
+  "updatedAt": "2026-10-08T04:43:08.468Z",
   "problems": [
     {
       "frontendId": "27",
@@ -2303,6 +2303,26 @@
           "path": "3573-best-time-to-buy-and-sell-stock-v/3573-best-time-to-buy-and-sell-stock-v.cpp",
           "sha": "b7d9f8af099be77e84280f36fb104112db168b55",
           "lastSyncedAt": "2026-10-08T04:42:21.097Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3606",
+      "title": "Coupon Code Validator",
+      "slug": "coupon-code-validator",
+      "problemName": "3606-coupon-code-validator",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/coupon-code-validator/",
+      "folderPath": "3606-coupon-code-validator/",
+      "readmePath": "3606-coupon-code-validator/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3606-coupon-code-validator.cpp",
+          "path": "3606-coupon-code-validator/3606-coupon-code-validator.cpp",
+          "sha": "ed14087160bacc0639a244142ea95d4748b949aa",
+          "lastSyncedAt": "2026-10-08T04:43:08.468Z"
         }
       ]
     },

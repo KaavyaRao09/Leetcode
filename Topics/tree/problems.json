@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-10-08T04:42:30.361Z",
+  "updatedAt": "2026-10-08T04:46:29.846Z",
   "problems": [
     {
       "frontendId": "105",
@@ -183,6 +183,26 @@
           "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.cpp",
           "sha": "c35235174717afbe7a8e328aa8741a5b6f824ab0",
           "lastSyncedAt": "2026-10-08T04:06:15.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2872",
+      "title": "Maximum Number of K-Divisible Components",
+      "slug": "maximum-number-of-k-divisible-components",
+      "problemName": "2872-maximum-number-of-k-divisible-components",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-k-divisible-components/",
+      "folderPath": "2872-maximum-number-of-k-divisible-components/",
+      "readmePath": "2872-maximum-number-of-k-divisible-components/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2872-maximum-number-of-k-divisible-components.cpp",
+          "path": "2872-maximum-number-of-k-divisible-components/2872-maximum-number-of-k-divisible-components.cpp",
+          "sha": "09fdc8bff72c868416495546621427a73b6bfe94",
+          "lastSyncedAt": "2026-10-08T04:46:29.846Z"
         }
       ]
     },

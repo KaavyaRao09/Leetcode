@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:47:03.420Z",
+  "updatedAt": "2026-10-08T04:47:36.606Z",
   "problems": [
     {
       "frontendId": "48",
@@ -443,6 +443,26 @@
           "path": "3047-find-the-largest-area-of-square-inside-two-rectangles/3047-find-the-largest-area-of-square-inside-two-rectangles.cpp",
           "sha": "60fc68203e7c0db3272edad3a342dfd4aa4e23bf",
           "lastSyncedAt": "2026-10-08T04:35:36.097Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3190",
+      "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+      "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+      "problemName": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/",
+      "folderPath": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three/",
+      "readmePath": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three.cpp",
+          "path": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.cpp",
+          "sha": "fc1ddd3de100346adc78096dd3e9f2dea77fbc43",
+          "lastSyncedAt": "2026-10-08T04:47:36.606Z"
         }
       ]
     },

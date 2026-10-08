@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-08T04:34:51.340Z",
+  "updatedAt": "2026-10-08T04:35:00.550Z",
   "problems": [
     {
       "frontendId": "67",
@@ -283,6 +283,26 @@
           "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.cpp",
           "sha": "2487b50e7591683dd046d5f57cc7a007aef699e3",
           "lastSyncedAt": "2026-10-08T04:09:50.002Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3314",
+      "title": "Construct the Minimum Bitwise Array I",
+      "slug": "construct-the-minimum-bitwise-array-i",
+      "problemName": "3314-construct-the-minimum-bitwise-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/",
+      "folderPath": "3314-construct-the-minimum-bitwise-array-i/",
+      "readmePath": "3314-construct-the-minimum-bitwise-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3314-construct-the-minimum-bitwise-array-i.cpp",
+          "path": "3314-construct-the-minimum-bitwise-array-i/3314-construct-the-minimum-bitwise-array-i.cpp",
+          "sha": "78c86326a3c7eb7bf0802e3c3cf785e6f20d23b3",
+          "lastSyncedAt": "2026-10-08T04:35:00.550Z"
         }
       ]
     },

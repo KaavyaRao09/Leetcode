@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-08T04:13:42.631Z",
+  "updatedAt": "2026-10-08T04:14:02.742Z",
   "problems": [
     {
       "frontendId": "48",
@@ -63,6 +63,26 @@
           "path": "1914-cyclically-rotating-a-grid/1914-cyclically-rotating-a-grid.cpp",
           "sha": "5d3cd553da6870f491c8de830556e72d8553623f",
           "lastSyncedAt": "2026-10-08T04:11:45.476Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2033",
+      "title": "Minimum Operations to Make a Uni-Value Grid",
+      "slug": "minimum-operations-to-make-a-uni-value-grid",
+      "problemName": "2033-minimum-operations-to-make-a-uni-value-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/",
+      "folderPath": "2033-minimum-operations-to-make-a-uni-value-grid/",
+      "readmePath": "2033-minimum-operations-to-make-a-uni-value-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2033-minimum-operations-to-make-a-uni-value-grid.cpp",
+          "path": "2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.cpp",
+          "sha": "fc49a116e7685600185e2fb5732b263f8c227e2d",
+          "lastSyncedAt": "2026-10-08T04:14:02.742Z"
         }
       ]
     },

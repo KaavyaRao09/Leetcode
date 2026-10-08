@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:41:41.205Z",
+  "updatedAt": "2026-10-08T04:42:56.792Z",
   "problems": [
     {
       "frontendId": "67",
@@ -523,6 +523,26 @@
           "path": "2075-decode-the-slanted-ciphertext/2075-decode-the-slanted-ciphertext.cpp",
           "sha": "166544d5e181d52edefafc02c3bdfdc193b5ba67",
           "lastSyncedAt": "2026-10-08T04:19:00.924Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2147",
+      "title": "Number of Ways to Divide a Long Corridor",
+      "slug": "number-of-ways-to-divide-a-long-corridor",
+      "problemName": "2147-number-of-ways-to-divide-a-long-corridor",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/",
+      "folderPath": "2147-number-of-ways-to-divide-a-long-corridor/",
+      "readmePath": "2147-number-of-ways-to-divide-a-long-corridor/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2147-number-of-ways-to-divide-a-long-corridor.cpp",
+          "path": "2147-number-of-ways-to-divide-a-long-corridor/2147-number-of-ways-to-divide-a-long-corridor.cpp",
+          "sha": "9d7a15e6cdeda4fa3f1ef98beeaad5cb9f1f3d75",
+          "lastSyncedAt": "2026-10-08T04:42:56.792Z"
         }
       ]
     },

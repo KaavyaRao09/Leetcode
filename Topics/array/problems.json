@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:29:50.529Z",
+  "updatedAt": "2026-10-08T04:30:53.999Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1563,6 +1563,26 @@
           "path": "3633-earliest-finish-time-for-land-and-water-rides-i/3633-earliest-finish-time-for-land-and-water-rides-i.cpp",
           "sha": "3a321f24ccbd7ee831ac3bdb61ebfc5049f5fa32",
           "lastSyncedAt": "2026-10-08T04:07:14.721Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3634",
+      "title": "Minimum Removals to Balance Array",
+      "slug": "minimum-removals-to-balance-array",
+      "problemName": "3634-minimum-removals-to-balance-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-removals-to-balance-array/",
+      "folderPath": "3634-minimum-removals-to-balance-array/",
+      "readmePath": "3634-minimum-removals-to-balance-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3634-minimum-removals-to-balance-array.cpp",
+          "path": "3634-minimum-removals-to-balance-array/3634-minimum-removals-to-balance-array.cpp",
+          "sha": "eb7e6b690675ecc7471c44c0a984a678316f9a2d",
+          "lastSyncedAt": "2026-10-08T04:30:53.999Z"
         }
       ]
     },

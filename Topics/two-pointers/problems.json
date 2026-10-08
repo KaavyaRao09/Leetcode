@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-08T04:12:42.827Z",
+  "updatedAt": "2026-10-08T04:16:23.757Z",
   "problems": [
     {
       "frontendId": "27",
@@ -43,6 +43,26 @@
           "path": "0061-rotate-list/0061-rotate-list.cpp",
           "sha": "eaef675e154eac32e9bb9262711eed43c7d3bbf4",
           "lastSyncedAt": "2026-10-08T04:12:42.827Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1855",
+      "title": "Maximum Distance Between a Pair of Values",
+      "slug": "maximum-distance-between-a-pair-of-values",
+      "problemName": "1855-maximum-distance-between-a-pair-of-values",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/",
+      "folderPath": "1855-maximum-distance-between-a-pair-of-values/",
+      "readmePath": "1855-maximum-distance-between-a-pair-of-values/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1855-maximum-distance-between-a-pair-of-values.cpp",
+          "path": "1855-maximum-distance-between-a-pair-of-values/1855-maximum-distance-between-a-pair-of-values.cpp",
+          "sha": "ebbd40bad366ec760af15c45786a620ea6cf5bef",
+          "lastSyncedAt": "2026-10-08T04:16:23.757Z"
         }
       ]
     },

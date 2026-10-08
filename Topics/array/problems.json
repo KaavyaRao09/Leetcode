@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:45:52.614Z",
+  "updatedAt": "2026-10-08T04:46:06.862Z",
   "problems": [
     {
       "frontendId": "27",
@@ -683,6 +683,26 @@
           "path": "1582-special-positions-in-a-binary-matrix/1582-special-positions-in-a-binary-matrix.cpp",
           "sha": "9679298859fed34503cf62f729c497aa974144f4",
           "lastSyncedAt": "2026-10-08T04:25:45.467Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1590",
+      "title": "Make Sum Divisible by P",
+      "slug": "make-sum-divisible-by-p",
+      "problemName": "1590-make-sum-divisible-by-p",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/make-sum-divisible-by-p/",
+      "folderPath": "1590-make-sum-divisible-by-p/",
+      "readmePath": "1590-make-sum-divisible-by-p/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1590-make-sum-divisible-by-p.cpp",
+          "path": "1590-make-sum-divisible-by-p/1590-make-sum-divisible-by-p.cpp",
+          "sha": "88cb2168569083078d0baa74f76f4921cdc48c76",
+          "lastSyncedAt": "2026-10-08T04:46:06.862Z"
         }
       ]
     },

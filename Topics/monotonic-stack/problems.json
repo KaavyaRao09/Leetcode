@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-stack",
+    "name": "Monotonic Stack"
+  },
+  "updatedAt": "2026-10-08T04:36:51.532Z",
+  "problems": [
+    {
+      "frontendId": "85",
+      "title": "Maximal Rectangle",
+      "slug": "maximal-rectangle",
+      "problemName": "0085-maximal-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximal-rectangle/",
+      "folderPath": "0085-maximal-rectangle/",
+      "readmePath": "0085-maximal-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0085-maximal-rectangle.cpp",
+          "path": "0085-maximal-rectangle/0085-maximal-rectangle.cpp",
+          "sha": "2f43d90339fe41c581b1efa35888d805c95c70e0",
+          "lastSyncedAt": "2026-10-08T04:36:51.532Z"
+        }
+      ]
+    }
+  ]
+}

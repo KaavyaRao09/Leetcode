@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-08T04:09:59.371Z",
+  "updatedAt": "2026-10-08T04:10:37.696Z",
   "problems": [
     {
       "frontendId": "33",
@@ -43,6 +43,26 @@
           "path": "0035-search-insert-position/0035-search-insert-position.py",
           "sha": "003772596a98354c9191a5fc5cbd43aa7d700632",
           "lastSyncedAt": "2026-10-08T04:01:13.824Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "154",
+      "title": "Find Minimum in Rotated Sorted Array II",
+      "slug": "find-minimum-in-rotated-sorted-array-ii",
+      "problemName": "0154-find-minimum-in-rotated-sorted-array-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+      "folderPath": "0154-find-minimum-in-rotated-sorted-array-ii/",
+      "readmePath": "0154-find-minimum-in-rotated-sorted-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0154-find-minimum-in-rotated-sorted-array-ii.cpp",
+          "path": "0154-find-minimum-in-rotated-sorted-array-ii/0154-find-minimum-in-rotated-sorted-array-ii.cpp",
+          "sha": "2acc4509b8e308e3b5022018462772f2dad4ea85",
+          "lastSyncedAt": "2026-10-08T04:10:37.696Z"
         }
       ]
     },

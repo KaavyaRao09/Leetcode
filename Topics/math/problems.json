@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:49:21.755Z",
+  "updatedAt": "2026-10-08T04:50:14.964Z",
   "problems": [
     {
       "frontendId": "48",
@@ -423,6 +423,26 @@
           "path": "2147-number-of-ways-to-divide-a-long-corridor/2147-number-of-ways-to-divide-a-long-corridor.cpp",
           "sha": "9d7a15e6cdeda4fa3f1ef98beeaad5cb9f1f3d75",
           "lastSyncedAt": "2026-10-08T04:42:56.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2169",
+      "title": "Count Operations to Obtain Zero",
+      "slug": "count-operations-to-obtain-zero",
+      "problemName": "2169-count-operations-to-obtain-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-operations-to-obtain-zero/",
+      "folderPath": "2169-count-operations-to-obtain-zero/",
+      "readmePath": "2169-count-operations-to-obtain-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2169-count-operations-to-obtain-zero.cpp",
+          "path": "2169-count-operations-to-obtain-zero/2169-count-operations-to-obtain-zero.cpp",
+          "sha": "bebdc6a9f492e4d5e63d9888c7715cd699d5d732",
+          "lastSyncedAt": "2026-10-08T04:50:14.964Z"
         }
       ]
     },

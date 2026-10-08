@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-08T04:42:56.792Z",
+  "updatedAt": "2026-10-08T04:44:32.434Z",
   "problems": [
     {
       "frontendId": "53",
@@ -583,6 +583,26 @@
           "path": "3573-best-time-to-buy-and-sell-stock-v/3573-best-time-to-buy-and-sell-stock-v.cpp",
           "sha": "b7d9f8af099be77e84280f36fb104112db168b55",
           "lastSyncedAt": "2026-10-08T04:42:21.097Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3578",
+      "title": "Count Partitions With Max-Min Difference at Most K",
+      "slug": "count-partitions-with-max-min-difference-at-most-k",
+      "problemName": "3578-count-partitions-with-max-min-difference-at-most-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/",
+      "folderPath": "3578-count-partitions-with-max-min-difference-at-most-k/",
+      "readmePath": "3578-count-partitions-with-max-min-difference-at-most-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3578-count-partitions-with-max-min-difference-at-most-k.cpp",
+          "path": "3578-count-partitions-with-max-min-difference-at-most-k/3578-count-partitions-with-max-min-difference-at-most-k.cpp",
+          "sha": "9ce933a0f0df0e489d2ad05c870e6cd658e7fd50",
+          "lastSyncedAt": "2026-10-08T04:44:32.434Z"
         }
       ]
     },

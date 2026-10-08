@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:49:40.743Z",
+  "updatedAt": "2026-10-08T04:51:52.900Z",
   "problems": [
     {
       "frontendId": "67",
@@ -363,6 +363,26 @@
           "path": "1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.cpp",
           "sha": "7e4f95682e226940d41cc8534ab4a67a24293ef8",
           "lastSyncedAt": "2026-10-08T04:25:54.146Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1578",
+      "title": "Minimum Time to Make Rope Colorful",
+      "slug": "minimum-time-to-make-rope-colorful",
+      "problemName": "1578-minimum-time-to-make-rope-colorful",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/",
+      "folderPath": "1578-minimum-time-to-make-rope-colorful/",
+      "readmePath": "1578-minimum-time-to-make-rope-colorful/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1578-minimum-time-to-make-rope-colorful.cpp",
+          "path": "1578-minimum-time-to-make-rope-colorful/1578-minimum-time-to-make-rope-colorful.cpp",
+          "sha": "757db9c8071cedae61b0fc1bb616277321a697b5",
+          "lastSyncedAt": "2026-10-08T04:51:52.900Z"
         }
       ]
     },

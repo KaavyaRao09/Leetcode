@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:39:34.232Z",
+  "updatedAt": "2026-10-08T04:39:47.366Z",
   "problems": [
     {
       "frontendId": "105",
@@ -43,6 +43,26 @@
           "path": "0169-majority-element/0169-majority-element.py",
           "sha": "acd3ee17216b129af1dead300f1c65490a8a50ad",
           "lastSyncedAt": "2026-10-08T03:59:46.753Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "756",
+      "title": "Pyramid Transition Matrix",
+      "slug": "pyramid-transition-matrix",
+      "problemName": "0756-pyramid-transition-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/pyramid-transition-matrix/",
+      "folderPath": "0756-pyramid-transition-matrix/",
+      "readmePath": "0756-pyramid-transition-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0756-pyramid-transition-matrix.cpp",
+          "path": "0756-pyramid-transition-matrix/0756-pyramid-transition-matrix.cpp",
+          "sha": "69cc0164b6e03d9a47b5442f7e8d5b60ed4cfcdb",
+          "lastSyncedAt": "2026-10-08T04:39:47.366Z"
         }
       ]
     },

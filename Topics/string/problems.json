@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:19:51.332Z",
+  "updatedAt": "2026-10-08T04:20:01.717Z",
   "problems": [
     {
       "frontendId": "657",
@@ -223,6 +223,26 @@
           "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.cpp",
           "sha": "62b306554695c00cfd73b14a44ecde5ed5bdcf8f",
           "lastSyncedAt": "2026-10-08T04:15:22.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2840",
+      "title": "Check if Strings Can be Made Equal With Operations II",
+      "slug": "check-if-strings-can-be-made-equal-with-operations-ii",
+      "problemName": "2840-check-if-strings-can-be-made-equal-with-operations-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/",
+      "folderPath": "2840-check-if-strings-can-be-made-equal-with-operations-ii/",
+      "readmePath": "2840-check-if-strings-can-be-made-equal-with-operations-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2840-check-if-strings-can-be-made-equal-with-operations-ii.cpp",
+          "path": "2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.cpp",
+          "sha": "8ee4e2b691945d9a7e00101bd9c4cece417d4fd4",
+          "lastSyncedAt": "2026-10-08T04:20:01.717Z"
         }
       ]
     },

@@ -4,8 +4,28 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-10-08T04:15:59.130Z",
+  "updatedAt": "2026-10-08T04:27:13.504Z",
   "problems": [
+    {
+      "frontendId": "1022",
+      "title": "Sum of Root To Leaf Binary Numbers",
+      "slug": "sum-of-root-to-leaf-binary-numbers",
+      "problemName": "1022-sum-of-root-to-leaf-binary-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/",
+      "folderPath": "1022-sum-of-root-to-leaf-binary-numbers/",
+      "readmePath": "1022-sum-of-root-to-leaf-binary-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1022-sum-of-root-to-leaf-binary-numbers.cpp",
+          "path": "1022-sum-of-root-to-leaf-binary-numbers/1022-sum-of-root-to-leaf-binary-numbers.cpp",
+          "sha": "0cf26f32fc470cd26d2ea516788db3a7d475db39",
+          "lastSyncedAt": "2026-10-08T04:27:13.504Z"
+        }
+      ]
+    },
     {
       "frontendId": "1306",
       "title": "Jump Game III",

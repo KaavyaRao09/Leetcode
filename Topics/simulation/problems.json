@@ -4,8 +4,28 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-08T04:18:40.710Z",
+  "updatedAt": "2026-10-08T04:18:51.766Z",
   "problems": [
+    {
+      "frontendId": "657",
+      "title": "Robot Return to Origin",
+      "slug": "robot-return-to-origin",
+      "problemName": "0657-robot-return-to-origin",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-return-to-origin/",
+      "folderPath": "0657-robot-return-to-origin/",
+      "readmePath": "0657-robot-return-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0657-robot-return-to-origin.cpp",
+          "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.cpp",
+          "sha": "adeaef27e5c47f1cd819309997a8b6cdfd4dd1ba",
+          "lastSyncedAt": "2026-10-08T04:18:51.766Z"
+        }
+      ]
+    },
     {
       "frontendId": "874",
       "title": "Walking Robot Simulation",

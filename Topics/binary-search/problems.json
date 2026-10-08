@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-08T04:10:46.209Z",
+  "updatedAt": "2026-10-08T04:15:03.172Z",
   "problems": [
     {
       "frontendId": "33",
@@ -143,6 +143,26 @@
           "path": "3161-block-placement-queries/3161-block-placement-queries.cpp",
           "sha": "75626d66c16d20de8b86e572281bbb1aad1e267e",
           "lastSyncedAt": "2026-10-08T04:07:53.327Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3464",
+      "title": "Maximize the Distance Between Points on a Square",
+      "slug": "maximize-the-distance-between-points-on-a-square",
+      "problemName": "3464-maximize-the-distance-between-points-on-a-square",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/",
+      "folderPath": "3464-maximize-the-distance-between-points-on-a-square/",
+      "readmePath": "3464-maximize-the-distance-between-points-on-a-square/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3464-maximize-the-distance-between-points-on-a-square.cpp",
+          "path": "3464-maximize-the-distance-between-points-on-a-square/3464-maximize-the-distance-between-points-on-a-square.cpp",
+          "sha": "dfc6ae0b296583e0120e3d8cb6b9e38ac53e69c3",
+          "lastSyncedAt": "2026-10-08T04:15:03.172Z"
         }
       ]
     },

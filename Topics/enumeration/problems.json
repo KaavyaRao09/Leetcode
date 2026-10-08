@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-10-08T04:20:52.814Z",
+  "updatedAt": "2026-10-08T04:21:06.646Z",
   "problems": [
     {
       "frontendId": "3020",
@@ -23,6 +23,26 @@
           "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.cpp",
           "sha": "d0472f7ff6de8af40ace5b1bee7229246f77a36b",
           "lastSyncedAt": "2026-10-08T04:01:59.992Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3546",
+      "title": "Equal Sum Grid Partition I",
+      "slug": "equal-sum-grid-partition-i",
+      "problemName": "3546-equal-sum-grid-partition-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-i/",
+      "folderPath": "3546-equal-sum-grid-partition-i/",
+      "readmePath": "3546-equal-sum-grid-partition-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3546-equal-sum-grid-partition-i.cpp",
+          "path": "3546-equal-sum-grid-partition-i/3546-equal-sum-grid-partition-i.cpp",
+          "sha": "7ec611edc1a3ea955ef6c7e1f28c61771fea1e31",
+          "lastSyncedAt": "2026-10-08T04:21:06.646Z"
         }
       ]
     },

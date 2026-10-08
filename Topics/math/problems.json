@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:03:44.957Z",
+  "updatedAt": "2026-10-08T04:04:01.971Z",
   "problems": [
     {
       "frontendId": "66",
@@ -23,6 +23,26 @@
           "path": "0066-plus-one/0066-plus-one.py",
           "sha": "767764df79cf49039606e84953f1813c4e5a2915",
           "lastSyncedAt": "2026-10-08T04:01:03.695Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1344",
+      "title": "Angle Between Hands of a Clock",
+      "slug": "angle-between-hands-of-a-clock",
+      "problemName": "1344-angle-between-hands-of-a-clock",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/angle-between-hands-of-a-clock/",
+      "folderPath": "1344-angle-between-hands-of-a-clock/",
+      "readmePath": "1344-angle-between-hands-of-a-clock/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1344-angle-between-hands-of-a-clock.cpp",
+          "path": "1344-angle-between-hands-of-a-clock/1344-angle-between-hands-of-a-clock.cpp",
+          "sha": "1fb2a400d9be6c1144d4bffeb897ed2e45c5122e",
+          "lastSyncedAt": "2026-10-08T04:04:01.971Z"
         }
       ]
     },

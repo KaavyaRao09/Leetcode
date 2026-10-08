@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:05:31.197Z",
+  "updatedAt": "2026-10-08T04:06:41.110Z",
   "problems": [
     {
       "frontendId": "66",
@@ -123,6 +123,26 @@
           "path": "3700-number-of-zigzag-arrays-ii/3700-number-of-zigzag-arrays-ii.cpp",
           "sha": "a851810ec1bcafb912f96b5f01c4ae59c575efbe",
           "lastSyncedAt": "2026-10-08T04:02:55.628Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3753",
+      "title": "Total Waviness of Numbers in Range II",
+      "slug": "total-waviness-of-numbers-in-range-ii",
+      "problemName": "3753-total-waviness-of-numbers-in-range-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/",
+      "folderPath": "3753-total-waviness-of-numbers-in-range-ii/",
+      "readmePath": "3753-total-waviness-of-numbers-in-range-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3753-total-waviness-of-numbers-in-range-ii.cpp",
+          "path": "3753-total-waviness-of-numbers-in-range-ii/3753-total-waviness-of-numbers-in-range-ii.cpp",
+          "sha": "fca479765b467e32e24419d92faebc6699441553",
+          "lastSyncedAt": "2026-10-08T04:06:41.110Z"
         }
       ]
     }

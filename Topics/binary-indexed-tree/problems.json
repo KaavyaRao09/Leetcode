@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-indexed-tree",
+    "name": "Binary Indexed Tree"
+  },
+  "updatedAt": "2026-10-08T04:07:53.327Z",
+  "problems": [
+    {
+      "frontendId": "3161",
+      "title": "Block Placement Queries",
+      "slug": "block-placement-queries",
+      "problemName": "3161-block-placement-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/block-placement-queries/",
+      "folderPath": "3161-block-placement-queries/",
+      "readmePath": "3161-block-placement-queries/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3161-block-placement-queries.cpp",
+          "path": "3161-block-placement-queries/3161-block-placement-queries.cpp",
+          "sha": "75626d66c16d20de8b86e572281bbb1aad1e267e",
+          "lastSyncedAt": "2026-10-08T04:07:53.327Z"
+        }
+      ]
+    }
+  ]
+}

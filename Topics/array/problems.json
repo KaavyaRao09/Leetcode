@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:40:12.249Z",
+  "updatedAt": "2026-10-08T04:40:36.925Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1723,6 +1723,26 @@
           "path": "3070-count-submatrices-with-top-left-element-and-sum-less-than-k/3070-count-submatrices-with-top-left-element-and-sum-less-than-k.cpp",
           "sha": "cada6f5e57a6894504ac68344b5c1454c4382155",
           "lastSyncedAt": "2026-10-08T04:22:31.180Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3075",
+      "title": "Maximize Happiness of Selected Children",
+      "slug": "maximize-happiness-of-selected-children",
+      "problemName": "3075-maximize-happiness-of-selected-children",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-happiness-of-selected-children/",
+      "folderPath": "3075-maximize-happiness-of-selected-children/",
+      "readmePath": "3075-maximize-happiness-of-selected-children/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3075-maximize-happiness-of-selected-children.cpp",
+          "path": "3075-maximize-happiness-of-selected-children/3075-maximize-happiness-of-selected-children.cpp",
+          "sha": "a10d7090a49450840e4306f60f8d40fea7c85bcc",
+          "lastSyncedAt": "2026-10-08T04:40:36.925Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-08T04:13:31.716Z",
+  "updatedAt": "2026-10-08T04:13:42.631Z",
   "problems": [
     {
       "frontendId": "48",
@@ -63,6 +63,26 @@
           "path": "1914-cyclically-rotating-a-grid/1914-cyclically-rotating-a-grid.cpp",
           "sha": "5d3cd553da6870f491c8de830556e72d8553623f",
           "lastSyncedAt": "2026-10-08T04:11:45.476Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3225",
+      "title": "Maximum Score From Grid Operations",
+      "slug": "maximum-score-from-grid-operations",
+      "problemName": "3225-maximum-score-from-grid-operations",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-from-grid-operations/",
+      "folderPath": "3225-maximum-score-from-grid-operations/",
+      "readmePath": "3225-maximum-score-from-grid-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3225-maximum-score-from-grid-operations.cpp",
+          "path": "3225-maximum-score-from-grid-operations/3225-maximum-score-from-grid-operations.cpp",
+          "sha": "ae29bc9cd3537c0a7ba1d0bc17a34680aa180a52",
+          "lastSyncedAt": "2026-10-08T04:13:42.631Z"
         }
       ]
     },

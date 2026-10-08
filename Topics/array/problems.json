@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:35:00.550Z",
+  "updatedAt": "2026-10-08T04:35:09.278Z",
   "problems": [
     {
       "frontendId": "27",
@@ -303,6 +303,26 @@
           "path": "1200-minimum-absolute-difference/1200-minimum-absolute-difference.cpp",
           "sha": "c26026a7bb12be5169a932683279ef8808295319",
           "lastSyncedAt": "2026-10-08T04:33:20.041Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1292",
+      "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+      "slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+      "problemName": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+      "folderPath": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+      "readmePath": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp",
+          "path": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp",
+          "sha": "184a6778a5cee2b98741559bea16cf95d22aa9a4",
+          "lastSyncedAt": "2026-10-08T04:35:09.278Z"
         }
       ]
     },

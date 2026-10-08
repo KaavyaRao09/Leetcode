@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:06:04.389Z",
+  "updatedAt": "2026-10-08T04:06:15.604Z",
   "problems": [
     {
       "frontendId": "27",
@@ -283,6 +283,26 @@
           "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.cpp",
           "sha": "15ef00aec2b03510d834fae9c4192ad48ab6da95",
           "lastSyncedAt": "2026-10-08T04:06:04.389Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2196",
+      "title": "Create Binary Tree From Descriptions",
+      "slug": "create-binary-tree-from-descriptions",
+      "problemName": "2196-create-binary-tree-from-descriptions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+      "folderPath": "2196-create-binary-tree-from-descriptions/",
+      "readmePath": "2196-create-binary-tree-from-descriptions/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2196-create-binary-tree-from-descriptions.cpp",
+          "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.cpp",
+          "sha": "c35235174717afbe7a8e328aa8741a5b6f824ab0",
+          "lastSyncedAt": "2026-10-08T04:06:15.604Z"
         }
       ]
     },

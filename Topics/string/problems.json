@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:26:50.807Z",
+  "updatedAt": "2026-10-08T04:27:24.284Z",
   "problems": [
     {
       "frontendId": "657",
@@ -123,6 +123,26 @@
           "path": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.cpp",
           "sha": "89fff5a3ab18d2937433c3e490747eb981eed45f",
           "lastSyncedAt": "2026-10-08T04:23:41.252Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1461",
+      "title": "Check If a String Contains All Binary Codes of Size K",
+      "slug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+      "problemName": "1461-check-if-a-string-contains-all-binary-codes-of-size-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
+      "folderPath": "1461-check-if-a-string-contains-all-binary-codes-of-size-k/",
+      "readmePath": "1461-check-if-a-string-contains-all-binary-codes-of-size-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp",
+          "path": "1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp",
+          "sha": "cb1fc7759cdeb2093373051b6d010b85ab043f4c",
+          "lastSyncedAt": "2026-10-08T04:27:24.284Z"
         }
       ]
     },

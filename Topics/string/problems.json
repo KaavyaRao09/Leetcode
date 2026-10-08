@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:25:54.146Z",
+  "updatedAt": "2026-10-08T04:26:17.417Z",
   "problems": [
     {
       "frontendId": "657",
@@ -123,6 +123,26 @@
           "path": "1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.cpp",
           "sha": "7e4f95682e226940d41cc8534ab4a67a24293ef8",
           "lastSyncedAt": "2026-10-08T04:25:54.146Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1689",
+      "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+      "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+      "problemName": "1689-partitioning-into-minimum-number-of-deci-binary-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+      "folderPath": "1689-partitioning-into-minimum-number-of-deci-binary-numbers/",
+      "readmePath": "1689-partitioning-into-minimum-number-of-deci-binary-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1689-partitioning-into-minimum-number-of-deci-binary-numbers.cpp",
+          "path": "1689-partitioning-into-minimum-number-of-deci-binary-numbers/1689-partitioning-into-minimum-number-of-deci-binary-numbers.cpp",
+          "sha": "0837a4e3eda4d435e1d9050de89ef99408469edc",
+          "lastSyncedAt": "2026-10-08T04:26:17.417Z"
         }
       ]
     },

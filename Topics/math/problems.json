@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:50:24.682Z",
+  "updatedAt": "2026-10-08T04:52:30.972Z",
   "problems": [
     {
       "frontendId": "48",
@@ -543,6 +543,26 @@
           "path": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three/3190-find-minimum-operations-to-make-all-elements-divisible-by-three.cpp",
           "sha": "fc1ddd3de100346adc78096dd3e9f2dea77fbc43",
           "lastSyncedAt": "2026-10-08T04:47:36.606Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3289",
+      "title": "The Two Sneaky Numbers of Digitville",
+      "slug": "the-two-sneaky-numbers-of-digitville",
+      "problemName": "3289-the-two-sneaky-numbers-of-digitville",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
+      "folderPath": "3289-the-two-sneaky-numbers-of-digitville/",
+      "readmePath": "3289-the-two-sneaky-numbers-of-digitville/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3289-the-two-sneaky-numbers-of-digitville.cpp",
+          "path": "3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.cpp",
+          "sha": "4edfaa5d54750a2700fa1390b4e46550fea1d547",
+          "lastSyncedAt": "2026-10-08T04:52:30.972Z"
         }
       ]
     },

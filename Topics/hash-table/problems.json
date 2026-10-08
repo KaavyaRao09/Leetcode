@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:49:58.506Z",
+  "updatedAt": "2026-10-08T04:51:03.829Z",
   "problems": [
     {
       "frontendId": "105",
@@ -803,6 +803,26 @@
           "path": "3606-coupon-code-validator/3606-coupon-code-validator.cpp",
           "sha": "ed14087160bacc0639a244142ea95d4748b949aa",
           "lastSyncedAt": "2026-10-08T04:43:08.468Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3607",
+      "title": "Power Grid Maintenance",
+      "slug": "power-grid-maintenance",
+      "problemName": "3607-power-grid-maintenance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/power-grid-maintenance/",
+      "folderPath": "3607-power-grid-maintenance/",
+      "readmePath": "3607-power-grid-maintenance/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3607-power-grid-maintenance.cpp",
+          "path": "3607-power-grid-maintenance/3607-power-grid-maintenance.cpp",
+          "sha": "de319dfbcb3349e654b81f02399d530dde3def4c",
+          "lastSyncedAt": "2026-10-08T04:51:03.829Z"
         }
       ]
     },

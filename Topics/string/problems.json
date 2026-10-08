@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:47:46.893Z",
+  "updatedAt": "2026-10-08T04:48:42.025Z",
   "problems": [
     {
       "frontendId": "67",
@@ -303,6 +303,26 @@
           "path": "1461-check-if-a-string-contains-all-binary-codes-of-size-k/1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp",
           "sha": "cb1fc7759cdeb2093373051b6d010b85ab043f4c",
           "lastSyncedAt": "2026-10-08T04:27:24.284Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1513",
+      "title": "Number of Substrings With Only 1s",
+      "slug": "number-of-substrings-with-only-1s",
+      "problemName": "1513-number-of-substrings-with-only-1s",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-with-only-1s/",
+      "folderPath": "1513-number-of-substrings-with-only-1s/",
+      "readmePath": "1513-number-of-substrings-with-only-1s/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1513-number-of-substrings-with-only-1s.cpp",
+          "path": "1513-number-of-substrings-with-only-1s/1513-number-of-substrings-with-only-1s.cpp",
+          "sha": "c0e1a7feab5f122d03631f01e94f9effdd4ed3f0",
+          "lastSyncedAt": "2026-10-08T04:48:42.025Z"
         }
       ]
     },

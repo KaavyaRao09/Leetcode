@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:17:09.054Z",
+  "updatedAt": "2026-10-08T04:17:17.643Z",
   "problems": [
     {
       "frontendId": "27",
@@ -743,6 +743,26 @@
           "path": "2452-words-within-two-edits-of-dictionary/2452-words-within-two-edits-of-dictionary.cpp",
           "sha": "2de4db7545a3b08e7a1906e6efed2037537e78a3",
           "lastSyncedAt": "2026-10-08T04:15:45.465Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2463",
+      "title": "Minimum Total Distance Traveled",
+      "slug": "minimum-total-distance-traveled",
+      "problemName": "2463-minimum-total-distance-traveled",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-total-distance-traveled/",
+      "folderPath": "2463-minimum-total-distance-traveled/",
+      "readmePath": "2463-minimum-total-distance-traveled/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2463-minimum-total-distance-traveled.cpp",
+          "path": "2463-minimum-total-distance-traveled/2463-minimum-total-distance-traveled.cpp",
+          "sha": "52c972cde590e06fc0ceb6989488cd4a00b3887c",
+          "lastSyncedAt": "2026-10-08T04:17:17.643Z"
         }
       ]
     },

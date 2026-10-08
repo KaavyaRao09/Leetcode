@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:09:38.271Z",
+  "updatedAt": "2026-10-08T04:09:50.002Z",
   "problems": [
     {
       "frontendId": "27",
@@ -423,6 +423,26 @@
           "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.cpp",
           "sha": "3b2c24f30ab9fa474f4edbf4c5f907332fe0f822",
           "lastSyncedAt": "2026-10-08T04:06:32.012Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2657",
+      "title": "Find the Prefix Common Array of Two Arrays",
+      "slug": "find-the-prefix-common-array-of-two-arrays",
+      "problemName": "2657-find-the-prefix-common-array-of-two-arrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/",
+      "folderPath": "2657-find-the-prefix-common-array-of-two-arrays/",
+      "readmePath": "2657-find-the-prefix-common-array-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2657-find-the-prefix-common-array-of-two-arrays.cpp",
+          "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.cpp",
+          "sha": "2487b50e7591683dd046d5f57cc7a007aef699e3",
+          "lastSyncedAt": "2026-10-08T04:09:50.002Z"
         }
       ]
     },

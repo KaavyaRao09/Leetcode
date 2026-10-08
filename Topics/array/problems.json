@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:42:09.644Z",
+  "updatedAt": "2026-10-08T04:42:21.097Z",
   "problems": [
     {
       "frontendId": "27",
@@ -2243,6 +2243,26 @@
           "path": "3567-minimum-absolute-difference-in-sliding-submatrix/3567-minimum-absolute-difference-in-sliding-submatrix.cpp",
           "sha": "2ea388874a13c0b0b82bb0fd28228590610d36f3",
           "lastSyncedAt": "2026-10-08T04:22:05.208Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3573",
+      "title": "Best Time to Buy and Sell Stock V",
+      "slug": "best-time-to-buy-and-sell-stock-v",
+      "problemName": "3573-best-time-to-buy-and-sell-stock-v",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/",
+      "folderPath": "3573-best-time-to-buy-and-sell-stock-v/",
+      "readmePath": "3573-best-time-to-buy-and-sell-stock-v/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3573-best-time-to-buy-and-sell-stock-v.cpp",
+          "path": "3573-best-time-to-buy-and-sell-stock-v/3573-best-time-to-buy-and-sell-stock-v.cpp",
+          "sha": "b7d9f8af099be77e84280f36fb104112db168b55",
+          "lastSyncedAt": "2026-10-08T04:42:21.097Z"
         }
       ]
     },

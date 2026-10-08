@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-10-08T04:51:41.113Z",
+  "updatedAt": "2026-10-08T04:54:15.778Z",
   "problems": [
     {
       "frontendId": "1658",
@@ -203,6 +203,26 @@
           "path": "3321-find-x-sum-of-all-k-long-subarrays-ii/3321-find-x-sum-of-all-k-long-subarrays-ii.cpp",
           "sha": "c72aca7f2d2ce47856d7b43dc0c2108223369764",
           "lastSyncedAt": "2026-10-08T04:51:28.912Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3347",
+      "title": "Maximum Frequency of an Element After Performing Operations II",
+      "slug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+      "problemName": "3347-maximum-frequency-of-an-element-after-performing-operations-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/",
+      "folderPath": "3347-maximum-frequency-of-an-element-after-performing-operations-ii/",
+      "readmePath": "3347-maximum-frequency-of-an-element-after-performing-operations-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3347-maximum-frequency-of-an-element-after-performing-operations-ii.cpp",
+          "path": "3347-maximum-frequency-of-an-element-after-performing-operations-ii/3347-maximum-frequency-of-an-element-after-performing-operations-ii.cpp",
+          "sha": "bfdd93bb3f976cb27161743dfbe7323213bff77c",
+          "lastSyncedAt": "2026-10-08T04:54:15.778Z"
         }
       ]
     },

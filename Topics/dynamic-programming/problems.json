@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-08T04:30:39.570Z",
+  "updatedAt": "2026-10-08T04:31:21.438Z",
   "problems": [
     {
       "frontendId": "53",
@@ -363,6 +363,26 @@
           "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.cpp",
           "sha": "426ccf00cd1125784208b53bd9bcb46b418c7aea",
           "lastSyncedAt": "2026-10-08T04:05:11.456Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3640",
+      "title": "Trionic Array II",
+      "slug": "trionic-array-ii",
+      "problemName": "3640-trionic-array-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trionic-array-ii/",
+      "folderPath": "3640-trionic-array-ii/",
+      "readmePath": "3640-trionic-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3640-trionic-array-ii.cpp",
+          "path": "3640-trionic-array-ii/3640-trionic-array-ii.cpp",
+          "sha": "d24f2ccd1c4356e34efe3fd04a08b4b073eff179",
+          "lastSyncedAt": "2026-10-08T04:31:21.438Z"
         }
       ]
     },

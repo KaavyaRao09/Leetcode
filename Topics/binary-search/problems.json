@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-08T04:36:29.940Z",
+  "updatedAt": "2026-10-08T04:39:16.566Z",
   "problems": [
     {
       "frontendId": "33",
@@ -163,6 +163,26 @@
           "path": "1855-maximum-distance-between-a-pair-of-values/1855-maximum-distance-between-a-pair-of-values.cpp",
           "sha": "ebbd40bad366ec760af15c45786a620ea6cf5bef",
           "lastSyncedAt": "2026-10-08T04:16:23.757Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1970",
+      "title": "Last Day Where You Can Still Cross",
+      "slug": "last-day-where-you-can-still-cross",
+      "problemName": "1970-last-day-where-you-can-still-cross",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/last-day-where-you-can-still-cross/",
+      "folderPath": "1970-last-day-where-you-can-still-cross/",
+      "readmePath": "1970-last-day-where-you-can-still-cross/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1970-last-day-where-you-can-still-cross.cpp",
+          "path": "1970-last-day-where-you-can-still-cross/1970-last-day-where-you-can-still-cross.cpp",
+          "sha": "e245e6a1c913c3599b37d6f55f6c37f1272eeddd",
+          "lastSyncedAt": "2026-10-08T04:39:16.566Z"
         }
       ]
     },

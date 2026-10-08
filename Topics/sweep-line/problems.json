@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sweep-line",
+    "name": "Sweep Line"
+  },
+  "updatedAt": "2026-10-08T04:36:13.911Z",
+  "problems": [
+    {
+      "frontendId": "3454",
+      "title": "Separate Squares II",
+      "slug": "separate-squares-ii",
+      "problemName": "3454-separate-squares-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-squares-ii/",
+      "folderPath": "3454-separate-squares-ii/",
+      "readmePath": "3454-separate-squares-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3454-separate-squares-ii.cpp",
+          "path": "3454-separate-squares-ii/3454-separate-squares-ii.cpp",
+          "sha": "eefc0ae33da0fb248638f2fa67a3ada4c27dec25",
+          "lastSyncedAt": "2026-10-08T04:36:13.911Z"
+        }
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-10-08T04:28:26.574Z",
+  "updatedAt": "2026-10-08T04:39:47.366Z",
   "problems": [
     {
       "frontendId": "401",
@@ -23,6 +23,26 @@
           "path": "0401-binary-watch/0401-binary-watch.cpp",
           "sha": "44ff666a8060c5d47a120e6bd6a6fba47f01f012",
           "lastSyncedAt": "2026-10-08T04:28:26.574Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "756",
+      "title": "Pyramid Transition Matrix",
+      "slug": "pyramid-transition-matrix",
+      "problemName": "0756-pyramid-transition-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/pyramid-transition-matrix/",
+      "folderPath": "0756-pyramid-transition-matrix/",
+      "readmePath": "0756-pyramid-transition-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0756-pyramid-transition-matrix.cpp",
+          "path": "0756-pyramid-transition-matrix/0756-pyramid-transition-matrix.cpp",
+          "sha": "69cc0164b6e03d9a47b5442f7e8d5b60ed4cfcdb",
+          "lastSyncedAt": "2026-10-08T04:39:47.366Z"
         }
       ]
     },

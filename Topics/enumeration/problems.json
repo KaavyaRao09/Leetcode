@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-10-08T04:21:06.646Z",
+  "updatedAt": "2026-10-08T04:29:19.618Z",
   "problems": [
     {
       "frontendId": "3020",
@@ -63,6 +63,26 @@
           "path": "3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.cpp",
           "sha": "844de4b66ba4e7897c9018e299cd5e3e94a084a7",
           "lastSyncedAt": "2026-10-08T04:20:52.814Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3713",
+      "title": "Longest Balanced Substring I",
+      "slug": "longest-balanced-substring-i",
+      "problemName": "3713-longest-balanced-substring-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-substring-i/",
+      "folderPath": "3713-longest-balanced-substring-i/",
+      "readmePath": "3713-longest-balanced-substring-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3713-longest-balanced-substring-i.cpp",
+          "path": "3713-longest-balanced-substring-i/3713-longest-balanced-substring-i.cpp",
+          "sha": "3b156aea7bc8a4ec2c40e6fce0d6b8ca9634f70c",
+          "lastSyncedAt": "2026-10-08T04:29:19.618Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:13:21.186Z",
+  "updatedAt": "2026-10-08T04:13:31.716Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1023,6 +1023,26 @@
           "path": "3739-count-subarrays-with-majority-element-ii/3739-count-subarrays-with-majority-element-ii.cpp",
           "sha": "45886d69aab2fbf9a0c983fd60d7855c732defac",
           "lastSyncedAt": "2026-10-08T04:02:15.238Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3742",
+      "title": "Maximum Path Score in a Grid",
+      "slug": "maximum-path-score-in-a-grid",
+      "problemName": "3742-maximum-path-score-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-path-score-in-a-grid/",
+      "folderPath": "3742-maximum-path-score-in-a-grid/",
+      "readmePath": "3742-maximum-path-score-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3742-maximum-path-score-in-a-grid.cpp",
+          "path": "3742-maximum-path-score-in-a-grid/3742-maximum-path-score-in-a-grid.cpp",
+          "sha": "cb83dd3bca436a9ab98829f1cd50316b6d2d0fd9",
+          "lastSyncedAt": "2026-10-08T04:13:31.716Z"
         }
       ]
     },

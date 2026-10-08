@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:32:15.147Z",
+  "updatedAt": "2026-10-08T04:32:38.549Z",
   "problems": [
     {
       "frontendId": "67",
@@ -543,6 +543,26 @@
           "path": "2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.cpp",
           "sha": "8ee4e2b691945d9a7e00101bd9c4cece417d4fd4",
           "lastSyncedAt": "2026-10-08T04:20:01.717Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2976",
+      "title": "Minimum Cost to Convert String I",
+      "slug": "minimum-cost-to-convert-string-i",
+      "problemName": "2976-minimum-cost-to-convert-string-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-convert-string-i/",
+      "folderPath": "2976-minimum-cost-to-convert-string-i/",
+      "readmePath": "2976-minimum-cost-to-convert-string-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2976-minimum-cost-to-convert-string-i.cpp",
+          "path": "2976-minimum-cost-to-convert-string-i/2976-minimum-cost-to-convert-string-i.cpp",
+          "sha": "d003b4f7b94d921034c4e4e814a5d7ea697317b1",
+          "lastSyncedAt": "2026-10-08T04:32:38.549Z"
         }
       ]
     },

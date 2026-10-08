@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-08T04:48:11.735Z",
+  "updatedAt": "2026-10-08T04:54:15.778Z",
   "problems": [
     {
       "frontendId": "169",
@@ -623,6 +623,26 @@
           "path": "3075-maximize-happiness-of-selected-children/3075-maximize-happiness-of-selected-children.cpp",
           "sha": "a10d7090a49450840e4306f60f8d40fea7c85bcc",
           "lastSyncedAt": "2026-10-08T04:40:36.925Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3347",
+      "title": "Maximum Frequency of an Element After Performing Operations II",
+      "slug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+      "problemName": "3347-maximum-frequency-of-an-element-after-performing-operations-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/",
+      "folderPath": "3347-maximum-frequency-of-an-element-after-performing-operations-ii/",
+      "readmePath": "3347-maximum-frequency-of-an-element-after-performing-operations-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3347-maximum-frequency-of-an-element-after-performing-operations-ii.cpp",
+          "path": "3347-maximum-frequency-of-an-element-after-performing-operations-ii/3347-maximum-frequency-of-an-element-after-performing-operations-ii.cpp",
+          "sha": "bfdd93bb3f976cb27161743dfbe7323213bff77c",
+          "lastSyncedAt": "2026-10-08T04:54:15.778Z"
         }
       ]
     },

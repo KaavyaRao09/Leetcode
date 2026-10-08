@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:34:27.248Z",
+  "updatedAt": "2026-10-08T04:35:51.262Z",
   "problems": [
     {
       "frontendId": "105",
@@ -323,6 +323,26 @@
           "path": "2840-check-if-strings-can-be-made-equal-with-operations-ii/2840-check-if-strings-can-be-made-equal-with-operations-ii.cpp",
           "sha": "8ee4e2b691945d9a7e00101bd9c4cece417d4fd4",
           "lastSyncedAt": "2026-10-08T04:20:01.717Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2975",
+      "title": "Maximum Square Area by Removing Fences From a Field",
+      "slug": "maximum-square-area-by-removing-fences-from-a-field",
+      "problemName": "2975-maximum-square-area-by-removing-fences-from-a-field",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/",
+      "folderPath": "2975-maximum-square-area-by-removing-fences-from-a-field/",
+      "readmePath": "2975-maximum-square-area-by-removing-fences-from-a-field/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2975-maximum-square-area-by-removing-fences-from-a-field.cpp",
+          "path": "2975-maximum-square-area-by-removing-fences-from-a-field/2975-maximum-square-area-by-removing-fences-from-a-field.cpp",
+          "sha": "95193dec9759c5ea9d881452060f966f3b69027d",
+          "lastSyncedAt": "2026-10-08T04:35:51.262Z"
         }
       ]
     },

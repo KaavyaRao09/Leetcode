@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:09:59.371Z",
+  "updatedAt": "2026-10-08T04:10:12.016Z",
   "problems": [
     {
       "frontendId": "105",
@@ -63,6 +63,26 @@
           "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.cpp",
           "sha": "b2a5689e1f7722bfb719a2e4f8cff5d448a88175",
           "lastSyncedAt": "2026-10-08T04:03:15.926Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "problemName": "1345-jump-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iv/",
+      "folderPath": "1345-jump-game-iv/",
+      "readmePath": "1345-jump-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1345-jump-game-iv.cpp",
+          "path": "1345-jump-game-iv/1345-jump-game-iv.cpp",
+          "sha": "e305c6bc124edf44cb1891b9816654bcad158353",
+          "lastSyncedAt": "2026-10-08T04:10:12.016Z"
         }
       ]
     },

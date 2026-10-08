@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-10-08T04:34:27.248Z",
+  "updatedAt": "2026-10-08T04:52:19.405Z",
   "problems": [
     {
       "frontendId": "61",
@@ -63,6 +63,26 @@
           "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.cpp",
           "sha": "a91e1b02850b80c1b4b067e43996b747d75028db",
           "lastSyncedAt": "2026-10-08T04:04:43.395Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3217",
+      "title": "Delete Nodes From Linked List Present in Array",
+      "slug": "delete-nodes-from-linked-list-present-in-array",
+      "problemName": "3217-delete-nodes-from-linked-list-present-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/",
+      "folderPath": "3217-delete-nodes-from-linked-list-present-in-array/",
+      "readmePath": "3217-delete-nodes-from-linked-list-present-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3217-delete-nodes-from-linked-list-present-in-array.cpp",
+          "path": "3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.cpp",
+          "sha": "5a663716b9c32dba1241a7492f4be51e81fcbb79",
+          "lastSyncedAt": "2026-10-08T04:52:19.405Z"
         }
       ]
     },

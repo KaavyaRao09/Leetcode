@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:03:15.926Z",
+  "updatedAt": "2026-10-08T04:04:09.183Z",
   "problems": [
     {
       "frontendId": "1189",
@@ -63,6 +63,26 @@
           "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.cpp",
           "sha": "cb26e9b60bd339f171f5abf84715021c14329660",
           "lastSyncedAt": "2026-10-08T04:01:38.646Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3614",
+      "title": "Process String with Special Operations II",
+      "slug": "process-string-with-special-operations-ii",
+      "problemName": "3614-process-string-with-special-operations-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/process-string-with-special-operations-ii/",
+      "folderPath": "3614-process-string-with-special-operations-ii/",
+      "readmePath": "3614-process-string-with-special-operations-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3614-process-string-with-special-operations-ii.cpp",
+          "path": "3614-process-string-with-special-operations-ii/3614-process-string-with-special-operations-ii.cpp",
+          "sha": "a31f9a6ece236a20f7521ac5db82cfa30cc305d1",
+          "lastSyncedAt": "2026-10-08T04:04:09.183Z"
         }
       ]
     }

@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-10-08T04:33:58.869Z",
+  "updatedAt": "2026-10-08T04:34:27.248Z",
   "problems": [
     {
       "frontendId": "1878",
@@ -63,6 +63,26 @@
           "path": "3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.cpp",
           "sha": "05cce74c06fe5960322b8e7f316ac7d3c57a92c8",
           "lastSyncedAt": "2026-10-08T04:23:55.224Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3507",
+      "title": "Minimum Pair Removal to Sort Array I",
+      "slug": "minimum-pair-removal-to-sort-array-i",
+      "problemName": "3507-minimum-pair-removal-to-sort-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/",
+      "folderPath": "3507-minimum-pair-removal-to-sort-array-i/",
+      "readmePath": "3507-minimum-pair-removal-to-sort-array-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3507-minimum-pair-removal-to-sort-array-i.cpp",
+          "path": "3507-minimum-pair-removal-to-sort-array-i/3507-minimum-pair-removal-to-sort-array-i.cpp",
+          "sha": "f93e6cfaf06fec0f09e3dbb62f60ea07afc8db0a",
+          "lastSyncedAt": "2026-10-08T04:34:27.248Z"
         }
       ]
     },

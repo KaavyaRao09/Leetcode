@@ -4,7 +4,7 @@
     "slug": "ordered-set",
     "name": "Ordered Set"
   },
-  "updatedAt": "2026-10-08T04:07:53.327Z",
+  "updatedAt": "2026-10-08T04:26:36.192Z",
   "problems": [
     {
       "frontendId": "3161",
@@ -23,6 +23,26 @@
           "path": "3161-block-placement-queries/3161-block-placement-queries.cpp",
           "sha": "75626d66c16d20de8b86e572281bbb1aad1e267e",
           "lastSyncedAt": "2026-10-08T04:07:53.327Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3666",
+      "title": "Minimum Operations to Equalize Binary String",
+      "slug": "minimum-operations-to-equalize-binary-string",
+      "problemName": "3666-minimum-operations-to-equalize-binary-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/",
+      "folderPath": "3666-minimum-operations-to-equalize-binary-string/",
+      "readmePath": "3666-minimum-operations-to-equalize-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3666-minimum-operations-to-equalize-binary-string.cpp",
+          "path": "3666-minimum-operations-to-equalize-binary-string/3666-minimum-operations-to-equalize-binary-string.cpp",
+          "sha": "a378b287383aedf6c3d832ebc57689201b92fc9e",
+          "lastSyncedAt": "2026-10-08T04:26:36.192Z"
         }
       ]
     }

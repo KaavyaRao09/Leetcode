@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:23:00.513Z",
+  "updatedAt": "2026-10-08T04:23:55.224Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1263,6 +1263,26 @@
           "path": "3225-maximum-score-from-grid-operations/3225-maximum-score-from-grid-operations.cpp",
           "sha": "ae29bc9cd3537c0a7ba1d0bc17a34680aa180a52",
           "lastSyncedAt": "2026-10-08T04:13:42.631Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3296",
+      "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+      "slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+      "problemName": "3296-minimum-number-of-seconds-to-make-mountain-height-zero",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
+      "folderPath": "3296-minimum-number-of-seconds-to-make-mountain-height-zero/",
+      "readmePath": "3296-minimum-number-of-seconds-to-make-mountain-height-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3296-minimum-number-of-seconds-to-make-mountain-height-zero.cpp",
+          "path": "3296-minimum-number-of-seconds-to-make-mountain-height-zero/3296-minimum-number-of-seconds-to-make-mountain-height-zero.cpp",
+          "sha": "05cce74c06fe5960322b8e7f316ac7d3c57a92c8",
+          "lastSyncedAt": "2026-10-08T04:23:55.224Z"
         }
       ]
     },

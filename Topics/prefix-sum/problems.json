@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-08T04:03:54.047Z",
+  "updatedAt": "2026-10-08T04:06:32.012Z",
   "problems": [
     {
       "frontendId": "1658",
@@ -43,6 +43,26 @@
           "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.cpp",
           "sha": "e7cfe0865edb42c46190e4c4158910e3ef350e02",
           "lastSyncedAt": "2026-10-08T04:03:54.047Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "problemName": "2574-left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "folderPath": "2574-left-and-right-sum-differences/",
+      "readmePath": "2574-left-and-right-sum-differences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2574-left-and-right-sum-differences.cpp",
+          "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.cpp",
+          "sha": "3b2c24f30ab9fa474f4edbf4c5f907332fe0f822",
+          "lastSyncedAt": "2026-10-08T04:06:32.012Z"
         }
       ]
     },

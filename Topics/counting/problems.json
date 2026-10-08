@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-10-08T04:29:19.618Z",
+  "updatedAt": "2026-10-08T04:44:04.279Z",
   "problems": [
     {
       "frontendId": "169",
@@ -83,6 +83,26 @@
           "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.cpp",
           "sha": "62b306554695c00cfd73b14a44ecde5ed5bdcf8f",
           "lastSyncedAt": "2026-10-08T04:15:22.470Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3583",
+      "title": "Count Special Triplets",
+      "slug": "count-special-triplets",
+      "problemName": "3583-count-special-triplets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-special-triplets/",
+      "folderPath": "3583-count-special-triplets/",
+      "readmePath": "3583-count-special-triplets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3583-count-special-triplets.cpp",
+          "path": "3583-count-special-triplets/3583-count-special-triplets.cpp",
+          "sha": "a507c890dba39fa7f530d1ecc5bf222a15b7ce56",
+          "lastSyncedAt": "2026-10-08T04:44:04.279Z"
         }
       ]
     },

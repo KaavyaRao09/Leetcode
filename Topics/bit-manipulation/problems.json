@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-08T04:28:34.601Z",
+  "updatedAt": "2026-10-08T04:28:41.493Z",
   "problems": [
+    {
+      "frontendId": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "problemName": "0190-reverse-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+      "folderPath": "0190-reverse-bits/",
+      "readmePath": "0190-reverse-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0190-reverse-bits.cpp",
+          "path": "0190-reverse-bits/0190-reverse-bits.cpp",
+          "sha": "0ea147cbbfa75ec041161b2f9205b9a4e72c6af6",
+          "lastSyncedAt": "2026-10-08T04:28:41.493Z"
+        }
+      ]
+    },
     {
       "frontendId": "191",
       "title": "Number of 1 Bits",

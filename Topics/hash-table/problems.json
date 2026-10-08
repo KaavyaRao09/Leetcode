@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:09:50.002Z",
+  "updatedAt": "2026-10-08T04:09:59.371Z",
   "problems": [
     {
       "frontendId": "105",
@@ -123,6 +123,26 @@
           "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.cpp",
           "sha": "c35235174717afbe7a8e328aa8741a5b6f824ab0",
           "lastSyncedAt": "2026-10-08T04:06:15.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "2540-minimum-common-value/",
+      "readmePath": "2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2540-minimum-common-value.cpp",
+          "path": "2540-minimum-common-value/2540-minimum-common-value.cpp",
+          "sha": "d84996c286f43b9b1dc75b9612d7b2f3bcf23db0",
+          "lastSyncedAt": "2026-10-08T04:09:59.371Z"
         }
       ]
     },

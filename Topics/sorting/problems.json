@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-08T04:36:03.638Z",
+  "updatedAt": "2026-10-08T04:40:12.249Z",
   "problems": [
     {
       "frontendId": "169",
@@ -323,6 +323,26 @@
           "path": "2144-minimum-cost-of-buying-candies-with-discount/2144-minimum-cost-of-buying-candies-with-discount.cpp",
           "sha": "2fb3add1936955081623169d31b718af50510403",
           "lastSyncedAt": "2026-10-08T04:07:31.016Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2402",
+      "title": "Meeting Rooms III",
+      "slug": "meeting-rooms-iii",
+      "problemName": "2402-meeting-rooms-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/meeting-rooms-iii/",
+      "folderPath": "2402-meeting-rooms-iii/",
+      "readmePath": "2402-meeting-rooms-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2402-meeting-rooms-iii.cpp",
+          "path": "2402-meeting-rooms-iii/2402-meeting-rooms-iii.cpp",
+          "sha": "3d6f9e40d1d02c75ec75d39424e0017f05420346",
+          "lastSyncedAt": "2026-10-08T04:40:12.249Z"
         }
       ]
     },

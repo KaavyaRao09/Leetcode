@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-10-08T04:36:51.532Z",
+  "updatedAt": "2026-10-08T04:38:25.372Z",
   "problems": [
     {
       "frontendId": "48",
@@ -283,6 +283,26 @@
           "path": "1914-cyclically-rotating-a-grid/1914-cyclically-rotating-a-grid.cpp",
           "sha": "5d3cd553da6870f491c8de830556e72d8553623f",
           "lastSyncedAt": "2026-10-08T04:11:45.476Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1975",
+      "title": "Maximum Matrix Sum",
+      "slug": "maximum-matrix-sum",
+      "problemName": "1975-maximum-matrix-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-matrix-sum/",
+      "folderPath": "1975-maximum-matrix-sum/",
+      "readmePath": "1975-maximum-matrix-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1975-maximum-matrix-sum.cpp",
+          "path": "1975-maximum-matrix-sum/1975-maximum-matrix-sum.cpp",
+          "sha": "fbf8e8a827b73ec31cf634871fc4e04a91602530",
+          "lastSyncedAt": "2026-10-08T04:38:25.372Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:21:30.534Z",
+  "updatedAt": "2026-10-08T04:21:42.574Z",
   "problems": [
     {
       "frontendId": "27",
@@ -623,6 +623,26 @@
           "path": "1861-rotating-the-box/1861-rotating-the-box.cpp",
           "sha": "0eb378128007cffc9a739f2ec510fdcee2576bbf",
           "lastSyncedAt": "2026-10-08T04:12:29.624Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1886",
+      "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+      "slug": "determine-whether-matrix-can-be-obtained-by-rotation",
+      "problemName": "1886-determine-whether-matrix-can-be-obtained-by-rotation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
+      "folderPath": "1886-determine-whether-matrix-can-be-obtained-by-rotation/",
+      "readmePath": "1886-determine-whether-matrix-can-be-obtained-by-rotation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1886-determine-whether-matrix-can-be-obtained-by-rotation.cpp",
+          "path": "1886-determine-whether-matrix-can-be-obtained-by-rotation/1886-determine-whether-matrix-can-be-obtained-by-rotation.cpp",
+          "sha": "b7f4b038376539347a28ba427d7ff7ec940cc3bb",
+          "lastSyncedAt": "2026-10-08T04:21:42.574Z"
         }
       ]
     },

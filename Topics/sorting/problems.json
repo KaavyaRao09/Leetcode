@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-08T04:10:54.423Z",
+  "updatedAt": "2026-10-08T04:11:15.572Z",
   "problems": [
     {
       "frontendId": "169",
@@ -43,6 +43,26 @@
           "path": "1340-jump-game-v/1340-jump-game-v.cpp",
           "sha": "361a3adccfb77e62ec3949397d115a4beccf8d14",
           "lastSyncedAt": "2026-10-08T04:09:08.974Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1665",
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "slug": "minimum-initial-energy-to-finish-tasks",
+      "problemName": "1665-minimum-initial-energy-to-finish-tasks",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/",
+      "folderPath": "1665-minimum-initial-energy-to-finish-tasks/",
+      "readmePath": "1665-minimum-initial-energy-to-finish-tasks/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1665-minimum-initial-energy-to-finish-tasks.cpp",
+          "path": "1665-minimum-initial-energy-to-finish-tasks/1665-minimum-initial-energy-to-finish-tasks.cpp",
+          "sha": "8a720f164273e09e031df9871f7bec50234dad32",
+          "lastSyncedAt": "2026-10-08T04:11:15.572Z"
         }
       ]
     },

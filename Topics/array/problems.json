@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:18:40.710Z",
+  "updatedAt": "2026-10-08T04:19:10.741Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1263,6 +1263,26 @@
           "path": "3660-jump-game-ix/3660-jump-game-ix.cpp",
           "sha": "47a035822e87c294c981d40ec2f318ead8fb9c6a",
           "lastSyncedAt": "2026-10-08T04:12:17.552Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3661",
+      "title": "Maximum Walls Destroyed by Robots",
+      "slug": "maximum-walls-destroyed-by-robots",
+      "problemName": "3661-maximum-walls-destroyed-by-robots",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-walls-destroyed-by-robots/",
+      "folderPath": "3661-maximum-walls-destroyed-by-robots/",
+      "readmePath": "3661-maximum-walls-destroyed-by-robots/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3661-maximum-walls-destroyed-by-robots.cpp",
+          "path": "3661-maximum-walls-destroyed-by-robots/3661-maximum-walls-destroyed-by-robots.cpp",
+          "sha": "6ce3d21cb453b64adc628c662e1ef1f656aa00da",
+          "lastSyncedAt": "2026-10-08T04:19:10.741Z"
         }
       ]
     },

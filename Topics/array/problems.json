@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:29:33.935Z",
+  "updatedAt": "2026-10-08T04:29:50.529Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1723,6 +1723,26 @@
           "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.cpp",
           "sha": "7cf2c1bd4ed44145f794460973fc93cfcbffe8b8",
           "lastSyncedAt": "2026-10-08T04:05:41.339Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3719",
+      "title": "Longest Balanced Subarray I",
+      "slug": "longest-balanced-subarray-i",
+      "problemName": "3719-longest-balanced-subarray-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-balanced-subarray-i/",
+      "folderPath": "3719-longest-balanced-subarray-i/",
+      "readmePath": "3719-longest-balanced-subarray-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3719-longest-balanced-subarray-i.cpp",
+          "path": "3719-longest-balanced-subarray-i/3719-longest-balanced-subarray-i.cpp",
+          "sha": "0178a5997aba10e5f5863e9136fce2cfbe310f46",
+          "lastSyncedAt": "2026-10-08T04:29:50.529Z"
         }
       ]
     },

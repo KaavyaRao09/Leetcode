@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:25:34.266Z",
+  "updatedAt": "2026-10-08T04:25:40.334Z",
   "problems": [
     {
       "frontendId": "657",
@@ -103,6 +103,26 @@
           "path": "1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.cpp",
           "sha": "89fff5a3ab18d2937433c3e490747eb981eed45f",
           "lastSyncedAt": "2026-10-08T04:23:41.252Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1758",
+      "title": "Minimum Changes To Make Alternating Binary String",
+      "slug": "minimum-changes-to-make-alternating-binary-string",
+      "problemName": "1758-minimum-changes-to-make-alternating-binary-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/",
+      "folderPath": "1758-minimum-changes-to-make-alternating-binary-string/",
+      "readmePath": "1758-minimum-changes-to-make-alternating-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1758-minimum-changes-to-make-alternating-binary-string.cpp",
+          "path": "1758-minimum-changes-to-make-alternating-binary-string/1758-minimum-changes-to-make-alternating-binary-string.cpp",
+          "sha": "46373d10ff9ce155d5685a6e9595bc227bac7c02",
+          "lastSyncedAt": "2026-10-08T04:25:40.334Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-08T04:00:09.392Z",
+  "updatedAt": "2026-10-08T04:00:41.751Z",
   "problems": [
     {
       "frontendId": "105",
@@ -83,6 +83,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
           "sha": "00ee1758c90b70446b9d6910d276ef8b2a6662e8",
           "lastSyncedAt": "2026-10-08T03:58:48.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3731-find-missing-elements.py",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.py",
+          "sha": "2fc3e81ceb0999f12fdae83df5ffc02f3eb69d93",
+          "lastSyncedAt": "2026-10-08T04:00:41.751Z"
         }
       ]
     }

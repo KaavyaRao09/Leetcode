@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-08T04:26:50.807Z",
+  "updatedAt": "2026-10-08T04:26:59.902Z",
   "problems": [
     {
       "frontendId": "191",
@@ -43,6 +43,26 @@
           "path": "1009-complement-of-base-10-integer/1009-complement-of-base-10-integer.cpp",
           "sha": "044b2259b025cdfe6e6f75af992c13412ef82c5b",
           "lastSyncedAt": "2026-10-08T04:24:41.957Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1356",
+      "title": "Sort Integers by The Number of 1 Bits",
+      "slug": "sort-integers-by-the-number-of-1-bits",
+      "problemName": "1356-sort-integers-by-the-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+      "folderPath": "1356-sort-integers-by-the-number-of-1-bits/",
+      "readmePath": "1356-sort-integers-by-the-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1356-sort-integers-by-the-number-of-1-bits.cpp",
+          "path": "1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.cpp",
+          "sha": "6c3d09dced91fefa2aae8d47a6c9d618b0436598",
+          "lastSyncedAt": "2026-10-08T04:26:59.902Z"
         }
       ]
     },

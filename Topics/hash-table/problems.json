@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-08T04:53:29.184Z",
+  "updatedAt": "2026-10-08T04:53:49.116Z",
   "problems": [
     {
       "frontendId": "105",
@@ -363,6 +363,26 @@
           "path": "2043-simple-bank-system/2043-simple-bank-system.cpp",
           "sha": "f29586dbcf611b106c4564fa9d8e82d3f529a903",
           "lastSyncedAt": "2026-10-08T04:53:29.184Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2048",
+      "title": "Next Greater Numerically Balanced Number",
+      "slug": "next-greater-numerically-balanced-number",
+      "problemName": "2048-next-greater-numerically-balanced-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-numerically-balanced-number/",
+      "folderPath": "2048-next-greater-numerically-balanced-number/",
+      "readmePath": "2048-next-greater-numerically-balanced-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2048-next-greater-numerically-balanced-number.cpp",
+          "path": "2048-next-greater-numerically-balanced-number/2048-next-greater-numerically-balanced-number.cpp",
+          "sha": "e923c0a3bbf3b9bc143715a58752a9c70e62ce46",
+          "lastSyncedAt": "2026-10-08T04:53:49.116Z"
         }
       ]
     },

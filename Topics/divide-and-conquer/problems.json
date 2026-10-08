@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-10-08T04:29:50.529Z",
+  "updatedAt": "2026-10-08T04:30:06.254Z",
   "problems": [
     {
       "frontendId": "53",
@@ -143,6 +143,26 @@
           "path": "0761-special-binary-string/0761-special-binary-string.cpp",
           "sha": "50b49fbe71745fa53bca6a59ee5b52c14269c6bb",
           "lastSyncedAt": "2026-10-08T04:28:06.625Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1382",
+      "title": "Balance a Binary Search Tree",
+      "slug": "balance-a-binary-search-tree",
+      "problemName": "1382-balance-a-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+      "folderPath": "1382-balance-a-binary-search-tree/",
+      "readmePath": "1382-balance-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1382-balance-a-binary-search-tree.cpp",
+          "path": "1382-balance-a-binary-search-tree/1382-balance-a-binary-search-tree.cpp",
+          "sha": "9258d0f6c0070c4ca2dc2e7886e01466a1eb8691",
+          "lastSyncedAt": "2026-10-08T04:30:06.254Z"
         }
       ]
     },

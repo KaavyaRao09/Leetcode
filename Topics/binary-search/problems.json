@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-08T04:15:03.172Z",
+  "updatedAt": "2026-10-08T04:16:23.757Z",
   "problems": [
     {
       "frontendId": "33",
@@ -103,6 +103,26 @@
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
           "sha": "00ee1758c90b70446b9d6910d276ef8b2a6662e8",
           "lastSyncedAt": "2026-10-08T03:58:48.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1855",
+      "title": "Maximum Distance Between a Pair of Values",
+      "slug": "maximum-distance-between-a-pair-of-values",
+      "problemName": "1855-maximum-distance-between-a-pair-of-values",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/",
+      "folderPath": "1855-maximum-distance-between-a-pair-of-values/",
+      "readmePath": "1855-maximum-distance-between-a-pair-of-values/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1855-maximum-distance-between-a-pair-of-values.cpp",
+          "path": "1855-maximum-distance-between-a-pair-of-values/1855-maximum-distance-between-a-pair-of-values.cpp",
+          "sha": "ebbd40bad366ec760af15c45786a620ea6cf5bef",
+          "lastSyncedAt": "2026-10-08T04:16:23.757Z"
         }
       ]
     },

@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-08T04:53:43.284Z",
+  "updatedAt": "2026-10-08T04:53:49.116Z",
   "problems": [
     {
       "frontendId": "48",
@@ -423,6 +423,26 @@
           "path": "2033-minimum-operations-to-make-a-uni-value-grid/2033-minimum-operations-to-make-a-uni-value-grid.cpp",
           "sha": "fc49a116e7685600185e2fb5732b263f8c227e2d",
           "lastSyncedAt": "2026-10-08T04:14:02.742Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2048",
+      "title": "Next Greater Numerically Balanced Number",
+      "slug": "next-greater-numerically-balanced-number",
+      "problemName": "2048-next-greater-numerically-balanced-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-numerically-balanced-number/",
+      "folderPath": "2048-next-greater-numerically-balanced-number/",
+      "readmePath": "2048-next-greater-numerically-balanced-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2048-next-greater-numerically-balanced-number.cpp",
+          "path": "2048-next-greater-numerically-balanced-number/2048-next-greater-numerically-balanced-number.cpp",
+          "sha": "e923c0a3bbf3b9bc143715a58752a9c70e62ce46",
+          "lastSyncedAt": "2026-10-08T04:53:49.116Z"
         }
       ]
     },

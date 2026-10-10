@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:47:54.410Z",
+  "updatedAt": "2026-10-10T15:48:00.721Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1703,7 +1703,7 @@
           "filename": "2515-shortest-distance-to-target-string-in-a-circular-array.cpp",
           "path": "2515-shortest-distance-to-target-string-in-a-circular-array/2515-shortest-distance-to-target-string-in-a-circular-array.cpp",
           "sha": "e9197b71620b04c1fdc5897fa79cc89b377fc299",
-          "lastSyncedAt": "2026-10-08T04:17:09.054Z"
+          "lastSyncedAt": "2026-10-10T15:48:00.721Z"
         }
       ]
     },

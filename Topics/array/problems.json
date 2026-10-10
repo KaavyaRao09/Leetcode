@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:42:11.685Z",
+  "updatedAt": "2026-10-10T15:42:20.134Z",
   "problems": [
     {
       "frontendId": "27",
@@ -3343,7 +3343,7 @@
           "filename": "3689-maximum-total-subarray-value-i.cpp",
           "path": "3689-maximum-total-subarray-value-i/3689-maximum-total-subarray-value-i.cpp",
           "sha": "b9bd865f426056ddb770fc1a05c6e9d8a2b3192f",
-          "lastSyncedAt": "2026-10-08T04:05:55.976Z"
+          "lastSyncedAt": "2026-10-10T15:42:20.134Z"
         }
       ]
     },

@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "divide-and-conquer",
-    "name": "Divide and Conquer"
+    "name": "Divide and Conquer",
+    "tagId": "12"
   },
-  "updatedAt": "2026-10-08T04:30:06.254Z",
+  "updatedAt": "2026-10-10T15:38:55.476Z",
   "problems": [
     {
       "frontendId": "53",
@@ -42,7 +43,7 @@
           "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
           "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
           "sha": "b05838ac187b33479c604485c283a79300a5451b",
-          "lastSyncedAt": "2026-10-08T03:59:13.919Z"
+          "lastSyncedAt": "2026-10-10T15:38:55.476Z"
         }
       ]
     },

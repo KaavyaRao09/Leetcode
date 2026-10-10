@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:45:21.697Z",
+  "updatedAt": "2026-10-10T15:45:26.109Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1923,7 +1923,7 @@
           "filename": "2770-maximum-number-of-jumps-to-reach-the-last-index.cpp",
           "path": "2770-maximum-number-of-jumps-to-reach-the-last-index/2770-maximum-number-of-jumps-to-reach-the-last-index.cpp",
           "sha": "090b64e07a9896b77079850762fef9e765ea8de7",
-          "lastSyncedAt": "2026-10-08T04:11:35.133Z"
+          "lastSyncedAt": "2026-10-10T15:45:26.109Z"
         }
       ]
     },

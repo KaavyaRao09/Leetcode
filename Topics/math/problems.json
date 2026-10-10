@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T15:47:03.688Z",
+  "updatedAt": "2026-10-10T15:47:47.179Z",
   "problems": [
     {
       "frontendId": "48",
@@ -1023,7 +1023,7 @@
           "filename": "3783-mirror-distance-of-an-integer.cpp",
           "path": "3783-mirror-distance-of-an-integer/3783-mirror-distance-of-an-integer.cpp",
           "sha": "434508f6a335287c8e1bb8bbc2e06d23afdc5765",
-          "lastSyncedAt": "2026-10-08T04:16:36.662Z"
+          "lastSyncedAt": "2026-10-10T15:47:47.179Z"
         }
       ]
     }

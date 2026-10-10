@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "enumeration",
-    "name": "Enumeration"
+    "name": "Enumeration",
+    "tagId": "61066"
   },
-  "updatedAt": "2026-10-08T04:53:49.116Z",
+  "updatedAt": "2026-10-10T15:40:22.774Z",
   "problems": [
     {
       "frontendId": "1925",
@@ -102,7 +103,7 @@
           "filename": "3020-find-the-maximum-number-of-elements-in-subset.cpp",
           "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.cpp",
           "sha": "d0472f7ff6de8af40ace5b1bee7229246f77a36b",
-          "lastSyncedAt": "2026-10-08T04:01:59.992Z"
+          "lastSyncedAt": "2026-10-10T15:40:22.774Z"
         }
       ]
     },

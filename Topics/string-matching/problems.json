@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string-matching",
-    "name": "String Matching"
+    "name": "String Matching",
+    "tagId": "61052"
   },
-  "updatedAt": "2026-10-08T04:19:51.332Z",
+  "updatedAt": "2026-10-10T15:46:09.337Z",
   "problems": [
     {
       "frontendId": "796",
@@ -22,7 +23,7 @@
           "filename": "0796-rotate-string.cpp",
           "path": "0796-rotate-string/0796-rotate-string.cpp",
           "sha": "dac2b869e5705dd0ee8f08947bb972ada0d030aa",
-          "lastSyncedAt": "2026-10-08T04:13:01.696Z"
+          "lastSyncedAt": "2026-10-10T15:46:09.337Z"
         }
       ]
     },

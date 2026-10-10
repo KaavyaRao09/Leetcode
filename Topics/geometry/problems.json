@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "geometry",
-    "name": "Geometry"
+    "name": "Geometry",
+    "tagId": "38"
   },
-  "updatedAt": "2026-10-08T04:45:35.703Z",
+  "updatedAt": "2026-10-10T15:47:03.688Z",
   "problems": [
     {
       "frontendId": "1266",
@@ -62,7 +63,7 @@
           "filename": "3464-maximize-the-distance-between-points-on-a-square.cpp",
           "path": "3464-maximize-the-distance-between-points-on-a-square/3464-maximize-the-distance-between-points-on-a-square.cpp",
           "sha": "dfc6ae0b296583e0120e3d8cb6b9e38ac53e69c3",
-          "lastSyncedAt": "2026-10-08T04:15:03.172Z"
+          "lastSyncedAt": "2026-10-10T15:47:03.688Z"
         }
       ]
     },

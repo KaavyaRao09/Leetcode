@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-10T15:42:45.609Z",
+  "updatedAt": "2026-10-10T15:43:53.953Z",
   "problems": [
     {
       "frontendId": "53",
@@ -383,7 +383,7 @@
           "filename": "1871-jump-game-vii.cpp",
           "path": "1871-jump-game-vii/1871-jump-game-vii.cpp",
           "sha": "b477fb4e95086ea51bee94c51be752ea26a6e43f",
-          "lastSyncedAt": "2026-10-08T04:08:54.629Z"
+          "lastSyncedAt": "2026-10-10T15:43:53.953Z"
         }
       ]
     },

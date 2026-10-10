@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-10T15:40:53.480Z",
+  "updatedAt": "2026-10-10T15:40:57.269Z",
   "problems": [
     {
       "frontendId": "53",
@@ -823,7 +823,7 @@
           "filename": "3699-number-of-zigzag-arrays-i.cpp",
           "path": "3699-number-of-zigzag-arrays-i/3699-number-of-zigzag-arrays-i.cpp",
           "sha": "a9f803e2204a1065e95bfa6e2d6a3b6e43d95586",
-          "lastSyncedAt": "2026-10-08T04:03:06.812Z"
+          "lastSyncedAt": "2026-10-10T15:40:57.269Z"
         }
       ]
     },

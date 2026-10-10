@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:38:41.457Z",
+  "updatedAt": "2026-10-10T15:38:55.476Z",
   "problems": [
     {
       "frontendId": "27",
@@ -163,7 +163,7 @@
           "filename": "0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
           "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.py",
           "sha": "b05838ac187b33479c604485c283a79300a5451b",
-          "lastSyncedAt": "2026-10-08T03:59:13.919Z"
+          "lastSyncedAt": "2026-10-10T15:38:55.476Z"
         }
       ]
     },

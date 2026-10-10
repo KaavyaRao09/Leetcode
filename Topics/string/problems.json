@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T15:43:45.424Z",
+  "updatedAt": "2026-10-10T15:43:50.164Z",
   "problems": [
     {
       "frontendId": "67",
@@ -903,7 +903,7 @@
           "filename": "3120-count-the-number-of-special-characters-i.cpp",
           "path": "3120-count-the-number-of-special-characters-i/3120-count-the-number-of-special-characters-i.cpp",
           "sha": "0d9db05ae3588df9176d607e88ab0bcb5e18bead",
-          "lastSyncedAt": "2026-10-08T04:08:45.573Z"
+          "lastSyncedAt": "2026-10-10T15:43:50.164Z"
         }
       ]
     },

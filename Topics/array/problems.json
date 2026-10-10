@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:44:01.256Z",
+  "updatedAt": "2026-10-10T15:44:08.007Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1023,7 +1023,7 @@
           "filename": "1752-check-if-array-is-sorted-and-rotated.cpp",
           "path": "1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.cpp",
           "sha": "65064a4e8f28abc62700206236b65fcca3ca1a92",
-          "lastSyncedAt": "2026-10-08T04:09:20.800Z"
+          "lastSyncedAt": "2026-10-10T15:44:08.007Z"
         }
       ]
     },

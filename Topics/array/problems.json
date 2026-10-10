@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:40:09.598Z",
+  "updatedAt": "2026-10-10T15:40:14.994Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1083,7 +1083,7 @@
           "filename": "1846-maximum-element-after-decreasing-and-rearranging.cpp",
           "path": "1846-maximum-element-after-decreasing-and-rearranging/1846-maximum-element-after-decreasing-and-rearranging.cpp",
           "sha": "3f9201bce18fdd1c9c7206757a82ca903a73d2b8",
-          "lastSyncedAt": "2026-10-08T04:01:48.092Z"
+          "lastSyncedAt": "2026-10-10T15:40:14.994Z"
         }
       ]
     },

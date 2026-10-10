@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-10T15:38:55.476Z",
+  "updatedAt": "2026-10-10T15:39:23.201Z",
   "problems": [
     {
       "frontendId": "105",
@@ -43,7 +43,7 @@
           "filename": "0108-convert-sorted-array-to-binary-search-tree.py",
           "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.py",
           "sha": "2fc9bad3debfb7a9f592f23bc5c1b2e0f61a44ad",
-          "lastSyncedAt": "2026-10-08T04:00:09.392Z"
+          "lastSyncedAt": "2026-10-10T15:39:23.201Z"
         }
       ]
     },

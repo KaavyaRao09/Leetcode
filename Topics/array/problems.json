@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:47:49.424Z",
+  "updatedAt": "2026-10-10T15:47:54.410Z",
   "problems": [
     {
       "frontendId": "27",
@@ -2703,7 +2703,7 @@
           "filename": "3488-closest-equal-element-queries.cpp",
           "path": "3488-closest-equal-element-queries/3488-closest-equal-element-queries.cpp",
           "sha": "1e03ce5d241a4c1a2a3ed271d3cd9e95bddf5e4a",
-          "lastSyncedAt": "2026-10-08T04:16:56.064Z"
+          "lastSyncedAt": "2026-10-10T15:47:54.410Z"
         }
       ]
     },

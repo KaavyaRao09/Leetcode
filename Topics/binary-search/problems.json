@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-10T15:39:59.523Z",
+  "updatedAt": "2026-10-10T15:42:50.955Z",
   "problems": [
     {
       "frontendId": "33",
@@ -503,7 +503,7 @@
           "filename": "3635-earliest-finish-time-for-land-and-water-rides-ii.cpp",
           "path": "3635-earliest-finish-time-for-land-and-water-rides-ii/3635-earliest-finish-time-for-land-and-water-rides-ii.cpp",
           "sha": "a51828cc20deb4119695ef8d983f930bca22f3b9",
-          "lastSyncedAt": "2026-10-08T04:06:59.469Z"
+          "lastSyncedAt": "2026-10-10T15:42:50.955Z"
         }
       ]
     },

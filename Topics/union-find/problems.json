@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "union-find",
-    "name": "Union-Find"
+    "name": "Union-Find",
+    "tagId": "23"
   },
-  "updatedAt": "2026-10-08T04:51:03.829Z",
+  "updatedAt": "2026-10-10T15:46:46.100Z",
   "problems": [
     {
       "frontendId": "1391",
@@ -22,7 +23,7 @@
           "filename": "1391-check-if-there-is-a-valid-path-in-a-grid.cpp",
           "path": "1391-check-if-there-is-a-valid-path-in-a-grid/1391-check-if-there-is-a-valid-path-in-a-grid.cpp",
           "sha": "48d7800cdb761c81d679048738a1cdf205228753",
-          "lastSyncedAt": "2026-10-08T04:14:18.175Z"
+          "lastSyncedAt": "2026-10-10T15:46:46.100Z"
         }
       ]
     },

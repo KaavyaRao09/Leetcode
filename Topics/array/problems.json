@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:44:58.305Z",
+  "updatedAt": "2026-10-10T15:45:02.520Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1943,7 +1943,7 @@
           "filename": "2784-check-if-array-is-good.cpp",
           "path": "2784-check-if-array-is-good/2784-check-if-array-is-good.cpp",
           "sha": "7dee474ec58d855f7591bd13ecfb4c0db94a7d54",
-          "lastSyncedAt": "2026-10-08T04:10:54.423Z"
+          "lastSyncedAt": "2026-10-10T15:45:02.520Z"
         }
       ]
     },

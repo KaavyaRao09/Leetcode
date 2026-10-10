@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:42:29.960Z",
+  "updatedAt": "2026-10-10T15:42:36.964Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1823,7 +1823,7 @@
           "filename": "2574-left-and-right-sum-differences.cpp",
           "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.cpp",
           "sha": "3b2c24f30ab9fa474f4edbf4c5f907332fe0f822",
-          "lastSyncedAt": "2026-10-08T04:06:32.012Z"
+          "lastSyncedAt": "2026-10-10T15:42:36.964Z"
         }
       ]
     },

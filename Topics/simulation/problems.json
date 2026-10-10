@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "simulation",
-    "name": "Simulation"
+    "name": "Simulation",
+    "tagId": "61055"
   },
-  "updatedAt": "2026-10-08T04:54:02.818Z",
+  "updatedAt": "2026-10-10T15:41:30.338Z",
   "problems": [
     {
       "frontendId": "67",
@@ -542,7 +543,7 @@
           "filename": "3614-process-string-with-special-operations-ii.cpp",
           "path": "3614-process-string-with-special-operations-ii/3614-process-string-with-special-operations-ii.cpp",
           "sha": "a31f9a6ece236a20f7521ac5db82cfa30cc305d1",
-          "lastSyncedAt": "2026-10-08T04:04:09.183Z"
+          "lastSyncedAt": "2026-10-10T15:41:30.338Z"
         }
       ]
     },

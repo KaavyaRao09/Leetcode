@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-10T15:39:11.848Z",
+  "updatedAt": "2026-10-10T15:40:42.293Z",
   "problems": [
     {
       "frontendId": "169",
@@ -183,7 +183,7 @@
           "filename": "3737-count-subarrays-with-majority-element-i.cpp",
           "path": "3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.cpp",
           "sha": "38d288317dc45f1d49c9e7626a37fe2af240fd7d",
-          "lastSyncedAt": "2026-10-08T04:02:36.937Z"
+          "lastSyncedAt": "2026-10-10T15:40:42.293Z"
         }
       ]
     }

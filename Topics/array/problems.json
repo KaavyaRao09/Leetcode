@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:43:22.145Z",
+  "updatedAt": "2026-10-10T15:43:32.172Z",
   "problems": [
     {
       "frontendId": "27",
@@ -2403,7 +2403,7 @@
           "filename": "3300-minimum-element-after-replacement-with-digit-sum.cpp",
           "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.cpp",
           "sha": "06202bfe32b903cda76775ff223d4f34dad0055a",
-          "lastSyncedAt": "2026-10-08T04:08:14.855Z"
+          "lastSyncedAt": "2026-10-10T15:43:32.172Z"
         }
       ]
     },

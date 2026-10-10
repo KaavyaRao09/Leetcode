@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "design",
-    "name": "Design"
+    "name": "Design",
+    "tagId": "25"
   },
-  "updatedAt": "2026-10-08T04:53:29.184Z",
+  "updatedAt": "2026-10-10T15:48:43.102Z",
   "problems": [
     {
       "frontendId": "1622",
@@ -62,7 +63,7 @@
           "filename": "2069-walking-robot-simulation-ii.cpp",
           "path": "2069-walking-robot-simulation-ii/2069-walking-robot-simulation-ii.cpp",
           "sha": "a1c1d38c555ef205290d4ff10af75594d3562465",
-          "lastSyncedAt": "2026-10-08T04:18:29.827Z"
+          "lastSyncedAt": "2026-10-10T15:48:43.102Z"
         }
       ]
     }

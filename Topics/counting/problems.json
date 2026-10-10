@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-10T15:41:00.809Z",
+  "updatedAt": "2026-10-10T15:47:13.131Z",
   "problems": [
     {
       "frontendId": "169",
@@ -103,7 +103,7 @@
           "filename": "2833-furthest-point-from-origin.cpp",
           "path": "2833-furthest-point-from-origin/2833-furthest-point-from-origin.cpp",
           "sha": "62b306554695c00cfd73b14a44ecde5ed5bdcf8f",
-          "lastSyncedAt": "2026-10-08T04:15:22.470Z"
+          "lastSyncedAt": "2026-10-10T15:47:13.131Z"
         }
       ]
     },

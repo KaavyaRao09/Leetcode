@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "dynamic-programming",
-    "name": "Dynamic Programming"
+    "name": "Dynamic Programming",
+    "tagId": "13"
   },
-  "updatedAt": "2026-10-08T04:52:43.063Z",
+  "updatedAt": "2026-10-10T15:39:47.810Z",
   "problems": [
     {
       "frontendId": "53",
@@ -22,7 +23,7 @@
           "filename": "0053-maximum-subarray.py",
           "path": "0053-maximum-subarray/0053-maximum-subarray.py",
           "sha": "19b2d4817db7bb75703873bbcfab54b82d4d38e4",
-          "lastSyncedAt": "2026-10-08T04:00:51.848Z"
+          "lastSyncedAt": "2026-10-10T15:39:47.810Z"
         }
       ]
     },

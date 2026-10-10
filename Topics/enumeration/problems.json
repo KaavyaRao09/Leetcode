@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-10T15:40:22.774Z",
+  "updatedAt": "2026-10-10T15:42:45.609Z",
   "problems": [
     {
       "frontendId": "1925",
@@ -203,7 +203,7 @@
           "filename": "3751-total-waviness-of-numbers-in-range-i.cpp",
           "path": "3751-total-waviness-of-numbers-in-range-i/3751-total-waviness-of-numbers-in-range-i.cpp",
           "sha": "cf43b75528aef01c6f02ab1f39e3c6a91e880ccd",
-          "lastSyncedAt": "2026-10-08T04:06:49.868Z"
+          "lastSyncedAt": "2026-10-10T15:42:45.609Z"
         }
       ]
     }

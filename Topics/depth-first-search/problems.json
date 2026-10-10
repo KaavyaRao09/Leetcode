@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "depth-first-search",
-    "name": "Depth-First Search"
+    "name": "Depth-First Search",
+    "tagId": "21"
   },
-  "updatedAt": "2026-10-08T04:51:03.829Z",
+  "updatedAt": "2026-10-10T15:41:55.043Z",
   "problems": [
     {
       "frontendId": "110",
@@ -302,7 +303,7 @@
           "filename": "3559-number-of-ways-to-assign-edge-weights-ii.cpp",
           "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.cpp",
           "sha": "426ccf00cd1125784208b53bd9bcb46b418c7aea",
-          "lastSyncedAt": "2026-10-08T04:05:11.456Z"
+          "lastSyncedAt": "2026-10-10T15:41:55.043Z"
         }
       ]
     },

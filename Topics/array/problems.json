@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:48:04.690Z",
+  "updatedAt": "2026-10-10T15:48:12.451Z",
   "problems": [
     {
       "frontendId": "27",
@@ -1103,7 +1103,7 @@
           "filename": "1848-minimum-distance-to-the-target-element.cpp",
           "path": "1848-minimum-distance-to-the-target-element/1848-minimum-distance-to-the-target-element.cpp",
           "sha": "f19e5b576ea571f2e7eb25d5b06091fa6886e73b",
-          "lastSyncedAt": "2026-10-08T04:17:29.332Z"
+          "lastSyncedAt": "2026-10-10T15:48:12.451Z"
         }
       ]
     },

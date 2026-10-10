@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:45:30.950Z",
+  "updatedAt": "2026-10-10T15:45:37.578Z",
   "problems": [
     {
       "frontendId": "27",
@@ -3083,7 +3083,7 @@
           "filename": "3629-minimum-jumps-to-reach-end-via-prime-teleportation.cpp",
           "path": "3629-minimum-jumps-to-reach-end-via-prime-teleportation/3629-minimum-jumps-to-reach-end-via-prime-teleportation.cpp",
           "sha": "03be87bfcef9df4eccf2b4e28679017c95820964",
-          "lastSyncedAt": "2026-10-08T04:11:57.392Z"
+          "lastSyncedAt": "2026-10-10T15:45:37.578Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T15:48:20.219Z",
+  "updatedAt": "2026-10-10T15:48:25.518Z",
   "problems": [
     {
       "frontendId": "27",
@@ -3483,7 +3483,7 @@
           "filename": "3740-minimum-distance-between-three-equal-elements-i.cpp",
           "path": "3740-minimum-distance-between-three-equal-elements-i/3740-minimum-distance-between-three-equal-elements-i.cpp",
           "sha": "f14f8ef61c6c7e64c91cc119f6b847ce26c57363",
-          "lastSyncedAt": "2026-10-08T04:17:54.823Z"
+          "lastSyncedAt": "2026-10-10T15:48:25.518Z"
         }
       ]
     },
